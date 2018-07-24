@@ -1,0 +1,10 @@
+<!-- Menu Home -->
+<string name="rba_menu_home_promocode">Add promo code</string>
+<string name="rba_menu_home_top_up">Top-up/transfer gift card balance</string>
+<string name="rba_menu_home_passcode">Manage passcode</string>
+<string name="rba_menu_home_support">Chat to support</string>
+<string name="rba_menu_home_pay_securely">Security Info</string>
+<string name="rba_menu_home_logout">Logout</string>
+<string name="rba_menu_home_topup_gone">Where\'s my top-up gone?</string>
+<string name="rba_menu_home_support_nero">Contact support</string>
+<string name="rba_menu_account">Manage my account</string>
