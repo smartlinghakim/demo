@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<!-- Menu Home -->
+	<string name="rba_menu_home_promocode">Ajouter code promo</string>
+	<string name="rba_menu_home_top_up">Solde carte cadeau Top-up/transfert</string>
+	<string name="rba_menu_home_passcode">Gérer le code d’accès</string>
+	<string name="rba_menu_home_support">Chat pour soutenir</string>
+	<string name="rba_menu_home_pay_securely">Info sécurité</string>
+	<string name="rba_menu_home_logout">Logout</string>
+	<string name="rba_menu_home_topup_gone">Où est passé mon rechargement ?</string>
+	<string name="rba_menu_home_support_nero">Contacter le support technique</string>
+	<string name="rba_menu_account">Gérer mon compte</string>
+</resources>

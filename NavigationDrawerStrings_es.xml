@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<!-- Menu Home -->
+	<string name="rba_menu_home_promocode">Añadir el código de promoción</string>
+	<string name="rba_menu_home_top_up">Saldo de la tarjeta top-up/transferencia de regalo</string>
+	<string name="rba_menu_home_passcode">Gestionar la clave de acceso</string>
+	<string name="rba_menu_home_support">Chat para apoyar</string>
+	<string name="rba_menu_home_pay_securely">Información de seguridad</string>
+	<string name="rba_menu_home_logout">Cierre de sesión</string>
+	<string name="rba_menu_home_topup_gone">¿Dónde se ha ido mi recarga?</string>
+	<string name="rba_menu_home_support_nero">Contactar con el soporte</string>
+	<string name="rba_menu_account">Administrar mi cuenta</string>
+</resources>
