@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<!-- Menu Home -->
+	<string name="rba_menu_home_promocode">Promo-Code hinzufügen</string>
+	<string name="rba_menu_home_top_up">Top-Up/Transfer Geschenkkarten-Guthaben</string>
+	<string name="rba_menu_home_passcode">Verwalten Passwort</string>
+	<string name="rba_menu_home_support">Chat zur Unterstützung</string>
+	<string name="rba_menu_home_pay_securely">Sicherheitsinformationen</string>
+	<string name="rba_menu_home_logout">Logout</string>
+	<string name="rba_menu_home_topup_gone">Wo ist mein Top-Up gegangen?</string>
+	<string name="rba_menu_home_support_nero">Kontaktieren Sie den support</string>
+	<string name="rba_menu_account">Mein Konto verwalten</string>
+</resources>
