@@ -1,4 +1,5 @@
 Header2:
     header_hero: "Claim compensation for your flight delay or cancellation"
     header_description: "Flight delays happen, but that doesn’t mean you have to accept them. You may be entitled to as much as $700 in compensation if your flight has been delayed, canceled or overbooked within the last three years."
+    header_hidden: "This is a test"
     
