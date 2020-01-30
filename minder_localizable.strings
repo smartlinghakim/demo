@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  Minder Demo
+
+*/
+
+
+// MARK: AppFilter
+"CloseBttn" = "Close";
+"SearchFilterTitle" = "Search Filters";
+"MinAgeFilter" = "Minimum Age";
+"MaxAgeFilter" = "Maximum Age";
+"LocationFilter" =  "Location";
+"LocationFilterOpt1" = "National";
+"FamOriginFilter" = "Family Origin";
+"FamOriginFilterOpt2" = "Any Family Origin";
+"FlavorFilter" = "Flavor";
+"FlavorFilterOpt3" = "Any Flavor";
+"EducationFilter" = "Education";
+"EductionFilterOpt2" = "Any Education";
+"CancelBttn" = "Cancel";
+"CaptureBttn" = "Capture";
+
+// MARK: AppMatch
+"MatchWith" = "Match with %@?";
