@@ -1,0 +1,63 @@
+{
+  "general" : {
+    "back" : "Parte posterior",
+    "next" : "Siguiente:",
+    "grantPermissions" : "Conceder permiso",
+    "select" : "Seleccionar/Seleccionar",
+    "skip" : "Saltar",
+    "ok" : "OK"
+  },
+  "tabbar" : {
+    "chats" : "Chats (Chats)",
+    "notifications" : "Notificaciones",
+    "settings" : "Ajustes"
+  },
+  "lead" : {
+    "salutation" : "Saludo (Salutation)",
+    "title" : "Dirigir",
+    "personal" : "Personal (Personal)",
+    "contactInformation" : "Información de contacto",
+    "firstName" : "Nombre de pila",
+    "lastName" : "Apellido(s)",
+    "taxIdPlaceholder" : {
+      "PE" : "Número de identificación fiscal {XX.XXX.XXX-X}",
+      "CL" : "Id. fiscal {XXXXXXXX}"
+    },
+    "email" : "Correo electrónico",
+    "andOr" : "Y / O",
+    "phoneNumber" : "Número de teléfono",
+    "vehicleType" : "tipo de vehiculo",
+    "new" : "Nuevo",
+    "preOwned" : "Seminuevo",
+    "certified" : "Certificado",
+    "vehicle" : "Vehículo/a",
+    "year" : "Año",
+    "make" : "Hacer que",
+    "model" : "Modelo",
+    "or" : "O BIEN,",
+    "vinOrStock" : "Número VIN o número de stock",
+    "appointment" : "Cita",
+    "date" : "Fecha",
+    "time" : "Hora",
+    "team" : "Departamento (Department)",
+    "notes" : "Notas:",
+    "enterNotes" : "Introducir notas",
+    "submitLead" : "Enviar cliente potencial",
+    "loading" : "Enviar tu lead",
+    "genericErrorLine" : "Hay un problema con una o más entradas a continuación.\nCorríjalo e inténtelo de nuevo.",
+    "clear" : "Borrar (Clear)",
+    "vehicleFields" : {
+      "year" : "Año(s)",
+      "make" : "Fabricar",
+      "model" : "Modelo"
+    },
+    "errors" : {
+      "email" : "Dirección de correo electrónico no válida"
+    }
+  },
+  "leadSuccess" : {
+    "title" : "Cliente potencial enviado",
+    "subtitle" : "{{customerName}} (#{{leadId}}) se ha enviado correctamente como lead.",
+    "primaryAction" : "Volver al chat"
+  }
+}
