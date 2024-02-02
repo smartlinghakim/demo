@@ -1,0 +1,40 @@
+{
+  "main_menu": {
+  "home": "Home",
+  "my_docs": "My Documents",
+  "templates": "Templates",
+  "images": "Images",
+  "brand_assets": "Brand Assets",
+  "data_auto": "Data Automation",
+  "cart": "Cart",
+  "help_center": "Help Center"
+  },
+  "header_menu": {
+    "welcome": "Welcome back, {{first_name}}!",
+    "upgrade": "Upgrade"
+  },
+  "home_carousel": {
+	  "carousel01_preheader": "START DESIGNING",
+	  "carousel01_header01": "Get started with a <bold>template!</bold>",
+	  "carousel01_header02": "<bold>Quickly customize</bold> and",
+	  "carousel01_header03": "<bold>share</bold> your content!",
+	  "carousel01_body": "Get started by choosing from hundreds of professionally-designed, customizable templates. Or, if you want to start from scratch, use the intuitive drag-and-drop editor and brand asset hub to keep content looking polished.",
+	  "carousel01_cta": "Try Now"
+  },
+  "home_templates": {
+    "template_header": "Start with a template",
+    "temp_brochures": "Brochures",
+    "temp_flyers": "Flyers",
+    "temp_postcards": "Postcards",
+	"temp_bizcards": "Business Cards",
+	"temp_posters": "Posters",
+	"temp_postcards": "Postcards",
+	"temp_social": "Social Media"
+    },
+  "home_sub_nav": {
+    "home_sub_recent": "Recent",
+    "home_sub_starred": "Starred",
+    "home_sub_popular": "Popular",
+    "home_sub_viewall": "View All Documents"	
+	}
+}
