@@ -1,0 +1,25 @@
+AX.Loading = "Carga";
+AX.Loaded = "Cargado";
+
+appSettingsTitle = "Configuración de la aplicación";
+appearanceHeader = "Apariencia";
+automatic = "Automático";
+light = "Siempre ligero";
+dark = "Siempre oscuro";
+
+multitaskingHeader = "Multitarea";
+multitaskingTitle = "Permitir multitarea";
+multitaskingSubtitle = "Cambie a otra aplicación y regrese sin tener que iniciar sesión nuevamente. El tiempo de espera de la sesión sigue aplicándose.";
+
+startScreenHeader = "Pantalla de inicio";
+startScreenMarketsTitle = "Comenzar en Markets NSLocalizedString(@\"Username\", nil)";
+startScreenMarketsSubtitle = "Comience en Markets cuando abra esta aplicación (en lugar de la pantalla de inicio de sesión).";
+startScreenWatchlistTitle = "Comenzar en la lista de seguimiento";
+startScreenWatchlistSubtitle = "Comience en la lista de seguimiento cuando abra esta aplicación.";
+startScreenAccountsTitle = "Comenzar con las cuentas";
+
+streamingToggleHeader = "Streaming";
+streamingToggleTitle = "Citas de streaming";
+streamingToggleSubtitle = "Con la transmisión habilitada, las cotizaciones pueden actualizarse hasta cada segundo en muchas funciones de la aplicación. Si está desactivado, la transmisión se desactivará en todas las funciones de la aplicación móvil.";
+
+textField.placeholder = NSLocalizedString(@"Username", nil);
