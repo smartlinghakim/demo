@@ -1,0 +1,25 @@
+AX.Loading = "טוען";
+AX.Loaded = "עמוס";
+
+appSettingsTitle = "הגדרות אפליקציה";
+appearanceHeader = "מראה חיצוני";
+automatic = "אוֹטוֹמָטִי";
+light = "תמיד אור";
+dark = "תמיד אפל";
+
+multitaskingHeader = "ריבוי משימות";
+multitaskingTitle = "אפשר ריבוי משימות";
+multitaskingSubtitle = "עבור לאפליקציה אחרת, וחזור מבלי שתצטרך להיכנס שוב. פסק הזמן הקצוב להפעלה עדיין חל.";
+
+startScreenHeader = "מסך התחל";
+startScreenMarketsTitle = "התחל בשווקים NLocalizedString(@\"שם משתמש\", אפס)";
+startScreenMarketsSubtitle = "התחל בשווקים כאשר אתה פותח את האפליקציה הזו (במקום מסך ההתחברות).";
+startScreenWatchlistTitle = "התחל ברשימת המעקב";
+startScreenWatchlistSubtitle = "התחל ברשימת המעקב כאשר אתה פותח את האפליקציה הזו.";
+startScreenAccountsTitle = "התחל בחשבונות";
+
+streamingToggleHeader = "נְהִירָה";
+streamingToggleTitle = "סטרימינג ציטוטים";
+streamingToggleSubtitle = "כאשר סטרימינג מופעל, ציטוטים עשויים להתרענן עד כל שנייה בתכונות רבות באפליקציה. אם זה כבוי, הסטרימינג תושבת בכל תכונות האפליקציה לנייד.";
+
+textField.placeholder = NSLocalizedString(@"Username", nil);
