@@ -1,0 +1,2844 @@
+{
+  "smartling" : {
+    "translate_paths" : {
+      "path" : "*/defaultMessage"
+    }
+  },
+  "@bfly/ui:backArrow.goBack" : {
+    "id" : "@bfly/ui:backArrow.goBack",
+    "defaultMessage" : "Go back"
+  },
+  "@bfly/ui:drawer.close" : {
+    "id" : "@bfly/ui:drawer.close",
+    "defaultMessage" : "Close"
+  },
+  "@bfly/ui:library.copyToClipboard.copied" : {
+    "id" : "@bfly/ui:library.copyToClipboard.copied",
+    "defaultMessage" : "URL copied to clipboard"
+  },
+  "@bfly/ui:copyToClipboard.copyLink" : {
+    "id" : "@bfly/ui:copyToClipboard.copyLink",
+    "defaultMessage" : "Copy Link"
+  },
+  "@bfly/ui:dialog.confirm" : {
+    "id" : "@bfly/ui:dialog.confirm",
+    "defaultMessage" : "OK"
+  },
+  "@bfly/ui:dialog.cancel" : {
+    "id" : "@bfly/ui:dialog.cancel",
+    "defaultMessage" : "Cancel"
+  },
+  "@bfly/ui:form.confirmDiscardChanges.content" : {
+    "id" : "@bfly/ui:form.confirmDiscardChanges.content",
+    "defaultMessage" : "Are you sure you want to leave without saving? Your changes will be lost."
+  },
+  "@bfly/ui:form.confirmDiscardChanges.title" : {
+    "id" : "@bfly/ui:form.confirmDiscardChanges.title",
+    "defaultMessage" : "Discard Unsaved Changes?"
+  },
+  "@bfly/ui:formattedDateTime" : {
+    "id" : "@bfly/ui:formattedDateTime",
+    "defaultMessage" : "{date} at {time}"
+  },
+  "@bfly/ui:formControlFile.upload" : {
+    "id" : "@bfly/ui:formControlFile.upload",
+    "defaultMessage" : "Upload"
+  },
+  "@bfly/ui:formControlFile.clear" : {
+    "id" : "@bfly/ui:formControlFile.clear",
+    "defaultMessage" : "Clear"
+  },
+  "@bfly/ui:moreActions" : {
+    "id" : "@bfly/ui:moreActions",
+    "defaultMessage" : "More Actions"
+  },
+  "@bfly/ui:mutationButton.error" : {
+    "id" : "@bfly/ui:mutationButton.error",
+    "defaultMessage" : "Error"
+  },
+  "@bfly/ui:mutationButton.success" : {
+    "id" : "@bfly/ui:mutationButton.success",
+    "defaultMessage" : "Success"
+  },
+  "@bfly/ui:navbar.homeAlt" : {
+    "id" : "@bfly/ui:navbar.homeAlt",
+    "defaultMessage" : "Home"
+  },
+  "@bfly/ui:toast.dismiss" : {
+    "id" : "@bfly/ui:toast.dismiss",
+    "defaultMessage" : "Dismiss"
+  },
+  "@bfly/ui:toggleButton" : {
+    "id" : "@bfly/ui:toggleButton",
+    "defaultMessage" : "Toggle drawer open"
+  },
+  "olympus-frontend:inactivity.timeout.dialog.body" : {
+    "id" : "olympus-frontend:inactivity.timeout.dialog.body",
+    "defaultMessage" : "Due to inactivity, your current session will expire."
+  },
+  "olympus-frontend:inactivity.timeout.dialog.cancel" : {
+    "id" : "olympus-frontend:inactivity.timeout.dialog.cancel",
+    "defaultMessage" : "Log Out"
+  },
+  "olympus-frontend:inactivity.timeout.dialog.confirm" : {
+    "id" : "olympus-frontend:inactivity.timeout.dialog.confirm",
+    "defaultMessage" : "Continue Session"
+  },
+  "olympus-frontend:inactivity.timeout.dialog.title" : {
+    "id" : "olympus-frontend:inactivity.timeout.dialog.title",
+    "defaultMessage" : "Your session will expire soon."
+  },
+  "olympus-frontend:connectionErrorPage.logOut" : {
+    "id" : "olympus-frontend:connectionErrorPage.logOut",
+    "defaultMessage" : "Log Out"
+  },
+  "olympus-frontend:connectionErrorPage.title" : {
+    "id" : "olympus-frontend:connectionErrorPage.title",
+    "defaultMessage" : "An error occurred while connecting to Butterfly Cloud."
+  },
+  "olympus-frontend:connectionErrorPage.body" : {
+    "id" : "olympus-frontend:connectionErrorPage.body",
+    "defaultMessage" : "To retry, refresh the page."
+  },
+  "olympus-frontend:connectionErrorPage.support" : {
+    "id" : "olympus-frontend:connectionErrorPage.support",
+    "defaultMessage" : "Contact Support"
+  },
+  "olympus-frontend:deviceTooSmall.iosTitle" : {
+    "id" : "olympus-frontend:deviceTooSmall.iosTitle",
+    "defaultMessage" : "Experience the iQ app for iPhone"
+  },
+  "olympus-frontend:deviceTooSmall.iosBody" : {
+    "id" : "olympus-frontend:deviceTooSmall.iosBody",
+    "defaultMessage" : "Download the app to begin using Butterfly iQ for iPhone."
+  },
+  "olympus-frontend:deviceTooSmall.download" : {
+    "id" : "olympus-frontend:deviceTooSmall.download",
+    "defaultMessage" : "Download"
+  },
+  "olympus-frontend:deviceTooSmall.generalTitle" : {
+    "id" : "olympus-frontend:deviceTooSmall.generalTitle",
+    "defaultMessage" : "Screen Too Small"
+  },
+  "olympus-frontend:deviceTooSmall.generalBody" : {
+    "id" : "olympus-frontend:deviceTooSmall.generalBody",
+    "defaultMessage" : "The Butterfly Cloud is best experienced from your tablet or desktop computer."
+  },
+  "olympus-frontend:errorPage.title" : {
+    "id" : "olympus-frontend:errorPage.title",
+    "defaultMessage" : "Looks like something went wrong."
+  },
+  "olympus-frontend:errorPage.body" : {
+    "id" : "olympus-frontend:errorPage.body",
+    "defaultMessage" : "To retry, refresh the page."
+  },
+  "olympus-frontend:errorPage.support" : {
+    "id" : "olympus-frontend:errorPage.support",
+    "defaultMessage" : "Contact Support"
+  },
+  "olympus-frontend:loginErrorPage.title" : {
+    "id" : "olympus-frontend:loginErrorPage.title",
+    "defaultMessage" : "Federated Sign In Failed"
+  },
+  "olympus-frontend:loginErrorPage.body" : {
+    "id" : "olympus-frontend:loginErrorPage.body",
+    "defaultMessage" : "You can try again by pressing the button below. If you continue receiving this message, contact support@butterflynetwork.com"
+  },
+  "olympus-frontend:loginErrorPage.openLoginPage" : {
+    "id" : "olympus-frontend:loginErrorPage.openLoginPage",
+    "defaultMessage" : "Open Login Page"
+  },
+  "olympus-frontend:404.body" : {
+    "id" : "olympus-frontend:404.body",
+    "defaultMessage" : "The page you are looking for cannot be found."
+  },
+  "olympus-frontend:404.returnHome" : {
+    "id" : "olympus-frontend:404.returnHome",
+    "defaultMessage" : "Return Home"
+  },
+  "olympus-frontend:organization.settings.header" : {
+    "id" : "olympus-frontend:organization.settings.header",
+    "defaultMessage" : "Organization Settings"
+  },
+  "olympus-frontend:organization.changeName.success" : {
+    "id" : "olympus-frontend:organization.changeName.success",
+    "defaultMessage" : "Organization name changed"
+  },
+  "olympus-frontend:organization.settings.legend" : {
+    "id" : "olympus-frontend:organization.settings.legend",
+    "defaultMessage" : "Settings"
+  },
+  "olympus-frontend:organization.settings.name" : {
+    "id" : "olympus-frontend:organization.settings.name",
+    "defaultMessage" : "Name"
+  },
+  "olympus-frontend:organization.changeName.submit" : {
+    "id" : "olympus-frontend:organization.changeName.submit",
+    "defaultMessage" : "Update"
+  },
+  "olympus-frontend:organization.barcodeField.notes" : {
+    "id" : "olympus-frontend:organization.barcodeField.notes",
+    "defaultMessage" : "Notes"
+  },
+  "olympus-frontend:organization.barcodeField.medicalRecordNumber" : {
+    "id" : "olympus-frontend:organization.barcodeField.medicalRecordNumber",
+    "defaultMessage" : "Medical Record Number"
+  },
+  "olympus-frontend:organization.barcodeField.success" : {
+    "id" : "olympus-frontend:organization.barcodeField.success",
+    "defaultMessage" : "Barcode settings updated"
+  },
+  "olympus-frontend:organization.barcodeField.legend" : {
+    "id" : "olympus-frontend:organization.barcodeField.legend",
+    "defaultMessage" : "Barcode Settings"
+  },
+  "olympus-frontend:organization.barcodeField.studyBarcodeField" : {
+    "id" : "olympus-frontend:organization.barcodeField.studyBarcodeField",
+    "defaultMessage" : "Input Field"
+  },
+  "olympus-frontend:organization.barcodeField.submit" : {
+    "id" : "olympus-frontend:organization.barcodeField.submit",
+    "defaultMessage" : "Save"
+  },
+  "olympus-frontend:studySearchBar.search" : {
+    "id" : "olympus-frontend:studySearchBar.search",
+    "defaultMessage" : "Search"
+  },
+  "olympus-frontend:studySearchBar.allArchives" : {
+    "id" : "olympus-frontend:studySearchBar.allArchives",
+    "defaultMessage" : "All Archives"
+  },
+  "olympus-frontend:acceptInvite.confirmAcceptButton" : {
+    "id" : "olympus-frontend:acceptInvite.confirmAcceptButton",
+    "defaultMessage" : "Accept Invitation"
+  },
+  "olympus-frontend:acceptInvite.confirmLogoutAndLogin" : {
+    "id" : "olympus-frontend:acceptInvite.confirmLogoutAndLogin",
+    "defaultMessage" : "This invitation is for {email}. You’re currently logged using a different email address ({viewerEmail}). Please log in with the corresponding email address to accept this invitation."
+  },
+  "olympus-frontend:acceptInvite.confirmAcceptTitle" : {
+    "id" : "olympus-frontend:acceptInvite.confirmAcceptTitle",
+    "defaultMessage" : "Invitation to Join {organization}"
+  },
+  "olympus-frontend:acceptInvite.confirmAcceptBody" : {
+    "id" : "olympus-frontend:acceptInvite.confirmAcceptBody",
+    "defaultMessage" : "You have been invited to join a new Butterfly Cloud: {organization}"
+  },
+  "olympus-frontend:accountCreated.title" : {
+    "id" : "olympus-frontend:accountCreated.title",
+    "defaultMessage" : "Account Created"
+  },
+  "olympus-frontend:accountCreated.body" : {
+    "id" : "olympus-frontend:accountCreated.body",
+    "defaultMessage" : "Download the app to begin using Butterfly iQ for iPhone."
+  },
+  "olympus-frontend:accountCreated.download" : {
+    "id" : "olympus-frontend:accountCreated.download",
+    "defaultMessage" : "Download"
+  },
+  "olympus-frontend:account.settings.header" : {
+    "id" : "olympus-frontend:account.settings.header",
+    "defaultMessage" : "My Account"
+  },
+  "olympus-frontend:account.accountInfo" : {
+    "id" : "olympus-frontend:account.accountInfo",
+    "defaultMessage" : "Account Info"
+  },
+  "olympus-frontend:account.cancelEmailChange" : {
+    "id" : "olympus-frontend:account.cancelEmailChange",
+    "defaultMessage" : "Cancel"
+  },
+  "olympus-frontend:confirmLogout.dialog.title" : {
+    "id" : "olympus-frontend:confirmLogout.dialog.title",
+    "defaultMessage" : "Already Logged In"
+  },
+  "olympus-frontend:confirmLogout.dialog.confirm" : {
+    "id" : "olympus-frontend:confirmLogout.dialog.confirm",
+    "defaultMessage" : "Log Out"
+  },
+  "olympus-frontend:eula.titleAccepted" : {
+    "id" : "olympus-frontend:eula.titleAccepted",
+    "defaultMessage" : "Latest EULA"
+  },
+  "olympus-frontend:eula.titleAccept" : {
+    "id" : "olympus-frontend:eula.titleAccept",
+    "defaultMessage" : "Please review and accept the latest EULA"
+  },
+  "olympus-frontend:eula.accept" : {
+    "id" : "olympus-frontend:eula.accept",
+    "defaultMessage" : "Accept"
+  },
+  "olympus-frontend:forgotPassword.email" : {
+    "id" : "olympus-frontend:forgotPassword.email",
+    "defaultMessage" : "Email"
+  },
+  "olympus-frontend:forgotPassword.title" : {
+    "id" : "olympus-frontend:forgotPassword.title",
+    "defaultMessage" : "Reset Password"
+  },
+  "olympus-frontend:forgotPassword.emailSent" : {
+    "id" : "olympus-frontend:forgotPassword.emailSent",
+    "defaultMessage" : "Email Sent If Account Exists"
+  },
+  "olympus-frontend:forgotPassword.submit" : {
+    "id" : "olympus-frontend:forgotPassword.submit",
+    "defaultMessage" : "Send Password Reset Link"
+  },
+  "olympus-frontend:forgotPassword.login" : {
+    "id" : "olympus-frontend:forgotPassword.login",
+    "defaultMessage" : "Log In"
+  },
+  "olympus-frontend:inactiveAccount.pageTitle" : {
+    "id" : "olympus-frontend:inactiveAccount.pageTitle",
+    "defaultMessage" : "No Butterfly Cloud Subscription"
+  },
+  "olympus-frontend:inactiveAccount.pageMessage" : {
+    "id" : "olympus-frontend:inactiveAccount.pageMessage",
+    "defaultMessage" : "A subscription to at least one cloud organization\n          is required. If you recently made a purchase, please complete the\n          purchase via the invite link sent to your email. Contact support\n          if you believe you are seeing this message in error, or if you would\n          like to purchase a Butterfly Cloud Subscription"
+  },
+  "olympus-frontend:inactiveAccount.contactSupport" : {
+    "id" : "olympus-frontend:inactiveAccount.contactSupport",
+    "defaultMessage" : "Contact Support"
+  },
+  "olympus-frontend:inviteAccepted.title" : {
+    "id" : "olympus-frontend:inviteAccepted.title",
+    "defaultMessage" : "Invite Accepted"
+  },
+  "olympus-frontend:inviteAccepted.body" : {
+    "id" : "olympus-frontend:inviteAccepted.body",
+    "defaultMessage" : "Download the app to begin using Butterfly iQ for iPhone."
+  },
+  "olympus-frontend:inviteAccepted.download" : {
+    "id" : "olympus-frontend:inviteAccepted.download",
+    "defaultMessage" : "Download"
+  },
+  "olympus-frontend:acceptInvite.inviteUsed.title" : {
+    "id" : "olympus-frontend:acceptInvite.inviteUsed.title",
+    "defaultMessage" : "This invitation has already been accepted."
+  },
+  "olympus-frontend:acceptInvite.inviteUsed.body.desktop" : {
+    "id" : "olympus-frontend:acceptInvite.inviteUsed.body.desktop",
+    "defaultMessage" : "This link has already been used to create an account or join an organization."
+  },
+  "olympus-frontend:acceptInvite.inviteUsed.logIn" : {
+    "id" : "olympus-frontend:acceptInvite.inviteUsed.logIn",
+    "defaultMessage" : "Log In"
+  },
+  "olympus-frontend:account.notifications.commenting.title" : {
+    "id" : "olympus-frontend:account.notifications.commenting.title",
+    "defaultMessage" : "Comment Notifications"
+  },
+  "olympus-frontend:account.notifications.commenting.description" : {
+    "id" : "olympus-frontend:account.notifications.commenting.description",
+    "defaultMessage" : "Receive notifications via any time a colleague comments on your images or mentions you."
+  },
+  "olympus-frontend:account.notifications.email" : {
+    "id" : "olympus-frontend:account.notifications.email",
+    "defaultMessage" : "Email Notifications"
+  },
+  "olympus-frontend:account.notifications.mobilePush" : {
+    "id" : "olympus-frontend:account.notifications.mobilePush",
+    "defaultMessage" : "Mobile Notifications"
+  },
+  "olympus-frontend:users.notifications.toggle.failure" : {
+    "id" : "olympus-frontend:users.notifications.toggle.failure",
+    "defaultMessage" : "An error has occurred"
+  },
+  "olympus-frontend:referrals.firstName" : {
+    "id" : "olympus-frontend:referrals.firstName",
+    "defaultMessage" : "First Name"
+  },
+  "olympus-frontend:referrals.lastName" : {
+    "id" : "olympus-frontend:referrals.lastName",
+    "defaultMessage" : "Last Name"
+  },
+  "olympus-frontend:referrals.email" : {
+    "id" : "olympus-frontend:referrals.email",
+    "defaultMessage" : "Email Address"
+  },
+  "olympus-frontend:referrals.caption" : {
+    "id" : "olympus-frontend:referrals.caption",
+    "defaultMessage" : "Share the experience of whole body ultrasound with a colleague."
+  },
+  "olympus-frontend:referrals.sendSuccess" : {
+    "id" : "olympus-frontend:referrals.sendSuccess",
+    "defaultMessage" : "Invite on the way"
+  },
+  "olympus-frontend:referrals.subtitle" : {
+    "id" : "olympus-frontend:referrals.subtitle",
+    "defaultMessage" : "Thank you for putting Butterfly iQ in the hands of those who need it most. Your colleague will receive an email today with instructions for purchase."
+  },
+  "olympus-frontend:referrals.submit" : {
+    "id" : "olympus-frontend:referrals.submit",
+    "defaultMessage" : "Refer Now"
+  },
+  "olympus-frontend:referrals.noneLeftTitle" : {
+    "id" : "olympus-frontend:referrals.noneLeftTitle",
+    "defaultMessage" : "No Invites Left"
+  },
+  "olympus-frontend:referrals.noneLeftBody" : {
+    "id" : "olympus-frontend:referrals.noneLeftBody",
+    "defaultMessage" : "You have sent all your invites. Please contact us if you'd like to receive more."
+  },
+  "olympus-frontend:referrals.support" : {
+    "id" : "olympus-frontend:referrals.support",
+    "defaultMessage" : "Request More"
+  },
+  "olympus-frontend:account.resendEmailChange.success" : {
+    "id" : "olympus-frontend:account.resendEmailChange.success",
+    "defaultMessage" : "Confirmation resent"
+  },
+  "olympus-frontend:account.resendEmailChange" : {
+    "id" : "olympus-frontend:account.resendEmailChange",
+    "defaultMessage" : "Resend Confirmation"
+  },
+  "olympus-frontend:resetPassword.success" : {
+    "id" : "olympus-frontend:resetPassword.success",
+    "defaultMessage" : "Password reset successfully"
+  },
+  "olympus-frontend:resetPassword.confirmLogout" : {
+    "id" : "olympus-frontend:resetPassword.confirmLogout",
+    "defaultMessage" : "You are already logged in. Do you want to log out to reset your password?"
+  },
+  "olympus-frontend:resetPassword.title" : {
+    "id" : "olympus-frontend:resetPassword.title",
+    "defaultMessage" : "Enter New Password"
+  },
+  "olympus-frontend:resetPassword.submit" : {
+    "id" : "olympus-frontend:resetPassword.submit",
+    "defaultMessage" : "Reset Password"
+  },
+  "olympus-frontend:signup.email" : {
+    "id" : "olympus-frontend:signup.email",
+    "defaultMessage" : "Email"
+  },
+  "olympus-frontend:signup.missingEmail" : {
+    "id" : "olympus-frontend:signup.missingEmail",
+    "defaultMessage" : "Please enter an email"
+  },
+  "olympus-frontend:signup.createPassword" : {
+    "id" : "olympus-frontend:signup.createPassword",
+    "defaultMessage" : "Create Password"
+  },
+  "olympus-frontend:signup.confirmLogout" : {
+    "id" : "olympus-frontend:signup.confirmLogout",
+    "defaultMessage" : "You are already logged in. Do you want to log out to accept this invitation?"
+  },
+  "olympus-frontend:signup.title" : {
+    "id" : "olympus-frontend:signup.title",
+    "defaultMessage" : "Complete Sign Up"
+  },
+  "olympus-frontend:signup.submit" : {
+    "id" : "olympus-frontend:signup.submit",
+    "defaultMessage" : "Create an Account"
+  },
+  "olympus-frontend:signup.sso" : {
+    "id" : "olympus-frontend:signup.sso",
+    "defaultMessage" : "Already have a SSO account: {loginLink}"
+  },
+  "olympus-frontend:signup.login" : {
+    "id" : "olympus-frontend:signup.login",
+    "defaultMessage" : "Log In"
+  },
+  "olympus-frontend:account.userAvatarForm.cropModal.cropInterface.alt" : {
+    "id" : "olympus-frontend:account.userAvatarForm.cropModal.cropInterface.alt",
+    "defaultMessage" : "An avatar cropping interface."
+  },
+  "olympus-frontend:account.userAvatarForm.cropModal.title" : {
+    "id" : "olympus-frontend:account.userAvatarForm.cropModal.title",
+    "defaultMessage" : "Adjust Photo"
+  },
+  "olympus-frontend:userAvatarModal.errorTitle" : {
+    "id" : "olympus-frontend:userAvatarModal.errorTitle",
+    "defaultMessage" : "There was a problem loading this image"
+  },
+  "olympus-frontend:account.userAvatarForm.cropModal.save" : {
+    "id" : "olympus-frontend:account.userAvatarForm.cropModal.save",
+    "defaultMessage" : "Save"
+  },
+  "olympus-frontend:account.userAvatarForm.cropModal.cancel" : {
+    "id" : "olympus-frontend:account.userAvatarForm.cropModal.cancel",
+    "defaultMessage" : "Cancel"
+  },
+  "olympus-frontend:account.userAvatarForm.cropModal.close" : {
+    "id" : "olympus-frontend:account.userAvatarForm.cropModal.close",
+    "defaultMessage" : "Close"
+  },
+  "olympus-frontend:account.userAvatarForm.removeAvatarError" : {
+    "id" : "olympus-frontend:account.userAvatarForm.removeAvatarError",
+    "defaultMessage" : "Could not remove avatar."
+  },
+  "olympus-frontend:account.userAvatarForm.uploadAvatarError" : {
+    "id" : "olympus-frontend:account.userAvatarForm.uploadAvatarError",
+    "defaultMessage" : "Could not upload avatar."
+  },
+  "olympus-frontend:account.userAvatarForm.uploadAvatarLegend" : {
+    "id" : "olympus-frontend:account.userAvatarForm.uploadAvatarLegend",
+    "defaultMessage" : "Profile Photo"
+  },
+  "olympus-frontend:account.userAvatarForm.uploadLabel" : {
+    "id" : "olympus-frontend:account.userAvatarForm.uploadLabel",
+    "defaultMessage" : "This will be shown with your uploaded studies and comments."
+  },
+  "olympus-frontend:account.userAvatarForm.replaceButtonText" : {
+    "id" : "olympus-frontend:account.userAvatarForm.replaceButtonText",
+    "defaultMessage" : "Replace"
+  },
+  "olympus-frontend:account.userAvatarForm.clearButtonText" : {
+    "id" : "olympus-frontend:account.userAvatarForm.clearButtonText",
+    "defaultMessage" : "Clear"
+  },
+  "olympus-frontend:account.userAvatarForm.addPhotoButtonText" : {
+    "id" : "olympus-frontend:account.userAvatarForm.addPhotoButtonText",
+    "defaultMessage" : "Add Photo"
+  },
+  "olympus-frontend:users.email" : {
+    "id" : "olympus-frontend:users.email",
+    "defaultMessage" : "Email"
+  },
+  "olympus-frontend:account.changeEmail.success" : {
+    "id" : "olympus-frontend:account.changeEmail.success",
+    "defaultMessage" : "Email change pending"
+  },
+  "olympus-frontend:account.changeEmail.submit" : {
+    "id" : "olympus-frontend:account.changeEmail.submit",
+    "defaultMessage" : "Change Email"
+  },
+  "olympus-frontend:acount.changeEmail.pendingChange" : {
+    "id" : "olympus-frontend:acount.changeEmail.pendingChange",
+    "defaultMessage" : "An email change is pending. To confirm this change, check your {email} email and click on the provided link. Until confirmed, notifications will continue to be sent to your current address."
+  },
+  "olympus-frontend:users.fullName" : {
+    "id" : "olympus-frontend:users.fullName",
+    "defaultMessage" : "Full Name"
+  },
+  "olympus-frontend:account.changeName.success" : {
+    "id" : "olympus-frontend:account.changeName.success",
+    "defaultMessage" : "User name changed"
+  },
+  "olympus-frontend:account.changeName.submit" : {
+    "id" : "olympus-frontend:account.changeName.submit",
+    "defaultMessage" : "Change Name"
+  },
+  "olympus-frontend:account.changePassword.success" : {
+    "id" : "olympus-frontend:account.changePassword.success",
+    "defaultMessage" : "Password changed"
+  },
+  "olympus-frontend:account.changePassword" : {
+    "id" : "olympus-frontend:account.changePassword",
+    "defaultMessage" : "Change Password"
+  },
+  "olympus-frontend:account.changePassword.submit" : {
+    "id" : "olympus-frontend:account.changePassword.submit",
+    "defaultMessage" : "Change Password"
+  },
+  "olympus-frontend:userSetup.name.placeholder" : {
+    "id" : "olympus-frontend:userSetup.name.placeholder",
+    "defaultMessage" : "Name, e.g. John Smith"
+  },
+  "olympus-frontend:user.setupName.title" : {
+    "id" : "olympus-frontend:user.setupName.title",
+    "defaultMessage" : "Please enter your name"
+  },
+  "olympus-frontend:user.setup.submit" : {
+    "id" : "olympus-frontend:user.setup.submit",
+    "defaultMessage" : "Save"
+  },
+  "olympus-frontend:account.verifyEmailChange.failure" : {
+    "id" : "olympus-frontend:account.verifyEmailChange.failure",
+    "defaultMessage" : "Email address change failed"
+  },
+  "olympus-frontend:account.verifyEmailChange.success" : {
+    "id" : "olympus-frontend:account.verifyEmailChange.success",
+    "defaultMessage" : "Email address has been updated"
+  },
+  "olympus-frontend:account.password.password" : {
+    "id" : "olympus-frontend:account.password.password",
+    "defaultMessage" : "Password"
+  },
+  "olympus-frontend:account.password.prevPassword" : {
+    "id" : "olympus-frontend:account.password.prevPassword",
+    "defaultMessage" : "Current Password"
+  },
+  "olympus-frontend:account.password.newPassword" : {
+    "id" : "olympus-frontend:account.password.newPassword",
+    "defaultMessage" : "New Password"
+  },
+  "olympus-frontend:account.password.confirmPassword" : {
+    "id" : "olympus-frontend:account.password.confirmPassword",
+    "defaultMessage" : "Confirm Password"
+  },
+  "olympus-frontend:account.password.password.help" : {
+    "id" : "olympus-frontend:account.password.password.help",
+    "defaultMessage" : "Must be at least 8 characters long"
+  },
+  "olympus-frontend:account.password.required" : {
+    "id" : "olympus-frontend:account.password.required",
+    "defaultMessage" : "Please enter a password"
+  },
+  "olympus-frontend:account.password.password.length" : {
+    "id" : "olympus-frontend:account.password.password.length",
+    "defaultMessage" : "Password must be at least 8 characters long"
+  },
+  "olympus-frontend:account.password.passwordMismatch" : {
+    "id" : "olympus-frontend:account.password.passwordMismatch",
+    "defaultMessage" : "Passwords don't match"
+  },
+  "olympus-frontend:annotationExtensionsSettings.title" : {
+    "id" : "olympus-frontend:annotationExtensionsSettings.title",
+    "defaultMessage" : "Extension Management"
+  },
+  "olympus-frontend:annotationExtensionSettings.addButton" : {
+    "id" : "olympus-frontend:annotationExtensionSettings.addButton",
+    "defaultMessage" : "Add"
+  },
+  "olympus-frontend:annotationExtensionsSettings.uploading" : {
+    "id" : "olympus-frontend:annotationExtensionsSettings.uploading",
+    "defaultMessage" : "Uploading..."
+  },
+  "olympus-frontend:annotationExtensionsSettings.edit" : {
+    "id" : "olympus-frontend:annotationExtensionsSettings.edit",
+    "defaultMessage" : "Edit"
+  },
+  "olympus-frontend:createAnnotationExtension.name" : {
+    "id" : "olympus-frontend:createAnnotationExtension.name",
+    "defaultMessage" : "Name"
+  },
+  "olympus-frontend:createAnnotationExtension.description" : {
+    "id" : "olympus-frontend:createAnnotationExtension.description",
+    "defaultMessage" : "Description"
+  },
+  "olympus-frontend:createAnnotationExtension.file" : {
+    "id" : "olympus-frontend:createAnnotationExtension.file",
+    "defaultMessage" : "File"
+  },
+  "olympus-frontend:createAnnotationExtension.info" : {
+    "id" : "olympus-frontend:createAnnotationExtension.info",
+    "defaultMessage" : "Extension Info"
+  },
+  "olympus-frontend:createAnnotationExtension.title" : {
+    "id" : "olympus-frontend:createAnnotationExtension.title",
+    "defaultMessage" : "Create new Extension"
+  },
+  "olympus-frontend:createAnnotationExtension.submit" : {
+    "id" : "olympus-frontend:createAnnotationExtension.submit",
+    "defaultMessage" : "Create"
+  },
+  "olympus-frontend:deleteAnnotationExtension.dialog.title" : {
+    "id" : "olympus-frontend:deleteAnnotationExtension.dialog.title",
+    "defaultMessage" : "Delete {name}?"
+  },
+  "olympus-frontend:deleteAnnotationExtension.dialog.content" : {
+    "id" : "olympus-frontend:deleteAnnotationExtension.dialog.content",
+    "defaultMessage" : "This will permanently remove all the uploaded releases."
+  },
+  "olympus-frontend:deleteWorksheetTemplate.dialog.title" : {
+    "id" : "olympus-frontend:deleteWorksheetTemplate.dialog.title",
+    "defaultMessage" : "Delete {title}?"
+  },
+  "olympus-frontend:annotationExtensionsSettings.update" : {
+    "id" : "olympus-frontend:annotationExtensionsSettings.update",
+    "defaultMessage" : "Update"
+  },
+  "olympus-frontend:worksheetsSettings.title" : {
+    "id" : "olympus-frontend:worksheetsSettings.title",
+    "defaultMessage" : "Worksheets"
+  },
+  "olympus-frontend:organization.settings.worksheets.templates" : {
+    "id" : "olympus-frontend:organization.settings.worksheets.templates",
+    "defaultMessage" : "Templates"
+  },
+  "olympus-frontend:worksheetsSettings.addButton" : {
+    "id" : "olympus-frontend:worksheetsSettings.addButton",
+    "defaultMessage" : "Add"
+  },
+  "olympus-frontend:worksheetsSettings.editButton" : {
+    "id" : "olympus-frontend:worksheetsSettings.editButton",
+    "defaultMessage" : "Edit"
+  },
+  "olympus-frontend:enterpriseConnector.connectivity.title" : {
+    "id" : "olympus-frontend:enterpriseConnector.connectivity.title",
+    "defaultMessage" : "DICOM Admin"
+  },
+  "olympus-frontend:enterpriseConnector.connectivity.gettingStarted.title" : {
+    "id" : "olympus-frontend:enterpriseConnector.connectivity.gettingStarted.title",
+    "defaultMessage" : "Need Help Getting Started?"
+  },
+  "olympus-frontend:enterpriseConnector.connectivity.gettingStarted.body" : {
+    "id" : "olympus-frontend:enterpriseConnector.connectivity.gettingStarted.body",
+    "defaultMessage" : "View our integration resources to help configure your DICOM connections."
+  },
+  "olympus-frontend:dicomServer.label.paused" : {
+    "id" : "olympus-frontend:dicomServer.label.paused",
+    "defaultMessage" : "Paused"
+  },
+  "olympus-frontend:dicomServer.label.active" : {
+    "id" : "olympus-frontend:dicomServer.label.active",
+    "defaultMessage" : "Active"
+  },
+  "olympus-frontend:dicomServer.label.error" : {
+    "id" : "olympus-frontend:dicomServer.label.error",
+    "defaultMessage" : "Sync Error"
+  },
+  "olympus-frontend:dicomServer.logs" : {
+    "id" : "olympus-frontend:dicomServer.logs",
+    "defaultMessage" : "Logs for {name}"
+  },
+  "olympus-frontend:dicomServer.logs.close" : {
+    "id" : "olympus-frontend:dicomServer.logs.close",
+    "defaultMessage" : "Close"
+  },
+  "olympus-frontend:EchoControl.label" : {
+    "id" : "olympus-frontend:EchoControl.label",
+    "defaultMessage" : "Echo"
+  },
+  "olympus-frontend:echoModal.content.resultTitle" : {
+    "id" : "olympus-frontend:echoModal.content.resultTitle",
+    "defaultMessage" : "Result"
+  },
+  "olympus-frontend:echoModal.content.errorsTitle" : {
+    "id" : "olympus-frontend:echoModal.content.errorsTitle",
+    "defaultMessage" : "Errors"
+  },
+  "olympus-frontend:echoModal.title" : {
+    "id" : "olympus-frontend:echoModal.title",
+    "defaultMessage" : "Echo Output for {name} {isCompleted, select, true {Performed at {completedAt}} other {}}"
+  },
+  "olympus-frontend:echoModal.instructions" : {
+    "id" : "olympus-frontend:echoModal.instructions",
+    "defaultMessage" : "Click “Echo” to test your connection and view the latest output below."
+  },
+  "olympus-frontend:echoModal.button.pending" : {
+    "id" : "olympus-frontend:echoModal.button.pending",
+    "defaultMessage" : "Echoing…"
+  },
+  "olympus-frontend:echoModal.button.ready" : {
+    "id" : "olympus-frontend:echoModal.button.ready",
+    "defaultMessage" : "Echo"
+  },
+  "olympus-frontend:echoModal.close" : {
+    "id" : "olympus-frontend:echoModal.close",
+    "defaultMessage" : "Close"
+  },
+  "olympus-frontend:LogList.empty" : {
+    "id" : "olympus-frontend:LogList.empty",
+    "defaultMessage" : "No logs available"
+  },
+  "olympus-frontend:logListItem.title" : {
+    "id" : "olympus-frontend:logListItem.title",
+    "defaultMessage" : "{status, select, COMPLETE {Successful} FAILED {Unsuccessful}} {jobType, select, PacsPushJobLog {send} PacsEchoJobLog {echo} ModalityWorklistRefreshJobLog {refresh} ModalityWorklistEchoJobLog {echo}} at {createdAt, date, short} {createdAt, time, short}"
+  },
+  "olympus-frontend:loglistItemContent.studyTitle" : {
+    "id" : "olympus-frontend:loglistItemContent.studyTitle",
+    "defaultMessage" : "Study on Archive {archiveName} {isDeleted, select, true {(deleted)} other {}}"
+  },
+  "olympus-frontend:loglistItemContent.viewStudy" : {
+    "id" : "olympus-frontend:loglistItemContent.viewStudy",
+    "defaultMessage" : "View Study"
+  },
+  "olympus-frontend:MakePrimaryControl.label" : {
+    "id" : "olympus-frontend:MakePrimaryControl.label",
+    "defaultMessage" : "Make Primary"
+  },
+  "olympus-frontend:modalityWorklist.title" : {
+    "id" : "olympus-frontend:modalityWorklist.title",
+    "defaultMessage" : "MWL"
+  },
+  "olympus-frontend:modalityWorklist.addButton" : {
+    "id" : "olympus-frontend:modalityWorklist.addButton",
+    "defaultMessage" : "Add"
+  },
+  "olympus-frontend:modalityWorklist.emptyMessage" : {
+    "id" : "olympus-frontend:modalityWorklist.emptyMessage",
+    "defaultMessage" : "Click “Add” to create your first worklist connection"
+  },
+  "olympus-frontend:modalityWorklistConfigSectionItem.syncing" : {
+    "id" : "olympus-frontend:modalityWorklistConfigSectionItem.syncing",
+    "defaultMessage" : "Syncing"
+  },
+  "olympus-frontend:modalityWorklistConfigSectionItem.primary" : {
+    "id" : "olympus-frontend:modalityWorklistConfigSectionItem.primary",
+    "defaultMessage" : "Primary Worklist"
+  },
+  "olympus-frontend:pacs.title" : {
+    "id" : "olympus-frontend:pacs.title",
+    "defaultMessage" : "DICOM Storage"
+  },
+  "olympus-frontend:pacs.addButton" : {
+    "id" : "olympus-frontend:pacs.addButton",
+    "defaultMessage" : "Add"
+  },
+  "olympus-frontend:pacs.emptyMessage" : {
+    "id" : "olympus-frontend:pacs.emptyMessage",
+    "defaultMessage" : "Click “Add” to create your first DICOM storage connection"
+  },
+  "olympus-frontend:pacs.numPendingPushJobs" : {
+    "id" : "olympus-frontend:pacs.numPendingPushJobs",
+    "defaultMessage" : "Syncing {numPendingPushJobs} {numPendingPushJobs, plural, one {job} other {jobs}}"
+  },
+  "olympus-frontend:pacs.editButton" : {
+    "id" : "olympus-frontend:pacs.editButton",
+    "defaultMessage" : "Edit"
+  },
+  "olympus-frontend:playPauseControl.resume" : {
+    "id" : "olympus-frontend:playPauseControl.resume",
+    "defaultMessage" : "Resume"
+  },
+  "olympus-frontend:playPauseControl.pause" : {
+    "id" : "olympus-frontend:playPauseControl.pause",
+    "defaultMessage" : "Pause"
+  },
+  "olympus-frontend:dicomServer.show" : {
+    "id" : "olympus-frontend:dicomServer.show",
+    "defaultMessage" : "Logs"
+  },
+  "olympus-frontend:pacs.unsecuredConnection" : {
+    "id" : "olympus-frontend:pacs.unsecuredConnection",
+    "defaultMessage" : "Unsecured Connection"
+  },
+  "olympus-frontend:modalityWorklist.modalityWorklistCreateSuccess" : {
+    "id" : "olympus-frontend:modalityWorklist.modalityWorklistCreateSuccess",
+    "defaultMessage" : "Modality worklist configuration created"
+  },
+  "olympus-frontend:modalityWorklist.createPageTitle" : {
+    "id" : "olympus-frontend:modalityWorklist.createPageTitle",
+    "defaultMessage" : "Add New Modality Worklist"
+  },
+  "olympus-frontend:modalityWorklist.filterKeyModality" : {
+    "id" : "olympus-frontend:modalityWorklist.filterKeyModality",
+    "defaultMessage" : "Modality"
+  },
+  "olympus-frontend:modalityWorklist.filterKeyDate" : {
+    "id" : "olympus-frontend:modalityWorklist.filterKeyDate",
+    "defaultMessage" : "Date range"
+  },
+  "olympus-frontend:pacs.queryFilter.legend" : {
+    "id" : "olympus-frontend:pacs.queryFilter.legend",
+    "defaultMessage" : "Query Filter"
+  },
+  "olympus-frontend:modalityWorklist.filterKeyModality.ultrasound" : {
+    "id" : "olympus-frontend:modalityWorklist.filterKeyModality.ultrasound",
+    "defaultMessage" : "US"
+  },
+  "olympus-frontend:modalityWorklist.filterKeyModality.any" : {
+    "id" : "olympus-frontend:modalityWorklist.filterKeyModality.any",
+    "defaultMessage" : "Any"
+  },
+  "olympus-frontend:modalityWorklist.filterKeyDate.today" : {
+    "id" : "olympus-frontend:modalityWorklist.filterKeyDate.today",
+    "defaultMessage" : "Today"
+  },
+  "olympus-frontend:modalityWorklist.filterKeyDate.yesterdayTodayTomorrow" : {
+    "id" : "olympus-frontend:modalityWorklist.filterKeyDate.yesterdayTodayTomorrow",
+    "defaultMessage" : "Yesterday, Today, and Tomorrow"
+  },
+  "olympus-frontend:modalityWorklist.filterKeyDate.any" : {
+    "id" : "olympus-frontend:modalityWorklist.filterKeyDate.any",
+    "defaultMessage" : "Any"
+  },
+  "olympus-frontend:modalityWorklist.modalityWorklistUpdateSuccess" : {
+    "id" : "olympus-frontend:modalityWorklist.modalityWorklistUpdateSuccess",
+    "defaultMessage" : "Modality worklist configuration updated"
+  },
+  "olympus-frontend:modalityWorklist.delete" : {
+    "id" : "olympus-frontend:modalityWorklist.delete",
+    "defaultMessage" : "Delete Worklist"
+  },
+  "olympus-frontend:pacs.pacsCreateSuccess" : {
+    "id" : "olympus-frontend:pacs.pacsCreateSuccess",
+    "defaultMessage" : "PACS configuration created"
+  },
+  "olympus-frontend:pacs.createPageTitle" : {
+    "id" : "olympus-frontend:pacs.createPageTitle",
+    "defaultMessage" : "Add New PACS"
+  },
+  "olympus-frontend:pacs.stillCompress" : {
+    "id" : "olympus-frontend:pacs.stillCompress",
+    "defaultMessage" : "Image"
+  },
+  "olympus-frontend:pacs.cineCompress" : {
+    "id" : "olympus-frontend:pacs.cineCompress",
+    "defaultMessage" : "Loop"
+  },
+  "olympus-frontend:pacs.monochrome" : {
+    "id" : "olympus-frontend:pacs.monochrome",
+    "defaultMessage" : "Monochrome"
+  },
+  "olympus-frontend:pacs.compression.legend" : {
+    "id" : "olympus-frontend:pacs.compression.legend",
+    "defaultMessage" : "Compression"
+  },
+  "olympus-frontend:pacs.compression.UNCOMPRESSED" : {
+    "id" : "olympus-frontend:pacs.compression.UNCOMPRESSED",
+    "defaultMessage" : "Uncompressed"
+  },
+  "olympus-frontend:pacs.compression.JPEG_LOSSLESS" : {
+    "id" : "olympus-frontend:pacs.compression.JPEG_LOSSLESS",
+    "defaultMessage" : "JPEG Lossless"
+  },
+  "olympus-frontend:pacs.compression.JPEG_LOSSY" : {
+    "id" : "olympus-frontend:pacs.compression.JPEG_LOSSY",
+    "defaultMessage" : "JPEG Lossy"
+  },
+  "olympus-frontend:pacs.compression.JPEG_LS_LOSSLESS" : {
+    "id" : "olympus-frontend:pacs.compression.JPEG_LS_LOSSLESS",
+    "defaultMessage" : "JPEG LS Lossless"
+  },
+  "olympus-frontend:pacs.compression.JPEG_LS_LOSSY" : {
+    "id" : "olympus-frontend:pacs.compression.JPEG_LS_LOSSY",
+    "defaultMessage" : "JPEG LS Lossy"
+  },
+  "olympus-frontend:pacs.compression.JPEG_2000_LOSSLESS" : {
+    "id" : "olympus-frontend:pacs.compression.JPEG_2000_LOSSLESS",
+    "defaultMessage" : "JPEG 2000 Lossless"
+  },
+  "olympus-frontend:pacs.compression.JPEG_2000_LOSSY" : {
+    "id" : "olympus-frontend:pacs.compression.JPEG_2000_LOSSY",
+    "defaultMessage" : "JPEG 2000 Lossy"
+  },
+  "olympus-frontend:pacs.compression.MPEG4_ULTRASOUND_MULTIFRAME_IMAGE_STORAGE" : {
+    "id" : "olympus-frontend:pacs.compression.MPEG4_ULTRASOUND_MULTIFRAME_IMAGE_STORAGE",
+    "defaultMessage" : "MPEG4 Ultrasound Multiframe Image Storage"
+  },
+  "olympus-frontend:pacs.compression.MPEG4_VIDEO_PHOTOGRAPHIC_IMAGE_STORAGE" : {
+    "id" : "olympus-frontend:pacs.compression.MPEG4_VIDEO_PHOTOGRAPHIC_IMAGE_STORAGE",
+    "defaultMessage" : "MPEG4 Video Photographic Image Storage"
+  },
+  "olympus-frontend:pacs.compression.NEVER" : {
+    "id" : "olympus-frontend:pacs.compression.NEVER",
+    "defaultMessage" : "Never"
+  },
+  "olympus-frontend:pacs.compression.ALWAYS" : {
+    "id" : "olympus-frontend:pacs.compression.ALWAYS",
+    "defaultMessage" : "Always"
+  },
+  "olympus-frontend:pacs.compression.BMODE_ONLY" : {
+    "id" : "olympus-frontend:pacs.compression.BMODE_ONLY",
+    "defaultMessage" : "B-Mode Only"
+  },
+  "olympus-frontend:pacs.pacsUpdateSuccess" : {
+    "id" : "olympus-frontend:pacs.pacsUpdateSuccess",
+    "defaultMessage" : "PACS configuration updated"
+  },
+  "olympus-frontend:pacs.delete" : {
+    "id" : "olympus-frontend:pacs.delete",
+    "defaultMessage" : "Delete DICOM Storage"
+  },
+  "olympus-frontend:admin.pacs.certParseFailure" : {
+    "id" : "olympus-frontend:admin.pacs.certParseFailure",
+    "defaultMessage" : "Failed to read the requested file; it may be corrupt"
+  },
+  "olympus-frontend:enterpriseConnector.dicomServer.delete.dialog.content" : {
+    "id" : "olympus-frontend:enterpriseConnector.dicomServer.delete.dialog.content",
+    "defaultMessage" : "All pending operations will be aborted."
+  },
+  "olympus-frontend:enterpriseConnector.dicomServer.delete.dialog.title" : {
+    "id" : "olympus-frontend:enterpriseConnector.dicomServer.delete.dialog.title",
+    "defaultMessage" : "Are you sure you want to permanently delete {name}?"
+  },
+  "olympus-frontend:enterpriseConnector.dicomServer.delete.dialog.confirm" : {
+    "id" : "olympus-frontend:enterpriseConnector.dicomServer.delete.dialog.confirm",
+    "defaultMessage" : "Delete"
+  },
+  "olympus-frontend:enterpriseConnector.dicomServer.delete.success" : {
+    "id" : "olympus-frontend:enterpriseConnector.dicomServer.delete.success",
+    "defaultMessage" : "Configuration deleted successfully"
+  },
+  "olympus-frontend:dicomServer.delete.control" : {
+    "id" : "olympus-frontend:dicomServer.delete.control",
+    "defaultMessage" : "Remove Connection"
+  },
+  "olympus-frontend:pacs.deleteInfo" : {
+    "id" : "olympus-frontend:pacs.deleteInfo",
+    "defaultMessage" : "This action will delete this connection. Any pending job will be aborted."
+  },
+  "olympus-frontend:enterpriseConnector.unsecured" : {
+    "id" : "olympus-frontend:enterpriseConnector.unsecured",
+    "defaultMessage" : "No Secure Connection"
+  },
+  "olympus-frontend:enterpriseConnector.name" : {
+    "id" : "olympus-frontend:enterpriseConnector.name",
+    "defaultMessage" : "Name"
+  },
+  "olympus-frontend:enterpriseConnector.scu.sectionTitle" : {
+    "id" : "olympus-frontend:enterpriseConnector.scu.sectionTitle",
+    "defaultMessage" : "SCU"
+  },
+  "olympus-frontend:enterpriseConnector.scuAet" : {
+    "id" : "olympus-frontend:enterpriseConnector.scuAet",
+    "defaultMessage" : "Calling AET"
+  },
+  "olympus-frontend:enterpriseConnector.scp.sectionTitle" : {
+    "id" : "olympus-frontend:enterpriseConnector.scp.sectionTitle",
+    "defaultMessage" : "SCP"
+  },
+  "olympus-frontend:enterpriseConnector.scpAet" : {
+    "id" : "olympus-frontend:enterpriseConnector.scpAet",
+    "defaultMessage" : "AET"
+  },
+  "olympus-frontend:enterpriseConnector.scpHost" : {
+    "id" : "olympus-frontend:enterpriseConnector.scpHost",
+    "defaultMessage" : "Host"
+  },
+  "olympus-frontend:enterpriseConnector.scpHost.placeholder" : {
+    "id" : "olympus-frontend:enterpriseConnector.scpHost.placeholder",
+    "defaultMessage" : "IP address or Hostname"
+  },
+  "olympus-frontend:enterpriseConnector.scpPort" : {
+    "id" : "olympus-frontend:enterpriseConnector.scpPort",
+    "defaultMessage" : "Port"
+  },
+  "olympus-frontend:enterpriseConnector.scpPort.placeholder" : {
+    "id" : "olympus-frontend:enterpriseConnector.scpPort.placeholder",
+    "description" : "A Port mask",
+    "defaultMessage" : "0000"
+  },
+  "olympus-frontend:enterpriseConnector.timezone" : {
+    "id" : "olympus-frontend:enterpriseConnector.timezone",
+    "defaultMessage" : "Timezone"
+  },
+  "olympus-frontend:enterpriseConnector.encoding" : {
+    "id" : "olympus-frontend:enterpriseConnector.encoding",
+    "defaultMessage" : "Encoding"
+  },
+  "olympus-frontend:enterpriseConnector.timeout.sectionTitle" : {
+    "id" : "olympus-frontend:enterpriseConnector.timeout.sectionTitle",
+    "defaultMessage" : "Timeout (seconds)"
+  },
+  "olympus-frontend:enterpriseConnector.timeoutAcse" : {
+    "id" : "olympus-frontend:enterpriseConnector.timeoutAcse",
+    "defaultMessage" : "ACSE"
+  },
+  "olympus-frontend:enterpriseConnector.timeoutDimse" : {
+    "id" : "olympus-frontend:enterpriseConnector.timeoutDimse",
+    "defaultMessage" : "DIMSE"
+  },
+  "olympus-frontend:enterpriseConnector.timeoutConnection" : {
+    "id" : "olympus-frontend:enterpriseConnector.timeoutConnection",
+    "defaultMessage" : "Connection"
+  },
+  "olympus-frontend:enterpriseConnector.security.sectionTitle" : {
+    "id" : "olympus-frontend:enterpriseConnector.security.sectionTitle",
+    "defaultMessage" : "Security"
+  },
+  "olympus-frontend:enterpriseConnector.tls" : {
+    "id" : "olympus-frontend:enterpriseConnector.tls",
+    "defaultMessage" : "TLS"
+  },
+  "olympus-frontend:enterpriseConnector.security" : {
+    "id" : "olympus-frontend:enterpriseConnector.security",
+    "defaultMessage" : "Security"
+  },
+  "olympus-frontend:enterpriseConnector.scpPublicKey" : {
+    "id" : "olympus-frontend:enterpriseConnector.scpPublicKey",
+    "defaultMessage" : "SCP Certificate"
+  },
+  "olympus-frontend:enterpriseConnector.scpPublicKey.placeholder" : {
+    "id" : "olympus-frontend:enterpriseConnector.scpPublicKey.placeholder",
+    "defaultMessage" : "Upload SCP certificate"
+  },
+  "olympus-frontend:enterpriseConnector.scuSecurity" : {
+    "id" : "olympus-frontend:enterpriseConnector.scuSecurity",
+    "defaultMessage" : "SCU Security"
+  },
+  "olympus-frontend:enterpriseConnector.submit" : {
+    "id" : "olympus-frontend:enterpriseConnector.submit",
+    "defaultMessage" : "Save configuration"
+  },
+  "olympus-frontend:enterpriseConnector.submitFailure" : {
+    "id" : "olympus-frontend:enterpriseConnector.submitFailure",
+    "defaultMessage" : "An error occurred"
+  },
+  "olympus-frontend:enterpriseConnector.downloadCertificate" : {
+    "id" : "olympus-frontend:enterpriseConnector.downloadCertificate",
+    "defaultMessage" : "Download Certificate"
+  },
+  "olympus-frontend:enterpriseConnector.regenerateCertificate" : {
+    "id" : "olympus-frontend:enterpriseConnector.regenerateCertificate",
+    "defaultMessage" : "Regenerate"
+  },
+  "olympus-frontend:enterpriseConnector.regenerateCertificateTitle" : {
+    "id" : "olympus-frontend:enterpriseConnector.regenerateCertificateTitle",
+    "defaultMessage" : "Regenerate SCU Certificate"
+  },
+  "olympus-frontend:enterpriseConnector.regenerateCertificateDialog" : {
+    "id" : "olympus-frontend:enterpriseConnector.regenerateCertificateDialog",
+    "defaultMessage" : "Are you sure you want to regenerate the certificate? You will have to update the server configuration with the new certificate."
+  },
+  "olympus-frontend:enterpriseConnector.regenerateCertificateSuccess" : {
+    "id" : "olympus-frontend:enterpriseConnector.regenerateCertificateSuccess",
+    "defaultMessage" : "Certificate regenerated successfully"
+  },
+  "olympus-frontend:enterpriseConnector.saveBeforeDownloadCert" : {
+    "id" : "olympus-frontend:enterpriseConnector.saveBeforeDownloadCert",
+    "defaultMessage" : "Save the configuration to access the SCU's certificate"
+  },
+  "olympus-frontend:enterpriseConnector.unsecuredConnectionAcknowledgmentTitle" : {
+    "id" : "olympus-frontend:enterpriseConnector.unsecuredConnectionAcknowledgmentTitle",
+    "defaultMessage" : "Warning: Unsecured DICOM Connection"
+  },
+  "olympus-frontend:enterpriseConnector.unsecuredConnectionAcknowledgmentDialog" : {
+    "id" : "olympus-frontend:enterpriseConnector.unsecuredConnectionAcknowledgmentDialog",
+    "defaultMessage" : "This mode of transmitting DICOM data should only be used for testing and validation purposes. I acknowledge that transmitting Protected Patient Health Information (PHI) over an unsecured connection is contrary to Butterly Network’s Terms of Use and could be in violation of regulatory requirements."
+  },
+  "olympus-frontend:enterpriseConnector.unsecuredConnectionAcknowledgmentConfirm" : {
+    "id" : "olympus-frontend:enterpriseConnector.unsecuredConnectionAcknowledgmentConfirm",
+    "defaultMessage" : "Acknowledge and Proceed"
+  },
+  "olympus-frontend:enterpriseConnector.tls.active" : {
+    "id" : "olympus-frontend:enterpriseConnector.tls.active",
+    "defaultMessage" : "Active"
+  },
+  "olympus-frontend:enterpriseConnector.tls.inactive" : {
+    "id" : "olympus-frontend:enterpriseConnector.tls.inactive",
+    "defaultMessage" : "Inactive – For Testing Only"
+  },
+  "olympus-frontend:enterpriseConnector.tls.qpathClassic" : {
+    "id" : "olympus-frontend:enterpriseConnector.tls.qpathClassic",
+    "defaultMessage" : "Secured mode for QPATH Classic"
+  },
+  "olympus-frontend:enterpriseConnector.isAnonymous.anonymous" : {
+    "id" : "olympus-frontend:enterpriseConnector.isAnonymous.anonymous",
+    "defaultMessage" : "Anonymous"
+  },
+  "olympus-frontend:enterpriseConnector.isAnonymous.authenticated" : {
+    "id" : "olympus-frontend:enterpriseConnector.isAnonymous.authenticated",
+    "defaultMessage" : "Authenticated"
+  },
+  "olympus-frontend:enterpriseConnector.timezone.required" : {
+    "id" : "olympus-frontend:enterpriseConnector.timezone.required",
+    "defaultMessage" : "You must specify a valid timezone"
+  },
+  "olympus-frontend:member.delete.dialog.content" : {
+    "id" : "olympus-frontend:member.delete.dialog.content",
+    "defaultMessage" : "Removing a member from an organization will revoke their access to the organization and all of its archives."
+  },
+  "olympus-frontend:member.delete.dialog.title" : {
+    "id" : "olympus-frontend:member.delete.dialog.title",
+    "defaultMessage" : "Remove Member from Organization?"
+  },
+  "olympus-frontend:member.delete.dialog.confirm" : {
+    "id" : "olympus-frontend:member.delete.dialog.confirm",
+    "defaultMessage" : "Remove"
+  },
+  "olympus-frontend:member.delete.success" : {
+    "id" : "olympus-frontend:member.delete.success",
+    "defaultMessage" : "Removed member"
+  },
+  "olympus-frontend:member.delete.menuItem" : {
+    "id" : "olympus-frontend:member.delete.menuItem",
+    "defaultMessage" : "Remove from Organization"
+  },
+  "olympus-frontend:members.inviteUser.alreadyInvited" : {
+    "id" : "olympus-frontend:members.inviteUser.alreadyInvited",
+    "defaultMessage" : "This user already has a pending invite"
+  },
+  "olympus-frontend:members.inviteUser.alreadyMember" : {
+    "id" : "olympus-frontend:members.inviteUser.alreadyMember",
+    "defaultMessage" : "This user is already a member of the organization"
+  },
+  "olympus-frontend:members.inviteUser.addMember" : {
+    "id" : "olympus-frontend:members.inviteUser.addMember",
+    "defaultMessage" : "Add a member"
+  },
+  "olympus-frontend:members.inviteUser.addMember.placeholder" : {
+    "id" : "olympus-frontend:members.inviteUser.addMember.placeholder",
+    "defaultMessage" : "Enter email"
+  },
+  "olympus-frontend:members.outOfSeats" : {
+    "id" : "olympus-frontend:members.outOfSeats",
+    "defaultMessage" : "Want to add a team member? Contact our support team to\n                  purchase more seats."
+  },
+  "olympus-frontend:members.outOfSeats.contactSupport" : {
+    "id" : "olympus-frontend:members.outOfSeats.contactSupport",
+    "defaultMessage" : "Contact"
+  },
+  "olympus-frontend:members.inviteUser.success" : {
+    "id" : "olympus-frontend:members.inviteUser.success",
+    "defaultMessage" : "Membership invite sent"
+  },
+  "olympus-frontend:members.sendInvite" : {
+    "id" : "olympus-frontend:members.sendInvite",
+    "defaultMessage" : "Invite"
+  },
+  "olympus-frontend:member.leaveOrganization.dialog.content" : {
+    "id" : "olympus-frontend:member.leaveOrganization.dialog.content",
+    "defaultMessage" : "Leaving this organization will immediately revoke your access to the Butterfly Cloud and all your archives."
+  },
+  "olympus-frontend:member.leaveOrganization.dialog.title" : {
+    "id" : "olympus-frontend:member.leaveOrganization.dialog.title",
+    "defaultMessage" : "Leave This Organization?"
+  },
+  "olympus-frontend:member.leaveOrganization.dialog.confirm" : {
+    "id" : "olympus-frontend:member.leaveOrganization.dialog.confirm",
+    "defaultMessage" : "Leave"
+  },
+  "olympus-frontend:member.leaveOrganization.success" : {
+    "id" : "olympus-frontend:member.leaveOrganization.success",
+    "defaultMessage" : "Your account has been deleted"
+  },
+  "olympus-frontend:member.leaveOrganization.menuItem" : {
+    "id" : "olympus-frontend:member.leaveOrganization.menuItem",
+    "defaultMessage" : "Leave Organization"
+  },
+  "olympus-frontend:member.role.admin" : {
+    "id" : "olympus-frontend:member.role.admin",
+    "defaultMessage" : "Admin"
+  },
+  "olympus-frontend:member.role.regular" : {
+    "id" : "olympus-frontend:member.role.regular",
+    "defaultMessage" : "Regular"
+  },
+  "olympus-frontend:member.cannotModifyOnlyAdmin" : {
+    "id" : "olympus-frontend:member.cannotModifyOnlyAdmin",
+    "defaultMessage" : "Every organization must have at least one admin. Modify another member to be an admin to remove this admin."
+  },
+  "olympus-frontend:members.title" : {
+    "id" : "olympus-frontend:members.title",
+    "defaultMessage" : "Members"
+  },
+  "olympus-frontend:members.numMembers" : {
+    "id" : "olympus-frontend:members.numMembers",
+    "defaultMessage" : "{numMembers} Members"
+  },
+  "olympus-frontend:members.numAvailableSeats" : {
+    "id" : "olympus-frontend:members.numAvailableSeats",
+    "defaultMessage" : "{numAvailableSeats} seats remaining"
+  },
+  "olympus-frontend:members.user.header" : {
+    "id" : "olympus-frontend:members.user.header",
+    "defaultMessage" : "User"
+  },
+  "olympus-frontend:members.accessLevel.header" : {
+    "id" : "olympus-frontend:members.accessLevel.header",
+    "defaultMessage" : "Access Level"
+  },
+  "olympus-frontend:member.pendingInvitation" : {
+    "id" : "olympus-frontend:member.pendingInvitation",
+    "defaultMessage" : "Pending invitation"
+  },
+  "olympus-frontend:member.updateRole.self.dialog.content" : {
+    "id" : "olympus-frontend:member.updateRole.self.dialog.content",
+    "defaultMessage" : "You will need to ask an active organization administrator to undo this action."
+  },
+  "olympus-frontend:member.updateRole.self.dialog.title" : {
+    "id" : "olympus-frontend:member.updateRole.self.dialog.title",
+    "defaultMessage" : "Are you sure you no longer want to administer this organization?"
+  },
+  "olympus-frontend:member.updateRole.self.dialog.confirm" : {
+    "id" : "olympus-frontend:member.updateRole.self.dialog.confirm",
+    "defaultMessage" : "Demote Self"
+  },
+  "olympus-frontend:member.updateRole.admin.title" : {
+    "id" : "olympus-frontend:member.updateRole.admin.title",
+    "defaultMessage" : "Make Admin"
+  },
+  "olympus-frontend:member.updateRole.admin.description" : {
+    "id" : "olympus-frontend:member.updateRole.admin.description",
+    "defaultMessage" : "Admins can create and manage archives, manage organization members, manage any study or comment, and manage and use the organization's saved billing method on the Butterfly Store."
+  },
+  "olympus-frontend:member.updateRole.regular.title" : {
+    "id" : "olympus-frontend:member.updateRole.regular.title",
+    "defaultMessage" : "Make Regular Member"
+  },
+  "olympus-frontend:member.updateRole.regular.description" : {
+    "id" : "olympus-frontend:member.updateRole.regular.description",
+    "defaultMessage" : "Regular members can upload studies, view archives and studies, comment on images, and move or delete their own studies."
+  },
+  "olympus-frontend:worksheetTemplates.option.label" : {
+    "id" : "olympus-frontend:worksheetTemplates.option.label",
+    "defaultMessage" : "Option {indexDisplay}"
+  },
+  "olympus-frontend:worksheetTemplates.option.placeholder" : {
+    "id" : "olympus-frontend:worksheetTemplates.option.placeholder",
+    "defaultMessage" : "Enter option {indexDisplay}"
+  },
+  "olympus-frontend:worksheetTemplates.option.remove" : {
+    "id" : "olympus-frontend:worksheetTemplates.option.remove",
+    "defaultMessage" : "Remove option"
+  },
+  "olympus-frontend:worksheetTemplates.option.add" : {
+    "id" : "olympus-frontend:worksheetTemplates.option.add",
+    "defaultMessage" : "Add new option"
+  },
+  "olympus-frontend:worksheetTemplates.pageTitle" : {
+    "id" : "olympus-frontend:worksheetTemplates.pageTitle",
+    "defaultMessage" : "Worksheet Template"
+  },
+  "olympus-frontend:worksheetTemplates.title" : {
+    "id" : "olympus-frontend:worksheetTemplates.title",
+    "defaultMessage" : "Worksheet Title"
+  },
+  "olympus-frontend:worksheetTemplates.addSection" : {
+    "id" : "olympus-frontend:worksheetTemplates.addSection",
+    "defaultMessage" : "Add a Section"
+  },
+  "olympus-frontend:worksheetTemplates.save" : {
+    "id" : "olympus-frontend:worksheetTemplates.save",
+    "defaultMessage" : "Save and Exit"
+  },
+  "olympus-frontend:worksheetTemplates.question.duplicate" : {
+    "id" : "olympus-frontend:worksheetTemplates.question.duplicate",
+    "defaultMessage" : "Duplicate"
+  },
+  "olympus-frontend:worksheetTemplates.question.remove" : {
+    "id" : "olympus-frontend:worksheetTemplates.question.remove",
+    "defaultMessage" : "Remove"
+  },
+  "olympus-frontend:worksheetTemplates.question.label" : {
+    "id" : "olympus-frontend:worksheetTemplates.question.label",
+    "defaultMessage" : "Question {number}"
+  },
+  "olympus-frontend:worksheetTemplates.question.optional" : {
+    "id" : "olympus-frontend:worksheetTemplates.question.optional",
+    "defaultMessage" : "(Optional)"
+  },
+  "olympus-frontend:worksheetTemplates.question.required" : {
+    "id" : "olympus-frontend:worksheetTemplates.question.required",
+    "defaultMessage" : "(Required)"
+  },
+  "olympus-frontend:worksheetTemplates.question.makeOptional" : {
+    "id" : "olympus-frontend:worksheetTemplates.question.makeOptional",
+    "defaultMessage" : "Make Optional"
+  },
+  "olympus-frontend:worksheetTemplates.question.makeRequired" : {
+    "id" : "olympus-frontend:worksheetTemplates.question.makeRequired",
+    "defaultMessage" : "Make Required"
+  },
+  "olympus-frontend:worksheetTemplates.section.title" : {
+    "id" : "olympus-frontend:worksheetTemplates.section.title",
+    "defaultMessage" : "Section {number} Title"
+  },
+  "olympus-frontend:worksheetTemplates.section.actions" : {
+    "id" : "olympus-frontend:worksheetTemplates.section.actions",
+    "defaultMessage" : "Section Actions"
+  },
+  "olympus-frontend:worksheetTemplates.section.moveUp" : {
+    "id" : "olympus-frontend:worksheetTemplates.section.moveUp",
+    "defaultMessage" : "Move section up"
+  },
+  "olympus-frontend:worksheetTemplates.section.moveDown" : {
+    "id" : "olympus-frontend:worksheetTemplates.section.moveDown",
+    "defaultMessage" : "Move section down"
+  },
+  "olympus-frontend:worksheetTemplates.section.duplicate" : {
+    "id" : "olympus-frontend:worksheetTemplates.section.duplicate",
+    "defaultMessage" : "Duplicate section"
+  },
+  "olympus-frontend:worksheetTemplates.section.delete" : {
+    "id" : "olympus-frontend:worksheetTemplates.section.delete",
+    "defaultMessage" : "Delete section"
+  },
+  "olympus-frontend:worksheetTemplates.question.add" : {
+    "id" : "olympus-frontend:worksheetTemplates.question.add",
+    "defaultMessage" : "Add a Question"
+  },
+  "olympus-frontend:worksheetTemplates.style.shortAnswer" : {
+    "id" : "olympus-frontend:worksheetTemplates.style.shortAnswer",
+    "defaultMessage" : "Short answer"
+  },
+  "olympus-frontend:worksheetTemplates.style.longAnswer" : {
+    "id" : "olympus-frontend:worksheetTemplates.style.longAnswer",
+    "defaultMessage" : "Long answer"
+  },
+  "olympus-frontend:worksheetTemplates.style.radio" : {
+    "id" : "olympus-frontend:worksheetTemplates.style.radio",
+    "defaultMessage" : "Multiple Choice"
+  },
+  "olympus-frontend:worksheetTemplates.style.checkbox" : {
+    "id" : "olympus-frontend:worksheetTemplates.style.checkbox",
+    "defaultMessage" : "Checkboxes"
+  },
+  "olympus-frontend:worksheetTemplates.style.number" : {
+    "id" : "olympus-frontend:worksheetTemplates.style.number",
+    "defaultMessage" : "Numerical"
+  },
+  "olympus-frontend:worksheetTemplates.validation.labelsNotUnique" : {
+    "id" : "olympus-frontend:worksheetTemplates.validation.labelsNotUnique",
+    "defaultMessage" : "Option labels must be unique"
+  },
+  "olympus-frontend:archivePage.settings" : {
+    "id" : "olympus-frontend:archivePage.settings",
+    "defaultMessage" : "Archive Settings"
+  },
+  "olympus-frontend:tutorial.view_archive_settings.title" : {
+    "id" : "olympus-frontend:tutorial.view_archive_settings.title",
+    "defaultMessage" : "Rename your archive"
+  },
+  "olympus-frontend:tutorial.view_archive_settings.sub" : {
+    "id" : "olympus-frontend:tutorial.view_archive_settings.sub",
+    "defaultMessage" : "Archives are folders for your studies. Give your archive a name to help organization your studies."
+  },
+  "olympus-frontend:archive.deleted" : {
+    "id" : "olympus-frontend:archive.deleted",
+    "defaultMessage" : "This archive was deleted"
+  },
+  "olympus-frontend:archive.undelete" : {
+    "id" : "olympus-frontend:archive.undelete",
+    "defaultMessage" : "Restore"
+  },
+  "olympus-frontend:archiveSettings.name" : {
+    "id" : "olympus-frontend:archiveSettings.name",
+    "defaultMessage" : "Archive Name"
+  },
+  "olympus-frontend:archiveSettings.title" : {
+    "id" : "olympus-frontend:archiveSettings.title",
+    "defaultMessage" : "{archive} Settings"
+  },
+  "olympus-frontend:archiveSettings.submit" : {
+    "id" : "olympus-frontend:archiveSettings.submit",
+    "defaultMessage" : "Save"
+  },
+  "olympus-frontend:archive.delete.header" : {
+    "id" : "olympus-frontend:archive.delete.header",
+    "defaultMessage" : "Delete Archive"
+  },
+  "olympus-frontend:archive.delete.help" : {
+    "id" : "olympus-frontend:archive.delete.help",
+    "defaultMessage" : "This action will delete the archive and all of its contents"
+  },
+  "olympus-frontend:archive.noStorageSelected" : {
+    "id" : "olympus-frontend:archive.noStorageSelected",
+    "defaultMessage" : "No PACS Selected"
+  },
+  "olympus-frontend:changePacsArchiveAssociations.noStorage" : {
+    "id" : "olympus-frontend:changePacsArchiveAssociations.noStorage",
+    "defaultMessage" : "No Storages available.{br}You can create a DICOM storage connector from the DICOM Connections page."
+  },
+  "olympus-frontend:archive.delete.dialog.content" : {
+    "id" : "olympus-frontend:archive.delete.dialog.content",
+    "defaultMessage" : "You will lose access to all images in the archive."
+  },
+  "olympus-frontend:archive.delete.dialog.title" : {
+    "id" : "olympus-frontend:archive.delete.dialog.title",
+    "defaultMessage" : "Are you sure you want to delete this archive?"
+  },
+  "olympus-frontend:archive.delete.dialog.confirm" : {
+    "id" : "olympus-frontend:archive.delete.dialog.confirm",
+    "defaultMessage" : "Delete"
+  },
+  "olympus-frontend:archive.delete.success" : {
+    "id" : "olympus-frontend:archive.delete.success",
+    "defaultMessage" : "Archive deleted successfully"
+  },
+  "olympus-frontend:archive.delete.control" : {
+    "id" : "olympus-frontend:archive.delete.control",
+    "defaultMessage" : "Delete Archive"
+  },
+  "olympus-frontend:studies.all" : {
+    "id" : "olympus-frontend:studies.all",
+    "defaultMessage" : "All Studies"
+  },
+  "olympus-frontend:studies.complete" : {
+    "id" : "olympus-frontend:studies.complete",
+    "defaultMessage" : "Completed Studies"
+  },
+  "olympus-frontend:studies.drafts" : {
+    "id" : "olympus-frontend:studies.drafts",
+    "defaultMessage" : "Drafts"
+  },
+  "olympus-frontend:emptyArchive.downloadApp.title" : {
+    "id" : "olympus-frontend:emptyArchive.downloadApp.title",
+    "defaultMessage" : "Download Butterfly iQ app for iOS"
+  },
+  "olympus-frontend:emptyArchive.downloadApp.body" : {
+    "id" : "olympus-frontend:emptyArchive.downloadApp.body",
+    "defaultMessage" : "To upload studies to the cloud, download the Butterfly iQ App for iOS."
+  },
+  "olympus-frontend:emptyArchive.noDrafts.title" : {
+    "id" : "olympus-frontend:emptyArchive.noDrafts.title",
+    "defaultMessage" : "No Drafts Found"
+  },
+  "olympus-frontend:emptyArchive.noDrafts.body" : {
+    "id" : "olympus-frontend:emptyArchive.noDrafts.body",
+    "defaultMessage" : "Drafts can be created and saved from the Butterfly iQ app. Once finalized, drafts will appear as “Complete Studies”."
+  },
+  "olympus-frontend:emptyArchive.noStudies.title" : {
+    "id" : "olympus-frontend:emptyArchive.noStudies.title",
+    "defaultMessage" : "No Studies Found"
+  },
+  "olympus-frontend:emptyArchive.noStudies.body" : {
+    "id" : "olympus-frontend:emptyArchive.noStudies.body",
+    "defaultMessage" : "Save and review studies right from your device. Select this archive destination while uploading a study."
+  },
+  "olympus-frontend:archive.settings.pacsSync.title" : {
+    "id" : "olympus-frontend:archive.settings.pacsSync.title",
+    "defaultMessage" : "PACS Forwarding (Select up to {limit})"
+  },
+  "olympus-frontend:archive.settings.pacsSync.label" : {
+    "id" : "olympus-frontend:archive.settings.pacsSync.label",
+    "defaultMessage" : "PACS {index}"
+  },
+  "olympus-frontend:comment.placeholder.individual" : {
+    "id" : "olympus-frontend:comment.placeholder.individual",
+    "defaultMessage" : "Add a comment."
+  },
+  "olympus-frontend:comment.placeholder.team" : {
+    "id" : "olympus-frontend:comment.placeholder.team",
+    "defaultMessage" : "Add a comment. Type “@“ to tag a teammate."
+  },
+  "olympus-frontend:comment.unsaved.dialog.content" : {
+    "id" : "olympus-frontend:comment.unsaved.dialog.content",
+    "defaultMessage" : "Are you sure you want to leave? Your drafted comment will be lost."
+  },
+  "olympus-frontend:comment.unsaved.dialog.title" : {
+    "id" : "olympus-frontend:comment.unsaved.dialog.title",
+    "defaultMessage" : "You Have an Unsubmitted Comment"
+  },
+  "olympus-frontend:comment.tooLong.dialog.content" : {
+    "id" : "olympus-frontend:comment.tooLong.dialog.content",
+    "defaultMessage" : "The maximum comment length is {maxChars} characters."
+  },
+  "olympus-frontend:comment.tooLong.dialog.title" : {
+    "id" : "olympus-frontend:comment.tooLong.dialog.title",
+    "defaultMessage" : "Your Comment Is {numExtraChars} Characters Too Long"
+  },
+  "olympus-frontend:tutorial.post_comment.title" : {
+    "id" : "olympus-frontend:tutorial.post_comment.title",
+    "defaultMessage" : "Post a comment"
+  },
+  "olympus-frontend:tutorial.post_comment.sub.team" : {
+    "id" : "olympus-frontend:tutorial.post_comment.sub.team",
+    "defaultMessage" : "Invite a team member to comment by entering an “@“ followed by their name"
+  },
+  "olympus-frontend:tutorial.post_comment.sub.individual" : {
+    "id" : "olympus-frontend:tutorial.post_comment.sub.individual",
+    "defaultMessage" : "Comment or leave notes on studies you have uploaded to the Butterfly Cloud"
+  },
+  "olympus-frontend:comment.submit.error" : {
+    "id" : "olympus-frontend:comment.submit.error",
+    "defaultMessage" : "Commenting failed. Please try again."
+  },
+  "olympus-frontend:comment.submit" : {
+    "id" : "olympus-frontend:comment.submit",
+    "defaultMessage" : "Comment"
+  },
+  "olympus-frontend:commentOld.unsaved.dialog.content" : {
+    "id" : "olympus-frontend:commentOld.unsaved.dialog.content",
+    "defaultMessage" : "Are you sure you want to leave? Your drafted comment will be lost."
+  },
+  "olympus-frontend:commentOld.unsaved.dialog.title" : {
+    "id" : "olympus-frontend:commentOld.unsaved.dialog.title",
+    "defaultMessage" : "You Have an Unsubmitted Comment"
+  },
+  "olympus-frontend:commentOld.tooLong.dialog.content" : {
+    "id" : "olympus-frontend:commentOld.tooLong.dialog.content",
+    "defaultMessage" : "The maximum comment length is {maxChars} characters."
+  },
+  "olympus-frontend:commentOld.tooLong.dialog.title" : {
+    "id" : "olympus-frontend:commentOld.tooLong.dialog.title",
+    "defaultMessage" : "Your Comment Is {numExtraChars} Characters Too Long"
+  },
+  "olympus-frontend:tutorial.old.post_comment.title" : {
+    "id" : "olympus-frontend:tutorial.old.post_comment.title",
+    "defaultMessage" : "Post a comment"
+  },
+  "olympus-frontend:tutorial.old.post_comment.sub.team" : {
+    "id" : "olympus-frontend:tutorial.old.post_comment.sub.team",
+    "defaultMessage" : "Invite a team member to comment by entering an “@“ followed by their name"
+  },
+  "olympus-frontend:tutorial.old.post_comment.sub.individual" : {
+    "id" : "olympus-frontend:tutorial.old.post_comment.sub.individual",
+    "defaultMessage" : "Comment or leave notes on studies you have uploaded to the Butterfly Cloud"
+  },
+  "olympus-frontend:comment.old.submit.error" : {
+    "id" : "olympus-frontend:comment.old.submit.error",
+    "defaultMessage" : "Commenting failed. Please try again."
+  },
+  "olympus-frontend:comment.old.submit" : {
+    "id" : "olympus-frontend:comment.old.submit",
+    "defaultMessage" : "Comment"
+  },
+  "olympus-frontend:commentListItem.commentActions" : {
+    "id" : "olympus-frontend:commentListItem.commentActions",
+    "defaultMessage" : "Comment actions menu"
+  },
+  "olympus-frontend:comment.delete.dialog.title" : {
+    "id" : "olympus-frontend:comment.delete.dialog.title",
+    "defaultMessage" : "Delete Comment?"
+  },
+  "olympus-frontend:comment.delete" : {
+    "id" : "olympus-frontend:comment.delete",
+    "defaultMessage" : "Delete Comment"
+  },
+  "olympus-frontend:deleteWorksheet.dialog.title" : {
+    "id" : "olympus-frontend:deleteWorksheet.dialog.title",
+    "defaultMessage" : "Delete this worksheet?"
+  },
+  "olympus-frontend:deleteWorksheet.dialog.message" : {
+    "id" : "olympus-frontend:deleteWorksheet.dialog.message",
+    "defaultMessage" : "Deleting this worksheet will remove all the content it contains at the time of deletion."
+  },
+  "olympus-frontend:editStudyMetadata.edit" : {
+    "id" : "olympus-frontend:editStudyMetadata.edit",
+    "defaultMessage" : "Edit"
+  },
+  "olympus-frontend:studyInfo.nameFirst" : {
+    "id" : "olympus-frontend:studyInfo.nameFirst",
+    "defaultMessage" : "First Name"
+  },
+  "olympus-frontend:studyInfo.nameMiddle" : {
+    "id" : "olympus-frontend:studyInfo.nameMiddle",
+    "defaultMessage" : "Middle Name"
+  },
+  "olympus-frontend:studyInfo.nameLast" : {
+    "id" : "olympus-frontend:studyInfo.nameLast",
+    "defaultMessage" : "Last Name"
+  },
+  "olympus-frontend:studyInfo.namePrefix" : {
+    "id" : "olympus-frontend:studyInfo.namePrefix",
+    "defaultMessage" : "Title"
+  },
+  "olympus-frontend:studyInfo.nameSuffix" : {
+    "id" : "olympus-frontend:studyInfo.nameSuffix",
+    "defaultMessage" : "Suffix"
+  },
+  "olympus-frontend:studyInfo.birthDate.placeholder" : {
+    "id" : "olympus-frontend:studyInfo.birthDate.placeholder",
+    "defaultMessage" : "YYYY-MM-DD"
+  },
+  "olympus-frontend:studyInfo.accessionNumber" : {
+    "id" : "olympus-frontend:studyInfo.accessionNumber",
+    "defaultMessage" : "Accession #"
+  },
+  "olympus-frontend:studyInfo.accessionNumber.empty" : {
+    "id" : "olympus-frontend:studyInfo.accessionNumber.empty",
+    "defaultMessage" : "No Accession #"
+  },
+  "olympus-frontend:editStudyInfo.title" : {
+    "id" : "olympus-frontend:editStudyInfo.title",
+    "defaultMessage" : "Edit Study Details"
+  },
+  "olympus-frontend:study.accessionNumber.clear" : {
+    "id" : "olympus-frontend:study.accessionNumber.clear",
+    "defaultMessage" : "Clear"
+  },
+  "olympus-frontend:study.studyDescription.clear" : {
+    "id" : "olympus-frontend:study.studyDescription.clear",
+    "defaultMessage" : "Clear"
+  },
+  "olympus-frontend:studyInfo.saveNote" : {
+    "id" : "olympus-frontend:studyInfo.saveNote",
+    "defaultMessage" : "The Butterfly cloud will not automatically send the edited study to your downstream DICOM storage endpoints. Before manually re-sending the updated study from the cloud, please delete the current instance of your study in the downstream storage."
+  },
+  "olympus-frontend:studyInfo.save" : {
+    "id" : "olympus-frontend:studyInfo.save",
+    "defaultMessage" : "Save"
+  },
+  "olympus-frontend:studyInfo.cancel" : {
+    "id" : "olympus-frontend:studyInfo.cancel",
+    "defaultMessage" : "Cancel"
+  },
+  "olympus-frontend:image.follow.success" : {
+    "id" : "olympus-frontend:image.follow.success",
+    "defaultMessage" : "Followed image"
+  },
+  "olympus-frontend:image.follow.failure" : {
+    "id" : "olympus-frontend:image.follow.failure",
+    "defaultMessage" : "Failed to follow image"
+  },
+  "olympus-frontend:image.unfollow.success" : {
+    "id" : "olympus-frontend:image.unfollow.success",
+    "defaultMessage" : "Unfollowed image"
+  },
+  "olympus-frontend:image.unfollow.failure" : {
+    "id" : "olympus-frontend:image.unfollow.failure",
+    "defaultMessage" : "Failed to unfollow image"
+  },
+  "olympus-frontend:image.following" : {
+    "id" : "olympus-frontend:image.following",
+    "defaultMessage" : "Following"
+  },
+  "olympus-frontend:image.follow" : {
+    "id" : "olympus-frontend:image.follow",
+    "defaultMessage" : "Follow"
+  },
+  "olympus-frontend:imageOld.unfollow.success" : {
+    "id" : "olympus-frontend:imageOld.unfollow.success",
+    "defaultMessage" : "Unfollowed image"
+  },
+  "olympus-frontend:imageOld.follow.success" : {
+    "id" : "olympus-frontend:imageOld.follow.success",
+    "defaultMessage" : "Followed image"
+  },
+  "olympus-frontend:imageOld.unfollow.failure" : {
+    "id" : "olympus-frontend:imageOld.unfollow.failure",
+    "defaultMessage" : "Failed to unfollow image"
+  },
+  "olympus-frontend:imageOld.follow.failure" : {
+    "id" : "olympus-frontend:imageOld.follow.failure",
+    "defaultMessage" : "Failed to follow image"
+  },
+  "olympus-frontend:imageOld.following" : {
+    "id" : "olympus-frontend:imageOld.following",
+    "defaultMessage" : "Following"
+  },
+  "olympus-frontend:imageOld.follow" : {
+    "id" : "olympus-frontend:imageOld.follow",
+    "defaultMessage" : "Follow"
+  },
+  "olympus-frontend:comments.empty" : {
+    "id" : "olympus-frontend:comments.empty",
+    "defaultMessage" : "Add the first comment below."
+  },
+  "olympus-frontend:worksheets.add.title" : {
+    "id" : "olympus-frontend:worksheets.add.title",
+    "defaultMessage" : "Select a worksheet template"
+  },
+  "olympus-frontend:worksheets.add.select" : {
+    "id" : "olympus-frontend:worksheets.add.select",
+    "defaultMessage" : "Select"
+  },
+  "olympus-frontend:worksheets.add.cancel" : {
+    "id" : "olympus-frontend:worksheets.add.cancel",
+    "defaultMessage" : "Cancel"
+  },
+  "olympus-frontend:studyImage.showInterpretation" : {
+    "id" : "olympus-frontend:studyImage.showInterpretation",
+    "defaultMessage" : "EF Calculation"
+  },
+  "olympus-frontend:study.history.button" : {
+    "id" : "olympus-frontend:study.history.button",
+    "defaultMessage" : "History"
+  },
+  "olympus-frontend:study.history.title" : {
+    "id" : "olympus-frontend:study.history.title",
+    "defaultMessage" : "History"
+  },
+  "olympus-frontend:study.history.close" : {
+    "id" : "olympus-frontend:study.history.close",
+    "defaultMessage" : "Close"
+  },
+  "olympus-frontend:study.history.createdAt" : {
+    "id" : "olympus-frontend:study.history.createdAt",
+    "defaultMessage" : "Created {value}"
+  },
+  "olympus-frontend:study.history.editedAt" : {
+    "id" : "olympus-frontend:study.history.editedAt",
+    "defaultMessage" : "Edited {value}"
+  },
+  "olympus-frontend:study.history.movedAt" : {
+    "id" : "olympus-frontend:study.history.movedAt",
+    "defaultMessage" : "Moved {value}"
+  },
+  "olympus-frontend:study.history.deletedAt" : {
+    "id" : "olympus-frontend:study.history.deletedAt",
+    "defaultMessage" : "Deleted {value}"
+  },
+  "olympus-frontend:study.history.undeletedAt" : {
+    "id" : "olympus-frontend:study.history.undeletedAt",
+    "defaultMessage" : "Restored {value}"
+  },
+  "olympus-frontend:study.history.modifiedAt" : {
+    "id" : "olympus-frontend:study.history.modifiedAt",
+    "defaultMessage" : "Modified {value}"
+  },
+  "olympus-frontend:study.history.createdBy" : {
+    "id" : "olympus-frontend:study.history.createdBy",
+    "defaultMessage" : "Created by {name}"
+  },
+  "olympus-frontend:study.history.editedBy" : {
+    "id" : "olympus-frontend:study.history.editedBy",
+    "defaultMessage" : "Edited by {name}"
+  },
+  "olympus-frontend:study.history.movedBy" : {
+    "id" : "olympus-frontend:study.history.movedBy",
+    "defaultMessage" : "Moved by {name}"
+  },
+  "olympus-frontend:study.history.deletedBy" : {
+    "id" : "olympus-frontend:study.history.deletedBy",
+    "defaultMessage" : "Deleted by {name}"
+  },
+  "olympus-frontend:study.history.undeletedBy" : {
+    "id" : "olympus-frontend:study.history.undeletedBy",
+    "defaultMessage" : "Restored by {name}"
+  },
+  "olympus-frontend:study.history.modifiedBy" : {
+    "id" : "olympus-frontend:study.history.modifiedBy",
+    "defaultMessage" : "Modified by {name}"
+  },
+  "olympus-frontend:study.history.archive.unknown" : {
+    "id" : "olympus-frontend:study.history.archive.unknown",
+    "defaultMessage" : "Unknown archive"
+  },
+  "olympus-frontend:study.history.destinationArchive" : {
+    "id" : "olympus-frontend:study.history.destinationArchive",
+    "defaultMessage" : "Destination Archive"
+  },
+  "olympus-frontend:study.history.sourceArchive" : {
+    "id" : "olympus-frontend:study.history.sourceArchive",
+    "defaultMessage" : "Source Archive"
+  },
+  "olympus-frontend:studyImageComments.showMore" : {
+    "id" : "olympus-frontend:studyImageComments.showMore",
+    "defaultMessage" : "Show More"
+  },
+  "olympus-frontend:studyImageComments.showLess" : {
+    "id" : "olympus-frontend:studyImageComments.showLess",
+    "defaultMessage" : "Show Less"
+  },
+  "olympus-frontend:image.showImage" : {
+    "id" : "olympus-frontend:image.showImage",
+    "defaultMessage" : "Show Image"
+  },
+  "olympus-frontend:image.showGallery" : {
+    "id" : "olympus-frontend:image.showGallery",
+    "defaultMessage" : "Show Gallery"
+  },
+  "olympus-frontend:image.download" : {
+    "id" : "olympus-frontend:image.download",
+    "defaultMessage" : "Download"
+  },
+  "olympus-frontend:imageOld.index" : {
+    "id" : "olympus-frontend:imageOld.index",
+    "defaultMessage" : "{activeIndexDisplay} of {numImages}"
+  },
+  "olympus-frontend:imageOld.download" : {
+    "id" : "olympus-frontend:imageOld.download",
+    "defaultMessage" : "Download"
+  },
+  "olympus-frontend:image.index" : {
+    "id" : "olympus-frontend:image.index",
+    "defaultMessage" : "{activeIndexDisplay} of {numImages}"
+  },
+  "olympus-frontend:studyImage.share" : {
+    "id" : "olympus-frontend:studyImage.share",
+    "defaultMessage" : "Share"
+  },
+  "olympus-frontend:study.more" : {
+    "id" : "olympus-frontend:study.more",
+    "defaultMessage" : "More"
+  },
+  "olympus-frontend:studyImage.measurements" : {
+    "id" : "olympus-frontend:studyImage.measurements",
+    "defaultMessage" : "Measure"
+  },
+  "olympus-frontend:image.archiveDeleted" : {
+    "id" : "olympus-frontend:image.archiveDeleted",
+    "defaultMessage" : "This archive was deleted"
+  },
+  "olympus-frontend:image.undeleteArchive" : {
+    "id" : "olympus-frontend:image.undeleteArchive",
+    "defaultMessage" : "Restore Archive"
+  },
+  "olympus-frontend:image.studyDeleted" : {
+    "id" : "olympus-frontend:image.studyDeleted",
+    "defaultMessage" : "This study was deleted"
+  },
+  "olympus-frontend:image.undeleteStudy" : {
+    "id" : "olympus-frontend:image.undeleteStudy",
+    "defaultMessage" : "Restore Study"
+  },
+  "olympus-frontend:study.uploadedAt.title" : {
+    "id" : "olympus-frontend:study.uploadedAt.title",
+    "defaultMessage" : "Uploaded"
+  },
+  "olympus-frontend:draftControl.message" : {
+    "id" : "olympus-frontend:draftControl.message",
+    "defaultMessage" : "Finalizing a draft will publish it as a study in this archive. Studies are only editable by admins in this organization."
+  },
+  "olympus-frontend:draftControl.title" : {
+    "id" : "olympus-frontend:draftControl.title",
+    "defaultMessage" : "Finalize this draft?"
+  },
+  "olympus-frontend:draftControl.finalize" : {
+    "id" : "olympus-frontend:draftControl.finalize",
+    "defaultMessage" : "Finalize"
+  },
+  "olympus-frontend:draftControl.success" : {
+    "id" : "olympus-frontend:draftControl.success",
+    "defaultMessage" : "Your draft has been finalized."
+  },
+  "olympus-frontend:studySidebar.draft.finalize.dialog.body" : {
+    "id" : "olympus-frontend:studySidebar.draft.finalize.dialog.body",
+    "defaultMessage" : "Finalizing a draft will publish it as a study in this archive. Studies are only editable by admins in this organization."
+  },
+  "olympus-frontend:studySidebar.draft.finalize.dialog.title" : {
+    "id" : "olympus-frontend:studySidebar.draft.finalize.dialog.title",
+    "defaultMessage" : "Finalize this draft?"
+  },
+  "olympus-frontend:studySidebar.draft.finalize.dialog.confirm" : {
+    "id" : "olympus-frontend:studySidebar.draft.finalize.dialog.confirm",
+    "defaultMessage" : "Finalize"
+  },
+  "olympus-frontend:studySidebar.draft.title" : {
+    "id" : "olympus-frontend:studySidebar.draft.title",
+    "defaultMessage" : "Draft"
+  },
+  "olympus-frontend:studySidebar.draft.finalize" : {
+    "id" : "olympus-frontend:studySidebar.draft.finalize",
+    "defaultMessage" : "Finalize"
+  },
+  "olympus-frontend:studyOld.uploadedAt.title" : {
+    "id" : "olympus-frontend:studyOld.uploadedAt.title",
+    "defaultMessage" : "Uploaded"
+  },
+  "olympus-frontend:worksheets.moreActions" : {
+    "id" : "olympus-frontend:worksheets.moreActions",
+    "defaultMessage" : "Worksheet Actions"
+  },
+  "olympus-frontend:worksheets.header" : {
+    "id" : "olympus-frontend:worksheets.header",
+    "defaultMessage" : "Worksheet"
+  },
+  "olympus-frontend:worksheets.edit" : {
+    "id" : "olympus-frontend:worksheets.edit",
+    "defaultMessage" : "Edit"
+  },
+  "olympus-frontend:worksheets.emptyValue" : {
+    "id" : "olympus-frontend:worksheets.emptyValue",
+    "defaultMessage" : "N/A"
+  },
+  "olympus-frontend:worksheets.submit" : {
+    "id" : "olympus-frontend:worksheets.submit",
+    "defaultMessage" : "Submit"
+  },
+  "olympus-frontend:worksheets.exit" : {
+    "id" : "olympus-frontend:worksheets.exit",
+    "defaultMessage" : "Exit"
+  },
+  "olympus-frontend:worksheets.optional" : {
+    "id" : "olympus-frontend:worksheets.optional",
+    "defaultMessage" : "(Optional)"
+  },
+  "olympus-frontend:worksheets.currentWorksheetNumber" : {
+    "id" : "olympus-frontend:worksheets.currentWorksheetNumber",
+    "defaultMessage" : "{activeIndexDisplay} of {numWorksheets}"
+  },
+  "olympus-frontend:worksheets.empty" : {
+    "id" : "olympus-frontend:worksheets.empty",
+    "defaultMessage" : "No worksheets added for this study."
+  },
+  "olympus-frontend:worksheets.add" : {
+    "id" : "olympus-frontend:worksheets.add",
+    "defaultMessage" : "Add"
+  },
+  "olympus-frontend:worksheets.numQuestions" : {
+    "id" : "olympus-frontend:worksheets.numQuestions",
+    "defaultMessage" : "{numQuestions} {numQuestions, plural, one {Question} other {Questions}}"
+  },
+  "olympus-frontend:study.patient" : {
+    "id" : "olympus-frontend:study.patient",
+    "defaultMessage" : "Patient"
+  },
+  "olympus-frontend:study.notes" : {
+    "id" : "olympus-frontend:study.notes",
+    "defaultMessage" : "Notes"
+  },
+  "olympus-frontend:study.notes.empty" : {
+    "id" : "olympus-frontend:study.notes.empty",
+    "defaultMessage" : "No study notes"
+  },
+  "olympus-frontend:study.studyDescription" : {
+    "id" : "olympus-frontend:study.studyDescription",
+    "defaultMessage" : "Study Description"
+  },
+  "olympus-frontend:study.studyDescription.empty" : {
+    "id" : "olympus-frontend:study.studyDescription.empty",
+    "defaultMessage" : "No study description"
+  },
+  "olympus-frontend:study.patient.invalidCharacters" : {
+    "id" : "olympus-frontend:study.patient.invalidCharacters",
+    "defaultMessage" : "Cannot contain invalid characters"
+  },
+  "olympus-frontend:study.patient.invalidDate" : {
+    "id" : "olympus-frontend:study.patient.invalidDate",
+    "defaultMessage" : "Please enter a valid date matching: YYYY-MM-DD"
+  },
+  "olympus-frontend:deletedStudiesPage.deletedStudies" : {
+    "id" : "olympus-frontend:deletedStudiesPage.deletedStudies",
+    "defaultMessage" : "Deleted Studies"
+  },
+  "olympus-frontend:deletedStudyList.noResults" : {
+    "id" : "olympus-frontend:deletedStudyList.noResults",
+    "defaultMessage" : "No Deleted Studies"
+  },
+  "olympus-frontend:domain.settings.login.toggle.confirm.body" : {
+    "id" : "olympus-frontend:domain.settings.login.toggle.confirm.body",
+    "defaultMessage" : "Users who sign in with {method} will no longer be able to access Butterfly on iOS or in the cloud."
+  },
+  "olympus-frontend:domain.settings.login.toggle.confirm.label" : {
+    "id" : "olympus-frontend:domain.settings.login.toggle.confirm.label",
+    "defaultMessage" : "Disable {method}"
+  },
+  "olympus-frontend:domain.settings.login.toggle.confirm.title" : {
+    "id" : "olympus-frontend:domain.settings.login.toggle.confirm.title",
+    "defaultMessage" : "Confirm Disable {method}"
+  },
+  "olympus-frontend:domain.settings.login.butterflyLogin" : {
+    "id" : "olympus-frontend:domain.settings.login.butterflyLogin",
+    "defaultMessage" : "Butterfly Login"
+  },
+  "olympus-frontend:domain.settings.login.ssoLogin" : {
+    "id" : "olympus-frontend:domain.settings.login.ssoLogin",
+    "defaultMessage" : "SSO Login"
+  },
+  "olympus-frontend:domain.settings.login.toggle.failure" : {
+    "id" : "olympus-frontend:domain.settings.login.toggle.failure",
+    "defaultMessage" : "An error has occurred"
+  },
+  "olympus-frontend:domain.settings.sso.butterflyLogin" : {
+    "id" : "olympus-frontend:domain.settings.sso.butterflyLogin",
+    "defaultMessage" : "Allowed Login Types"
+  },
+  "olympus-frontend:domain.settings.sso.allowButterflyLogin" : {
+    "id" : "olympus-frontend:domain.settings.sso.allowButterflyLogin",
+    "defaultMessage" : "Allow Login with Butterfly Credentials"
+  },
+  "olympus-frontend:domain.settings.sso.allowSsoLogin" : {
+    "id" : "olympus-frontend:domain.settings.sso.allowSsoLogin",
+    "defaultMessage" : "Allow Login with SSO Credentials via SAML"
+  },
+  "olympus-frontend:domain.settings.menu.sso" : {
+    "id" : "olympus-frontend:domain.settings.menu.sso",
+    "defaultMessage" : "SSO"
+  },
+  "olympus-frontend:domain.settings.menu.fleet" : {
+    "id" : "olympus-frontend:domain.settings.menu.fleet",
+    "defaultMessage" : "Fleet Management"
+  },
+  "olympus-frontend:domain.settings.menu.inactivity" : {
+    "id" : "olympus-frontend:domain.settings.menu.inactivity",
+    "defaultMessage" : "Session Timeout"
+  },
+  "olympus-frontend:domain.settings.menu.emm" : {
+    "id" : "olympus-frontend:domain.settings.menu.emm",
+    "defaultMessage" : "EMM"
+  },
+  "olympus-frontend:domain.settings.header" : {
+    "id" : "olympus-frontend:domain.settings.header",
+    "defaultMessage" : "{name} Enterprise Settings"
+  },
+  "olympus-frontend:domain.settings.emm.toggle.failure" : {
+    "id" : "olympus-frontend:domain.settings.emm.toggle.failure",
+    "defaultMessage" : "An error has occurred"
+  },
+  "olympus-frontend:domain.settings.emm.secretConfiguration" : {
+    "id" : "olympus-frontend:domain.settings.emm.secretConfiguration",
+    "defaultMessage" : "Device Secret App Configuration"
+  },
+  "olympus-frontend:domain.settings.emm.secretConfigurationHelp" : {
+    "id" : "olympus-frontend:domain.settings.emm.secretConfigurationHelp",
+    "defaultMessage" : "Provision the Butterfly iQ app to devices in your organization with the following app configuration:"
+  },
+  "olympus-frontend:domain.settings.emm.loginRestriction" : {
+    "id" : "olympus-frontend:domain.settings.emm.loginRestriction",
+    "defaultMessage" : "Restrict Login"
+  },
+  "olympus-frontend:domain.settings.emm.loginRestrictionLabel" : {
+    "id" : "olympus-frontend:domain.settings.emm.loginRestrictionLabel",
+    "defaultMessage" : "Restrict logging into Butterfly iQ to devices provisioned with secret app configuration"
+  },
+  "olympus-frontend:domain.settings.emm.resetSecret" : {
+    "id" : "olympus-frontend:domain.settings.emm.resetSecret",
+    "defaultMessage" : "Reset App Secret"
+  },
+  "olympus-frontend:domain.settings.emm.resetAppSecretHelp" : {
+    "id" : "olympus-frontend:domain.settings.emm.resetAppSecretHelp",
+    "defaultMessage" : "You will need to re-provision all of your devices with an updated secret after resetting the secret."
+  },
+  "olympus-frontend:domain.settings.emm.reset.success" : {
+    "id" : "olympus-frontend:domain.settings.emm.reset.success",
+    "defaultMessage" : "Secret reset"
+  },
+  "olympus-frontend:domain.settings.emm.resetSecretButton" : {
+    "id" : "olympus-frontend:domain.settings.emm.resetSecretButton",
+    "defaultMessage" : "Reset Secret"
+  },
+  "olympus-frontend:domain.settings.fleet.registeredAt" : {
+    "id" : "olympus-frontend:domain.settings.fleet.registeredAt",
+    "defaultMessage" : "Registered {value}"
+  },
+  "olympus-frontend:domain.settings.fleet.editStatus" : {
+    "id" : "olympus-frontend:domain.settings.fleet.editStatus",
+    "defaultMessage" : "Edit Status"
+  },
+  "olympus-frontend:domain.settings.fleet.active.markActive" : {
+    "id" : "olympus-frontend:domain.settings.fleet.active.markActive",
+    "defaultMessage" : "Mark as active"
+  },
+  "olympus-frontend:domain.settings.fleet.active.markLost" : {
+    "id" : "olympus-frontend:domain.settings.fleet.active.markLost",
+    "defaultMessage" : "Mark as lost"
+  },
+  "olympus-frontend:domain.settings.fleet.active.markStolen" : {
+    "id" : "olympus-frontend:domain.settings.fleet.active.markStolen",
+    "defaultMessage" : "Mark as stolen"
+  },
+  "olympus-frontend:domain.settings.fleet.lostIqs" : {
+    "id" : "olympus-frontend:domain.settings.fleet.lostIqs",
+    "defaultMessage" : "Lost iQs"
+  },
+  "olympus-frontend:domain.settings.fleet.stolenIqs" : {
+    "id" : "olympus-frontend:domain.settings.fleet.stolenIqs",
+    "defaultMessage" : "Stolen iQs"
+  },
+  "olympus-frontend:domain.settings.fleet.activeIqs" : {
+    "id" : "olympus-frontend:domain.settings.fleet.activeIqs",
+    "defaultMessage" : "Active iQs"
+  },
+  "olympus-frontend:domain.settings.sso.inactivityTimeout.success" : {
+    "id" : "olympus-frontend:domain.settings.sso.inactivityTimeout.success",
+    "defaultMessage" : "Inactivity timeout saved"
+  },
+  "olympus-frontend:domain.settings.inactivityTimeout.value" : {
+    "id" : "olympus-frontend:domain.settings.inactivityTimeout.value",
+    "defaultMessage" : "Inactivity Timeout (minutes)"
+  },
+  "olympus-frontend:domain.settings.inactivityTimeout.submit" : {
+    "id" : "olympus-frontend:domain.settings.inactivityTimeout.submit",
+    "defaultMessage" : "Save Inactivity Timeout"
+  },
+  "olympus-frontend:domain.settings.sessionTimeout.legend" : {
+    "id" : "olympus-frontend:domain.settings.sessionTimeout.legend",
+    "defaultMessage" : "Session Timeout"
+  },
+  "olympus-frontend:domain.settings.inactivityTimeout.legend" : {
+    "id" : "olympus-frontend:domain.settings.inactivityTimeout.legend",
+    "defaultMessage" : "Inactivity Timeout"
+  },
+  "olympus-frontend:domain.settings.inactivityTimeout.toggle.failure" : {
+    "id" : "olympus-frontend:domain.settings.inactivityTimeout.toggle.failure",
+    "defaultMessage" : "An error has occurred"
+  },
+  "olympus-frontend:domain.settings.inactivityTimeout.toggle.default" : {
+    "id" : "olympus-frontend:domain.settings.inactivityTimeout.toggle.default",
+    "defaultMessage" : "Expire sessions 10 hours after log in"
+  },
+  "olympus-frontend:domain.settings.inactivityTimeout.toggle.inactivity" : {
+    "id" : "olympus-frontend:domain.settings.inactivityTimeout.toggle.inactivity",
+    "defaultMessage" : "Expire sessions after user inactivity (customizable)"
+  },
+  "olympus-frontend:domain.settings.sso.clearSamlConfiguration.failure" : {
+    "id" : "olympus-frontend:domain.settings.sso.clearSamlConfiguration.failure",
+    "defaultMessage" : "An error has occurred"
+  },
+  "olympus-frontend:domain.settings.sso.saml.clear" : {
+    "id" : "olympus-frontend:domain.settings.sso.saml.clear",
+    "defaultMessage" : "Clear SAML Provider Configuration"
+  },
+  "olympus-frontend:domain.settings.saml.success" : {
+    "id" : "olympus-frontend:domain.settings.saml.success",
+    "defaultMessage" : "SAML Provider settings updated"
+  },
+  "olympus-frontend:domain.settings.sso.saml.sp" : {
+    "id" : "olympus-frontend:domain.settings.sso.saml.sp",
+    "defaultMessage" : "Service Provider Details"
+  },
+  "olympus-frontend:domain.settings.sso.saml.sp.ssoUrl" : {
+    "id" : "olympus-frontend:domain.settings.sso.saml.sp.ssoUrl",
+    "defaultMessage" : "SSO Url"
+  },
+  "olympus-frontend:domain.settings.sso.saml.sp.entityId" : {
+    "id" : "olympus-frontend:domain.settings.sso.saml.sp.entityId",
+    "defaultMessage" : "Entity ID"
+  },
+  "olympus-frontend:domain.settings.sso.saml.nameID" : {
+    "id" : "olympus-frontend:domain.settings.sso.saml.nameID",
+    "defaultMessage" : "Name ID"
+  },
+  "olympus-frontend:domain.settings.sso.saml.samlEmailAttributeNameLabel" : {
+    "id" : "olympus-frontend:domain.settings.sso.saml.samlEmailAttributeNameLabel",
+    "defaultMessage" : "Email Attribute Name"
+  },
+  "olympus-frontend:domain.settings.sso.saml.saml" : {
+    "id" : "olympus-frontend:domain.settings.sso.saml.saml",
+    "defaultMessage" : "SAML Provider"
+  },
+  "olympus-frontend:domain.settings.sso.saml.samlMetadataLabel" : {
+    "id" : "olympus-frontend:domain.settings.sso.saml.samlMetadataLabel",
+    "defaultMessage" : "SAML Metadata"
+  },
+  "olympus-frontend:domain.settings.sso.saml.action" : {
+    "id" : "olympus-frontend:domain.settings.sso.saml.action",
+    "defaultMessage" : "Save SAML Provider Configuration"
+  },
+  "olympus-frontend:domain.settings.sso.saml.clear.confirm.body.p1" : {
+    "id" : "olympus-frontend:domain.settings.sso.saml.clear.confirm.body.p1",
+    "defaultMessage" : "Users will no longer be able to log in using SSO. Users without Butterfly credentials will lose access to the Cloud until SSO is re-enabled or they are re-invited."
+  },
+  "olympus-frontend:domain.settings.sso.saml.clear.confirm.body.p2" : {
+    "id" : "olympus-frontend:domain.settings.sso.saml.clear.confirm.body.p2",
+    "defaultMessage" : "If you re-enable SSO, then you will have to re-configure your service provider with newly provisioned access credentials."
+  },
+  "olympus-frontend:domain.settings.sso.saml.clear.confirm.label" : {
+    "id" : "olympus-frontend:domain.settings.sso.saml.clear.confirm.label",
+    "defaultMessage" : "Clear SSO Configuration"
+  },
+  "olympus-frontend:domain.settings.sso.saml.clear.confirm.title" : {
+    "id" : "olympus-frontend:domain.settings.sso.saml.clear.confirm.title",
+    "defaultMessage" : "Confirm Clear SSO Configuration"
+  },
+  "olympus-frontend:educationAppHeader.savedVideos" : {
+    "id" : "olympus-frontend:educationAppHeader.savedVideos",
+    "defaultMessage" : "Saved Videos"
+  },
+  "olympus-frontend:educationAppHeader.learnMore" : {
+    "id" : "olympus-frontend:educationAppHeader.learnMore",
+    "defaultMessage" : "Learn More"
+  },
+  "olympus-frontend:educationHeaderMenu.logIn" : {
+    "id" : "olympus-frontend:educationHeaderMenu.logIn",
+    "defaultMessage" : "Log In"
+  },
+  "olympus-frontend:educationHeaderMenu.logOut" : {
+    "id" : "olympus-frontend:educationHeaderMenu.logOut",
+    "defaultMessage" : "Log Out"
+  },
+  "olympus-frontend:education.appHeaderTitle" : {
+    "id" : "olympus-frontend:education.appHeaderTitle",
+    "defaultMessage" : "Butterfly EDU"
+  },
+  "olympus-frontend:emptyModalityWorklist.title" : {
+    "id" : "olympus-frontend:emptyModalityWorklist.title",
+    "defaultMessage" : "Worklist Empty"
+  },
+  "olympus-frontend:emptyModalityWorklist.body" : {
+    "id" : "olympus-frontend:emptyModalityWorklist.body",
+    "defaultMessage" : "There are currently no items in your worklist. Items added to your worklist can be viewed in the Butterfly Cloud."
+  },
+  "olympus-frontend:RefreshModalityWorklistControl.failedLabel" : {
+    "id" : "olympus-frontend:RefreshModalityWorklistControl.failedLabel",
+    "defaultMessage" : "(Failed to sync {completedAt, date, short} at {completedAt, time, short})"
+  },
+  "olympus-frontend:RefreshModalityWorklistControl.completedLabel" : {
+    "id" : "olympus-frontend:RefreshModalityWorklistControl.completedLabel",
+    "defaultMessage" : "(Synced {completedAt, date, short} at {completedAt, time, short})"
+  },
+  "olympus-frontend:RefreshModalityWorklistControl.refreshing" : {
+    "id" : "olympus-frontend:RefreshModalityWorklistControl.refreshing",
+    "defaultMessage" : "Refreshing"
+  },
+  "olympus-frontend:RefreshModalityWorklistControl.refresh" : {
+    "id" : "olympus-frontend:RefreshModalityWorklistControl.refresh",
+    "defaultMessage" : "Refresh"
+  },
+  "olympus-frontend:worklistItem.procedureStartAt" : {
+    "id" : "olympus-frontend:worklistItem.procedureStartAt",
+    "defaultMessage" : "Procedure Start: {value}"
+  },
+  "olympus-frontend:worklistItem.procedureDescription" : {
+    "id" : "olympus-frontend:worklistItem.procedureDescription",
+    "defaultMessage" : "Procedure Description: {value}"
+  },
+  "olympus-frontend:worklistItem.requestingPhysician" : {
+    "id" : "olympus-frontend:worklistItem.requestingPhysician",
+    "defaultMessage" : "Requesting Physician: {value}"
+  },
+  "olympus-frontend:worklistItem.referringPhysician" : {
+    "id" : "olympus-frontend:worklistItem.referringPhysician",
+    "defaultMessage" : "Referring Physician: {value}"
+  },
+  "olympus-frontend:worklistItem.scheduledPerformingPhysician" : {
+    "id" : "olympus-frontend:worklistItem.scheduledPerformingPhysician",
+    "defaultMessage" : "Scheduled Performing Physician: {value}"
+  },
+  "olympus-frontend:organization.setup.name.placeholder" : {
+    "id" : "olympus-frontend:organization.setup.name.placeholder",
+    "defaultMessage" : "My Organization"
+  },
+  "olympus-frontend:organization.setup.success" : {
+    "id" : "olympus-frontend:organization.setup.success",
+    "defaultMessage" : "Organization named successfully"
+  },
+  "olympus-frontend:organization.setup.legend" : {
+    "id" : "olympus-frontend:organization.setup.legend",
+    "defaultMessage" : "Name Your Organization"
+  },
+  "olympus-frontend:organization.setup.submit" : {
+    "id" : "olympus-frontend:organization.setup.submit",
+    "defaultMessage" : "Save"
+  },
+  "olympus-frontend:organization.setup.description" : {
+    "id" : "olympus-frontend:organization.setup.description",
+    "defaultMessage" : "Your organization's name can be edited later in Organization Settings."
+  },
+  "olympus-frontend:meetIq.heading" : {
+    "id" : "olympus-frontend:meetIq.heading",
+    "defaultMessage" : "Meet Butterfly iQ"
+  },
+  "olympus-frontend:meetIq.description" : {
+    "id" : "olympus-frontend:meetIq.description",
+    "defaultMessage" : "One probe, whole body imaging. Under $2k."
+  },
+  "olympus-frontend:meetIq.learnMore" : {
+    "id" : "olympus-frontend:meetIq.learnMore",
+    "defaultMessage" : "Learn more"
+  },
+  "olympus-frontend:mobileSharedImageDetail.title" : {
+    "id" : "olympus-frontend:mobileSharedImageDetail.title",
+    "defaultMessage" : "{activeIndexDisplay} of {numImages}"
+  },
+  "olympus-frontend:studySearchList.noResults" : {
+    "id" : "olympus-frontend:studySearchList.noResults",
+    "defaultMessage" : "No Studies Found"
+  },
+  "olympus-frontend:aboutModal.title" : {
+    "id" : "olympus-frontend:aboutModal.title",
+    "defaultMessage" : "About Butterfly Cloud"
+  },
+  "olympus-frontend:aboutModal.versionParagraph" : {
+    "id" : "olympus-frontend:aboutModal.versionParagraph",
+    "defaultMessage" : "Butterfly Cloud {butterflyCloudVersion}"
+  },
+  "olympus-frontend:aboutModal.eula" : {
+    "id" : "olympus-frontend:aboutModal.eula",
+    "defaultMessage" : "End-User License Agreement (EULA)"
+  },
+  "olympus-frontend:aboutModal.privacyPolicy" : {
+    "id" : "olympus-frontend:aboutModal.privacyPolicy",
+    "defaultMessage" : "Privacy Policy"
+  },
+  "olympus-frontend:aboutModal.cookieNotice" : {
+    "id" : "olympus-frontend:aboutModal.cookieNotice",
+    "defaultMessage" : "Cookie Notice"
+  },
+  "olympus-frontend:aboutModal.termsOfUse" : {
+    "id" : "olympus-frontend:aboutModal.termsOfUse",
+    "defaultMessage" : "Terms of Use"
+  },
+  "olympus-frontend:aboutModal.status" : {
+    "id" : "olympus-frontend:aboutModal.status",
+    "defaultMessage" : "Status Page"
+  },
+  "olympus-frontend:appHeader.telemed" : {
+    "id" : "olympus-frontend:appHeader.telemed",
+    "defaultMessage" : "Telemed"
+  },
+  "olympus-frontend:headerMenu.selectOrg" : {
+    "id" : "olympus-frontend:headerMenu.selectOrg",
+    "defaultMessage" : "Select Organization"
+  },
+  "olympus-frontend:headerMenu.switch" : {
+    "id" : "olympus-frontend:headerMenu.switch",
+    "defaultMessage" : "Switch"
+  },
+  "olympus-frontend:headerMenu.orgSettings" : {
+    "id" : "olympus-frontend:headerMenu.orgSettings",
+    "defaultMessage" : "Organization Settings"
+  },
+  "olympus-frontend:headerMenu.members" : {
+    "id" : "olympus-frontend:headerMenu.members",
+    "defaultMessage" : "Members"
+  },
+  "olympus-frontend:headerMenu.dicomSettings" : {
+    "id" : "olympus-frontend:headerMenu.dicomSettings",
+    "defaultMessage" : "DICOM"
+  },
+  "olympus-frontend:headerMenu.worksheetsSettings" : {
+    "id" : "olympus-frontend:headerMenu.worksheetsSettings",
+    "defaultMessage" : "Worksheets"
+  },
+  "olympus-frontend:headerMenu.annotationExtensionsSettings" : {
+    "id" : "olympus-frontend:headerMenu.annotationExtensionsSettings",
+    "defaultMessage" : "Extension Management"
+  },
+  "olympus-frontend:headerMenu.logIn" : {
+    "id" : "olympus-frontend:headerMenu.logIn",
+    "defaultMessage" : "Log In"
+  },
+  "olympus-frontend:tutorial.view_members.title" : {
+    "id" : "olympus-frontend:tutorial.view_members.title",
+    "defaultMessage" : "Invite your team"
+  },
+  "olympus-frontend:tutorial.view_members.sub" : {
+    "id" : "olympus-frontend:tutorial.view_members.sub",
+    "defaultMessage" : "Invite more members to your organization"
+  },
+  "olympus-frontend:headerMenu.accountSettings" : {
+    "id" : "olympus-frontend:headerMenu.accountSettings",
+    "defaultMessage" : "Account Settings"
+  },
+  "olympus-frontend:headerMenu.domainSettings" : {
+    "id" : "olympus-frontend:headerMenu.domainSettings",
+    "defaultMessage" : "Enterprise Settings"
+  },
+  "olympus-frontend:headerMenu.logOut" : {
+    "id" : "olympus-frontend:headerMenu.logOut",
+    "defaultMessage" : "Log Out"
+  },
+  "olympus-frontend:organizationSidePanelItem.archives" : {
+    "id" : "olympus-frontend:organizationSidePanelItem.archives",
+    "defaultMessage" : "Archives"
+  },
+  "olympus-frontend:organizationSidePanelItem.worklists" : {
+    "id" : "olympus-frontend:organizationSidePanelItem.worklists",
+    "defaultMessage" : "Worklists"
+  },
+  "olympus-frontend:organizationSidePanelItem.deletedStudies" : {
+    "id" : "olympus-frontend:organizationSidePanelItem.deletedStudies",
+    "defaultMessage" : "Deleted Studies"
+  },
+  "olympus-frontend:archive.pacs.associations" : {
+    "id" : "olympus-frontend:archive.pacs.associations",
+    "defaultMessage" : "DICOM"
+  },
+  "olympus-frontend:authHeader.learnMore" : {
+    "id" : "olympus-frontend:authHeader.learnMore",
+    "defaultMessage" : "Learn more about Butterfly iQ"
+  },
+  "olympus-frontend:butterflyAppImage.description" : {
+    "id" : "olympus-frontend:butterflyAppImage.description",
+    "defaultMessage" : "The Butterfly iQ app running on an iPhone."
+  },
+  "olympus-frontend:login.email" : {
+    "id" : "olympus-frontend:login.email",
+    "defaultMessage" : "Email"
+  },
+  "olympus-frontend:login.password" : {
+    "id" : "olympus-frontend:login.password",
+    "defaultMessage" : "Password"
+  },
+  "olympus-frontend:login.missingEmail" : {
+    "id" : "olympus-frontend:login.missingEmail",
+    "defaultMessage" : "Please enter your email"
+  },
+  "olympus-frontend:login.submit.butterfly" : {
+    "id" : "olympus-frontend:login.submit.butterfly",
+    "defaultMessage" : "Log In with Butterfly"
+  },
+  "olympus-frontend:login.forgotPassword" : {
+    "id" : "olympus-frontend:login.forgotPassword",
+    "defaultMessage" : "Forgot Your Password?"
+  },
+  "olympus-frontend:login.submit" : {
+    "id" : "olympus-frontend:login.submit",
+    "defaultMessage" : "Log In"
+  },
+  "olympus-frontend:study.pacs.cancel" : {
+    "id" : "olympus-frontend:study.pacs.cancel",
+    "defaultMessage" : "Cancel"
+  },
+  "olympus-frontend:createArchive.label" : {
+    "id" : "olympus-frontend:createArchive.label",
+    "defaultMessage" : "Archive Title"
+  },
+  "olympus-frontend:createArchive.label.placeholder" : {
+    "id" : "olympus-frontend:createArchive.label.placeholder",
+    "defaultMessage" : "Title"
+  },
+  "olympus-frontend:organization.createArchive.success" : {
+    "id" : "olympus-frontend:organization.createArchive.success",
+    "defaultMessage" : "Archive created"
+  },
+  "olympus-frontend:createArchive.title" : {
+    "id" : "olympus-frontend:createArchive.title",
+    "defaultMessage" : "Create New Archive"
+  },
+  "olympus-frontend:createArchive.content" : {
+    "id" : "olympus-frontend:createArchive.content",
+    "defaultMessage" : "Archives are like folders for your studies. Archives appear as upload destinations when saving studies on the Butterfly iQ app for iOS."
+  },
+  "olympus-frontend:createArchive.teamAccess" : {
+    "id" : "olympus-frontend:createArchive.teamAccess",
+    "defaultMessage" : "All members of your team will have access to this archive."
+  },
+  "olympus-frontend:createArchive.submit" : {
+    "id" : "olympus-frontend:createArchive.submit",
+    "defaultMessage" : "Create"
+  },
+  "olympus-frontend:createArchive.cancel" : {
+    "id" : "olympus-frontend:createArchive.cancel",
+    "defaultMessage" : "Cancel"
+  },
+  "olympus-frontend:deleteControl.delete" : {
+    "id" : "olympus-frontend:deleteControl.delete",
+    "defaultMessage" : "Delete"
+  },
+  "olympus-frontend:deleteControl.confirm" : {
+    "id" : "olympus-frontend:deleteControl.confirm",
+    "defaultMessage" : "Delete"
+  },
+  "olympus-frontend:deleteControl.message" : {
+    "id" : "olympus-frontend:deleteControl.message",
+    "defaultMessage" : "This is a permanent action."
+  },
+  "olympus-frontend:deletedArchiveSection.header" : {
+    "id" : "olympus-frontend:deletedArchiveSection.header",
+    "defaultMessage" : "Deleted Archives"
+  },
+  "olympus-frontend:study.delete.dialog.content" : {
+    "id" : "olympus-frontend:study.delete.dialog.content",
+    "defaultMessage" : "This study contains {numImages} {numImages, plural, one {image} other {images}}."
+  },
+  "olympus-frontend:study.delete.dialog.title" : {
+    "id" : "olympus-frontend:study.delete.dialog.title",
+    "defaultMessage" : "Delete Study?"
+  },
+  "olympus-frontend:study.delete.dialog.confirm" : {
+    "id" : "olympus-frontend:study.delete.dialog.confirm",
+    "defaultMessage" : "Delete"
+  },
+  "olympus-frontend:study.delete" : {
+    "id" : "olympus-frontend:study.delete",
+    "defaultMessage" : "Delete Study"
+  },
+  "olympus-frontend:domainLogin.loginWithThirdParty" : {
+    "id" : "olympus-frontend:domainLogin.loginWithThirdParty",
+    "defaultMessage" : "Log In with {name}"
+  },
+  "olympus-frontend:domainLogin.createButterflyAccount" : {
+    "id" : "olympus-frontend:domainLogin.createButterflyAccount",
+    "defaultMessage" : "Create Butterfly Cloud Account"
+  },
+  "olympus-frontend:domainLogin.loginWithButterfly" : {
+    "id" : "olympus-frontend:domainLogin.loginWithButterfly",
+    "defaultMessage" : "Log In with Butterfly"
+  },
+  "olympus-frontend:domainLogin.noLogins" : {
+    "id" : "olympus-frontend:domainLogin.noLogins",
+    "defaultMessage" : "No logins available. Please contact support."
+  },
+  "olympus-frontend:domainLogin.idpRedirect" : {
+    "id" : "olympus-frontend:domainLogin.idpRedirect",
+    "defaultMessage" : "Redirecting to {name} to sign in…"
+  },
+  "olympus-frontend:domain.404.body" : {
+    "id" : "olympus-frontend:domain.404.body",
+    "defaultMessage" : "There is no Butterfly Cloud at this address."
+  },
+  "olympus-frontend:domain.404.returnHome" : {
+    "id" : "olympus-frontend:domain.404.returnHome",
+    "defaultMessage" : "Open cloud.butterflynetwork.com"
+  },
+  "olympus-frontend:helpMenu.help" : {
+    "id" : "olympus-frontend:helpMenu.help",
+    "defaultMessage" : "Help"
+  },
+  "olympus-frontend:helpMenu.selfService" : {
+    "id" : "olympus-frontend:helpMenu.selfService",
+    "defaultMessage" : "Support Center"
+  },
+  "olympus-frontend:helpMenu.userManual" : {
+    "id" : "olympus-frontend:helpMenu.userManual",
+    "defaultMessage" : "User Manual"
+  },
+  "olympus-frontend:helpMenu.submitFeedback" : {
+    "id" : "olympus-frontend:helpMenu.submitFeedback",
+    "defaultMessage" : "Submit Feedback"
+  },
+  "olympus-frontend:helpMenu.reportBug" : {
+    "id" : "olympus-frontend:helpMenu.reportBug",
+    "defaultMessage" : "Report a Bug"
+  },
+  "olympus-frontend:helpMenu.contactSupport" : {
+    "id" : "olympus-frontend:helpMenu.contactSupport",
+    "defaultMessage" : "Contact Support"
+  },
+  "olympus-frontend:login.title.inviteUsed" : {
+    "id" : "olympus-frontend:login.title.inviteUsed",
+    "defaultMessage" : "This invitation has already been accepted."
+  },
+  "olympus-frontend:login.body.inviteUsed" : {
+    "id" : "olympus-frontend:login.body.inviteUsed",
+    "defaultMessage" : "Log in with your Butterfly account to view this organization."
+  },
+  "olympus-frontend:domainLogin.inviteInfo.existingUser" : {
+    "id" : "olympus-frontend:domainLogin.inviteInfo.existingUser",
+    "defaultMessage" : "You have been invited to join {organization}. Please log in to your account associated with the email address {email} to join."
+  },
+  "olympus-frontend:domainLogin.inviteInfo.newUser" : {
+    "id" : "olympus-frontend:domainLogin.inviteInfo.newUser",
+    "defaultMessage" : "You have been invited to join {organization}. Please sign up for a Butterfly account to join."
+  },
+  "olympus-frontend:login.title" : {
+    "id" : "olympus-frontend:login.title",
+    "defaultMessage" : "Log In to Butterfly Network"
+  },
+  "olympus-frontend:study.move" : {
+    "id" : "olympus-frontend:study.move",
+    "defaultMessage" : "Move Study"
+  },
+  "olympus-frontend:study.move.modal.title" : {
+    "id" : "olympus-frontend:study.move.modal.title",
+    "defaultMessage" : "Select Destination Archive"
+  },
+  "olympus-frontend:notFoundNotification.description" : {
+    "id" : "olympus-frontend:notFoundNotification.description",
+    "defaultMessage" : "The content of this notification can no longer be found."
+  },
+  "olympus-frontend:organization.notificationCenter.markAllRead" : {
+    "id" : "olympus-frontend:organization.notificationCenter.markAllRead",
+    "defaultMessage" : "Mark all as read"
+  },
+  "olympus-frontend:organization.notificationCenter.noUnread" : {
+    "id" : "olympus-frontend:organization.notificationCenter.noUnread",
+    "defaultMessage" : "No unread notifications"
+  },
+  "olympus-frontend:notificationCenter.notificationList.noNotifications.description" : {
+    "id" : "olympus-frontend:notificationCenter.notificationList.noNotifications.description",
+    "defaultMessage" : "You have no notifications yet."
+  },
+  "olympus-frontend:pacsSyncStatus.syncMessage" : {
+    "id" : "olympus-frontend:pacsSyncStatus.syncMessage",
+    "defaultMessage" : "{status, select, FAILED {Failed to send to {name}} COMPLETE {Sent to {name} - {completedAt, date, short} at {completedAt, time, short}} CANCELED {Send to {name} canceled} other {Sending to {name}{paused, select, true { (paused)} other {}}…}}."
+  },
+  "olympus-frontend:pacsSyncStatus.outDated" : {
+    "id" : "olympus-frontend:pacsSyncStatus.outDated",
+    "defaultMessage" : "Study updated since last send"
+  },
+  "olympus-frontend:study.accessionNumber" : {
+    "id" : "olympus-frontend:study.accessionNumber",
+    "defaultMessage" : "Acc #"
+  },
+  "olympus-frontend:patientName.empty" : {
+    "id" : "olympus-frontend:patientName.empty",
+    "defaultMessage" : "No Patient Name"
+  },
+  "olympus-frontend:previewList.showLess" : {
+    "id" : "olympus-frontend:previewList.showLess",
+    "defaultMessage" : "Show Less"
+  },
+  "olympus-frontend:previewList.showMore" : {
+    "id" : "olympus-frontend:previewList.showMore",
+    "defaultMessage" : "Show {numMore} More"
+  },
+  "olympus-frontend:relayForm.serverError" : {
+    "id" : "olympus-frontend:relayForm.serverError",
+    "defaultMessage" : "There was a problem processing your request"
+  },
+  "olympus-frontend:study.pacs.resend" : {
+    "id" : "olympus-frontend:study.pacs.resend",
+    "defaultMessage" : "Re-send"
+  },
+  "olympus-frontend:study.pacs.send" : {
+    "id" : "olympus-frontend:study.pacs.send",
+    "defaultMessage" : "Send"
+  },
+  "olympus-frontend:study.share" : {
+    "id" : "olympus-frontend:study.share",
+    "defaultMessage" : "Share De-identified Study"
+  },
+  "olympus-frontend:study.share.modal.title" : {
+    "id" : "olympus-frontend:study.share.modal.title",
+    "defaultMessage" : "Share De-identified Study"
+  },
+  "olympus-frontend:study.share.modal.content" : {
+    "id" : "olympus-frontend:study.share.modal.content",
+    "defaultMessage" : "Sharing this link will enable others to view a de-identified version of your study. All patient information will be removed. Users do not need Butterfly Cloud credentials to access the link."
+  },
+  "olympus-frontend:studyAttribution.study.withArchive" : {
+    "id" : "olympus-frontend:studyAttribution.study.withArchive",
+    "defaultMessage" : "Study by {createdByLink} in {archiveLink}"
+  },
+  "olympus-frontend:studyAttribution.draft.withArchive" : {
+    "id" : "olympus-frontend:studyAttribution.draft.withArchive",
+    "defaultMessage" : "Draft by {createdByLink} in {archiveLink}"
+  },
+  "olympus-frontend:studyAttribution.study" : {
+    "id" : "olympus-frontend:studyAttribution.study",
+    "defaultMessage" : "Study by {createdByLink}"
+  },
+  "olympus-frontend:studyAttribution.draft" : {
+    "id" : "olympus-frontend:studyAttribution.draft",
+    "defaultMessage" : "Draft by {createdByLink}"
+  },
+  "olympus-frontend:study.undelete" : {
+    "id" : "olympus-frontend:study.undelete",
+    "defaultMessage" : "Restore Deleted Study"
+  },
+  "olympus-frontend:notificationCenter.notification.studyImageComment.description" : {
+    "id" : "olympus-frontend:notificationCenter.notification.studyImageComment.description",
+    "defaultMessage" : "{authorName} commented on the study {studyName}"
+  },
+  "olympus-frontend:notificationCenter.notification.studyImageComment.createdAt" : {
+    "id" : "olympus-frontend:notificationCenter.notification.studyImageComment.createdAt",
+    "defaultMessage" : "{createdAt} - {archiveLabel}"
+  },
+  "olympus-frontend:study.images.empty" : {
+    "id" : "olympus-frontend:study.images.empty",
+    "defaultMessage" : "This study is empty"
+  },
+  "olympus-frontend:tutorial.study_detail.title" : {
+    "id" : "olympus-frontend:tutorial.study_detail.title",
+    "defaultMessage" : "Review your study in detail"
+  },
+  "olympus-frontend:tutorial.study_detail.sub" : {
+    "id" : "olympus-frontend:tutorial.study_detail.sub",
+    "defaultMessage" : "Click on an image to enter the Detail View. You can comment and review your images there"
+  },
+  "olympus-frontend:study.pacsDetails" : {
+    "id" : "olympus-frontend:study.pacsDetails",
+    "defaultMessage" : "DICOM Management"
+  },
+  "olympus-frontend:study.pacsDetails.modal.title" : {
+    "id" : "olympus-frontend:study.pacsDetails.modal.title",
+    "defaultMessage" : "DICOM Management"
+  },
+  "olympus-frontend:study.pacs.noPacses" : {
+    "id" : "olympus-frontend:study.pacs.noPacses",
+    "defaultMessage" : "No DICOM servers available"
+  },
+  "olympus-frontend:study.pacs.sendToDicomDescription" : {
+    "id" : "olympus-frontend:study.pacs.sendToDicomDescription",
+    "defaultMessage" : "Send or re-send this study to one or more of your connections below"
+  },
+  "olympus-frontend:study.pacs.notSynced" : {
+    "id" : "olympus-frontend:study.pacs.notSynced",
+    "defaultMessage" : "Study Not Synced"
+  },
+  "olympus-frontend:pacsSyncStatus.failureLabel" : {
+    "id" : "olympus-frontend:pacsSyncStatus.failureLabel",
+    "defaultMessage" : "Failed to sync"
+  },
+  "olympus-frontend:pacsSyncStatus.successLabel" : {
+    "id" : "olympus-frontend:pacsSyncStatus.successLabel",
+    "defaultMessage" : "Synced to PACS"
+  },
+  "olympus-frontend:pacsSyncStatus.pendingLabel" : {
+    "id" : "olympus-frontend:pacsSyncStatus.pendingLabel",
+    "defaultMessage" : "Pending sync to PACS…"
+  },
+  "olympus-frontend:pacsSyncStatus.syncingLabel" : {
+    "id" : "olympus-frontend:pacsSyncStatus.syncingLabel",
+    "defaultMessage" : "Syncing to PACS…"
+  },
+  "olympus-frontend:study.numComments.title" : {
+    "id" : "olympus-frontend:study.numComments.title",
+    "defaultMessage" : "{numComments, plural, one {Comment} other {Comments}}"
+  },
+  "olympus-frontend:switchOrganizationModal.title" : {
+    "id" : "olympus-frontend:switchOrganizationModal.title",
+    "defaultMessage" : "Switch Organization"
+  },
+  "olympus-frontend:archive.undelete.dialog.content" : {
+    "id" : "olympus-frontend:archive.undelete.dialog.content",
+    "defaultMessage" : "Restoring this archive will also restore all studies contained in it."
+  },
+  "olympus-frontend:archive.undelete.dialog.title" : {
+    "id" : "olympus-frontend:archive.undelete.dialog.title",
+    "defaultMessage" : "Restore Archive?"
+  },
+  "olympus-frontend:archive.undelete.dialog.confirm" : {
+    "id" : "olympus-frontend:archive.undelete.dialog.confirm",
+    "defaultMessage" : "Restore"
+  },
+  "olympus-frontend:archive.undelete.success" : {
+    "id" : "olympus-frontend:archive.undelete.success",
+    "defaultMessage" : "Archive restored successfully"
+  },
+  "olympus-frontend:study.undelete.dialog.content" : {
+    "id" : "olympus-frontend:study.undelete.dialog.content",
+    "defaultMessage" : "This study will be restored to {archiveLabel}."
+  },
+  "olympus-frontend:study.undelete.dialog.title" : {
+    "id" : "olympus-frontend:study.undelete.dialog.title",
+    "defaultMessage" : "Restore Study?"
+  },
+  "olympus-frontend:study.undelete.dialog.confirm" : {
+    "id" : "olympus-frontend:study.undelete.dialog.confirm",
+    "defaultMessage" : "Restore"
+  },
+  "olympus-frontend:study.undelete.success" : {
+    "id" : "olympus-frontend:study.undelete.success",
+    "defaultMessage" : "Study restored successfully"
+  },
+  "olympus-frontend:patient.sex" : {
+    "id" : "olympus-frontend:patient.sex",
+    "defaultMessage" : "Sex"
+  },
+  "olympus-frontend:patient.birthDate" : {
+    "id" : "olympus-frontend:patient.birthDate",
+    "defaultMessage" : "DOB"
+  },
+  "olympus-frontend:patient.medicalRecordNumber" : {
+    "id" : "olympus-frontend:patient.medicalRecordNumber",
+    "defaultMessage" : "MRN"
+  },
+  "olympus-frontend:patient.dateOfBirthLabel" : {
+    "id" : "olympus-frontend:patient.dateOfBirthLabel",
+    "defaultMessage" : "Date of Birth"
+  },
+  "olympus-frontend:patient.medicalRecordNumberLabel" : {
+    "id" : "olympus-frontend:patient.medicalRecordNumberLabel",
+    "defaultMessage" : "Medical Record Number"
+  },
+  "olympus-frontend:patient.accessionNumberLabel" : {
+    "id" : "olympus-frontend:patient.accessionNumberLabel",
+    "defaultMessage" : "Accession Number"
+  },
+  "olympus-frontend:patient.sex.MALE" : {
+    "id" : "olympus-frontend:patient.sex.MALE",
+    "defaultMessage" : "Male"
+  },
+  "olympus-frontend:patient.sex.FEMALE" : {
+    "id" : "olympus-frontend:patient.sex.FEMALE",
+    "defaultMessage" : "Female"
+  },
+  "olympus-frontend:patient.sex.OTHER" : {
+    "id" : "olympus-frontend:patient.sex.OTHER",
+    "defaultMessage" : "Other"
+  },
+  "olympus-frontend:patient.sex.UNKNOWN" : {
+    "id" : "olympus-frontend:patient.sex.UNKNOWN",
+    "defaultMessage" : "Unknown"
+  },
+  "olympus-frontend:study.readyAt" : {
+    "id" : "olympus-frontend:study.readyAt",
+    "defaultMessage" : "Uploaded {value}"
+  },
+  "olympus-frontend:user.deleted" : {
+    "id" : "olympus-frontend:user.deleted",
+    "defaultMessage" : "[Deleted User]"
+  },
+  "olympus-frontend:study.move.failure" : {
+    "id" : "olympus-frontend:study.move.failure",
+    "defaultMessage" : "Failed to move {numStudies, plural, one {study} other {studies}}"
+  },
+  "olympus-frontend:study.move.success" : {
+    "id" : "olympus-frontend:study.move.success",
+    "defaultMessage" : "{numStudies, plural, one {Study} other {Studies}} moved"
+  },
+  "olympus-frontend:validation.string.missingAt" : {
+    "id" : "olympus-frontend:validation.string.missingAt",
+    "defaultMessage" : "Email is invalid. Please include an \"@\" sign in the email address."
+  },
+  "olympus-frontend:validation.string.email" : {
+    "id" : "olympus-frontend:validation.string.email",
+    "defaultMessage" : "Email is invalid"
+  },
+  "olympus-frontend:validation.required" : {
+    "id" : "olympus-frontend:validation.required",
+    "defaultMessage" : "Required"
+  },
+  "olympus-frontend:validation.notType" : {
+    "id" : "olympus-frontend:validation.notType",
+    "defaultMessage" : "Required"
+  },
+  "olympus-frontend:validation.string.min" : {
+    "id" : "olympus-frontend:validation.string.min",
+    "defaultMessage" : "This must be at least {min} {min, plural, one {character} other {characters}} long"
+  },
+  "olympus-frontend:validation.string.max" : {
+    "id" : "olympus-frontend:validation.string.max",
+    "defaultMessage" : "This must be at most {max} {max, plural, one {character} other {characters}} long"
+  },
+  "olympus-frontend:validation.array.min" : {
+    "id" : "olympus-frontend:validation.array.min",
+    "defaultMessage" : "This must have at least {min} {min, plural, one {item} other {items}}"
+  },
+  "olympus-frontend:validation.array.max" : {
+    "id" : "olympus-frontend:validation.array.max",
+    "defaultMessage" : "This must have at most {max} {max, plural, one {item} other {items}}"
+  },
+  "olympus-frontend:validation.number.min" : {
+    "id" : "olympus-frontend:validation.number.min",
+    "defaultMessage" : "This must be at least {min}"
+  },
+  "olympus-frontend:validation.number.max" : {
+    "id" : "olympus-frontend:validation.number.max",
+    "defaultMessage" : "This must be at most {max}"
+  },
+  "olympus-frontend:validation.number.positive" : {
+    "id" : "olympus-frontend:validation.number.positive",
+    "defaultMessage" : "This must be a positive number"
+  },
+  "olympus-frontend:validation.number.negative" : {
+    "id" : "olympus-frontend:validation.number.negative",
+    "defaultMessage" : "This must be a negative number"
+  },
+  "olympus-frontend:validation.number.integer" : {
+    "id" : "olympus-frontend:validation.number.integer",
+    "defaultMessage" : "please enter be an integer"
+  }
+}
