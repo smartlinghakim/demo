@@ -9,7 +9,7 @@ dark = "Always Dark";
 
 multitaskingHeader = "Multitasking";
 multitaskingTitle = "Allow Multitasking";
-multitaskingSubtitle = "Switch to another app and come back without having to log in again. Session timeout still applies.";
+multitaskingSubtitle = "Switch to another app, and come back without having to log in again. Session timeout still applies.";
 
 startScreenHeader = "Start Screen";
 startScreenMarketsTitle = "Start on Markets NSLocalizedString(@"Username", nil)";
