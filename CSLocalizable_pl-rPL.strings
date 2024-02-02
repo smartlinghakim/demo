@@ -1,0 +1,25 @@
+AX.Loading = "Ładowania";
+AX.Loaded = "Załadowany";
+
+appSettingsTitle = "Ustawienia aplikacji";
+appearanceHeader = "Wygląd";
+automatic = "Automatyczne";
+light = "Zawsze lekki";
+dark = "Zawsze ciemno";
+
+multitaskingHeader = "Wielozadaniowy";
+multitaskingTitle = "Zezwalaj na wielozadaniowość";
+multitaskingSubtitle = "Przełącz się na inną aplikację i wróć bez konieczności ponownego logowania. Limit czasu sesji nadal obowiązuje.";
+
+startScreenHeader = "Ekran startowy";
+startScreenMarketsTitle = "Start on Rynki NSLocalizedString(@\"Username\", nil)";
+startScreenMarketsSubtitle = "Rozpocznij w Markets po otwarciu tej aplikacji (zamiast ekranu logowania).";
+startScreenWatchlistTitle = "Rozpocznij na liście obserwowanych";
+startScreenWatchlistSubtitle = "Zacznij od listy obserwowanych po otwarciu tej aplikacji.";
+startScreenAccountsTitle = "Rozpocznij korzystanie z kont";
+
+streamingToggleHeader = "Przesyłanie strumieniowe";
+streamingToggleTitle = "Cytaty przesyłane strumieniowo";
+streamingToggleSubtitle = "Po włączeniu przesyłania strumieniowego cytaty mogą być odświeżane nawet co sekundę w wielu funkcjach aplikacji. Jeśli ta opcja jest wyłączona, przesyłanie strumieniowe zostanie wyłączone we wszystkich funkcjach aplikacji mobilnej.";
+
+textField.placeholder = NSLocalizedString(@"Username", nil);
