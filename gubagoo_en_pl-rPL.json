@@ -1,0 +1,63 @@
+{
+  "general" : {
+    "back" : "Back",
+    "next" : "Next",
+    "grantPermissions" : "Grant Permission",
+    "select" : "Select",
+    "skip" : "Skip",
+    "ok" : "ok"
+  },
+  "tabbar" : {
+    "chats" : "Chats",
+    "notifications" : "Notifications",
+    "settings" : "Settings"
+  },
+  "lead" : {
+    "salutation" : "Salutation",
+    "title" : "Lead",
+    "personal" : "Personal",
+    "contactInformation" : "Contact Information",
+    "firstName" : "First name",
+    "lastName" : "Last name",
+    "taxIdPlaceholder" : {
+      "PE" : "Tax ID {XX.XXX.XXX-X}",
+      "CL" : "Tax ID {XXXXXXXX}"
+    },
+    "email" : "Email",
+    "andOr" : "AND / OR",
+    "phoneNumber" : "Phone Number",
+    "vehicleType" : "Vehicle Type",
+    "new" : "New",
+    "preOwned" : "Pre-Owned",
+    "certified" : "Certified",
+    "vehicle" : "Vehicle",
+    "year" : "Year",
+    "make" : "Make",
+    "model" : "Model",
+    "or" : "OR",
+    "vinOrStock" : "VIN or Stock number",
+    "appointment" : "Appointment",
+    "date" : "Date",
+    "time" : "Time",
+    "team" : "Department",
+    "notes" : "Notes",
+    "enterNotes" : "Enter notes",
+    "submitLead" : "Submit Lead",
+    "loading" : "Submitting your lead",
+    "genericErrorLine" : "There is an issue with one or more entries below.\nPlease correct and retry.",
+    "clear" : "Clear",
+    "vehicleFields" : {
+      "year" : "Year",
+      "make" : "Make",
+      "model" : "Model"
+    },
+    "errors" : {
+      "email" : "Invalid email address"
+    }
+  },
+  "leadSuccess" : {
+    "title" : "Lead submitted",
+    "subtitle" : "{{customerName}} (#{{leadId}})\n has been successfully submitted as a lead.",
+    "primaryAction" : "Back to chat"
+  }
+}
