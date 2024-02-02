@@ -1,0 +1,25 @@
+AX.Loading = "Loading";
+AX.Loaded = "Loaded";
+
+appSettingsTitle = "App Settings";
+appearanceHeader = "Appearance";
+automatic = "Automatic";
+light = "Always Light";
+dark = "Always Dark";
+
+multitaskingHeader = "Multitasking";
+multitaskingTitle = "Allow Multitasking";
+multitaskingSubtitle = "Switch to another app and come back without having to log in again. Session timeout still applies.";
+
+startScreenHeader = "Start Screen";
+startScreenMarketsTitle = "Start on Markets NSLocalizedString(@"Username", nil)";
+startScreenMarketsSubtitle = "Start on Markets when you open this app (instead of the Login screen).";
+startScreenWatchlistTitle = "Start on Watchlist";
+startScreenWatchlistSubtitle = "Start on Watchlist when you open this app.";
+startScreenAccountsTitle = "Start on Accounts";
+
+streamingToggleHeader = "Streaming";
+streamingToggleTitle = "Streaming Quotes";
+streamingToggleSubtitle = "With Streaming enabled, quotes may refresh up to every second on many features in the app. If this is Off, streaming will be disabled on all mobile app features.";
+
+textField.placeholder = NSLocalizedString(@"Username", nil);
