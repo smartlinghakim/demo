@@ -1,0 +1,28 @@
+{
+  "menu_guide": "Guide",
+  "menu_login": "Login",
+  "menu_signup": "Sign Up",
+  "service_provider": "Local Realty Service Provided By: {provider}",
+  "provider_type": "Fair Housing",
+  "filter": {
+    "sale_type": "For Sale",
+    "price": "Price",
+    "property_type": "Property Type",
+    "beds_baths": "Beds/Baths",
+    "more": "More",
+    "save_search": "Save Search"
+  },
+  "Results": {
+    "results_count": "Showing {0} of {1} Properties",
+    "sortby": "Sorty by:",
+    "sort_type": "Recently Uploaded",
+    "age": "New",
+    "propowner": [
+      "Courtesy of The Corcoran Group",
+      "Courtesy of Compass"
+    ],
+    "Disclaimer": {},
+    "disclaimer_text": "This website uses cookies to improve your experience when browsing our website. By clicking on the “Accept Cookies” button or continuing to use this site, you are agreeing to their use. Learn more about our use of cookies and how to restrict usage in our <a href=\"http://www.kw.com/kw/cookie-policy\">Cookie Policy</a>",
+    "disclaimer_button": "Accept Cookies"
+  }
+}
