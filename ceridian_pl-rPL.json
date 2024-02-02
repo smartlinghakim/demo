@@ -1,0 +1,2474 @@
+{
+  "html" : "",
+  "body" : {
+    "header" : {
+      "@class" : "topNavigation",
+      "@data-swiftype-index" : "false",
+      "nav" : {
+        "@class" : "navbar navbar-default navbar-fixed-top",
+        "@role" : "presentation",
+        "#comment" : "",
+        "div" : [
+        {
+          "@id" : "announcement",
+          "@data-ride" : "carousel",
+          "@class" : "carousel-fade carousel  slide  link-block bg-Dark-Blue",
+          "div" : {
+            "@class" : "carousel-inner",
+            "@role" : "listbox",
+            "div" : [
+            {
+              "@class" : "item active",
+              "@data-interval" : "5000",
+              "a" : {
+                "@href" : "https://www.ceridian.com/resources/gartner-magic-quadrant-hcm-2022?utm_source=web-2022-us-df-gartner-mq-report-home-banner",
+                "@target" : "_self",
+                "div" : {
+                  "@class" : "row  ",
+                  "@style" : "",
+                  "div" : {
+                    "@class" : "container",
+                    "div" : [
+                    {
+                      "@class" : "banner-contents col-md-9 text-left align-middle px-20 px-lg-0",
+                      "p" : {
+                        "span" : "Learn more",
+                        "#text" : "Ceridian named a Leader in the 2022 Gartner Magic Quadrant for Cloud HCM Suites for 1,000+ Employee Enterprises."
+                      }
+                    },
+
+                    {
+                      "@class" : "col-md-3 text-right visible-md visible-lg px-20 px-lg-0  ",
+                      "img" : {
+                        "@alt" : "",
+                        "@class" : " banner-img",
+                        "@src" : "/Ceridian/webp_media/WebsiteMedia/Products/dayforce/image-home-gartner-2022-500x260.webp?ext=.webp",
+                        "@title" : ""
+                      }
+                    }]
+                  }
+                }
+              }
+            },
+
+            {
+              "@class" : "item ",
+              "@data-interval" : "5000",
+              "a" : {
+                "@href" : "https://www.ceridian.com/products/dayforce/ideal-talent-marketplace",
+                "@target" : "_self",
+                "div" : {
+                  "@class" : "row  ",
+                  "@style" : "",
+                  "div" : {
+                    "@class" : "container",
+                    "div" : [
+                    {
+                      "@class" : "banner-contents col-md-9 text-left align-middle px-20 px-lg-0",
+                      "p" : {
+                        "span" : "Learn more",
+                        "#text" : "Meet Ideal Talent Marketplace, our latest offering to extend and scale your workforce with qualified, on-demand workers."
+                      }
+                    },
+
+                    {
+                      "@class" : "col-md-3 text-right visible-md visible-lg px-20 px-lg-0  ",
+                      "img" : {
+                        "@alt" : "",
+                        "@class" : " banner-img",
+                        "@src" : "/Ceridian/webp_media/WebsiteMedia/Products/dayforce/image-home-ideal-talent-marketplace-500x260.webp?ext=.webp",
+                        "@title" : ""
+                      }
+                    }]
+                  }
+                }
+              }
+            }]
+          }
+        },
+
+        {
+          "@class" : "nav-top navbar-static-top",
+          "div" : {
+            "@class" : "container",
+            "div" : [
+            {
+              "@class" : "col-sm-4 navbar-left",
+              "ul" : {
+                "@class" : "",
+                "li" : {
+                  "div" : {
+                    "@class" : "country-flags",
+                    "div" : {
+                      "@class" : "country-menu",
+                      "div" : {
+                        "@class" : "country-link",
+                        "#text" : "United States"
+                      },
+                      "ul" : {
+                        "@class" : "submenu",
+                        "li" : [
+                        {
+                          "@id" : "us",
+                          "a" : {
+                            "@rel" : "nofollow",
+                            "@href" : "/",
+                            "#text" : "United States"
+                          }
+                        },
+
+                        {
+                          "@id" : "ca",
+                          "a" : {
+                            "@rel" : "nofollow",
+                            "@href" : "/ca/",
+                            "#text" : "Canada (English)"
+                          }
+                        },
+
+                        {
+                          "@id" : "fr",
+                          "a" : {
+                            "@rel" : "nofollow",
+                            "@href" : "/fr/",
+                            "#text" : "Canada (Français)"
+                          }
+                        },
+
+                        {
+                          "@id" : "uk",
+                          "a" : {
+                            "@rel" : "nofollow",
+                            "@href" : "/uk/",
+                            "#text" : "UK / Ireland"
+                          }
+                        },
+
+                        {
+                          "@id" : "de",
+                          "a" : {
+                            "@rel" : "nofollow",
+                            "@href" : "/de/",
+                            "#text" : "Deutschland (Deutsch)"
+                          }
+                        },
+
+                        {
+                          "@id" : "au",
+                          "a" : {
+                            "@rel" : "nofollow",
+                            "@href" : "/au/",
+                            "#text" : "Australia / NZ"
+                          }
+                        },
+
+                        {
+                          "@id" : "asia",
+                          "a" : {
+                            "@rel" : "nofollow",
+                            "@href" : "/asia/",
+                            "#text" : "Asia (English)"
+                          }
+                        },
+
+                        {
+                          "@id" : "mu",
+                          "a" : {
+                            "@rel" : "nofollow",
+                            "@href" : "/mu/",
+                            "#text" : "Mauritius"
+                          }
+                        }]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+
+            {
+              "@class" : "col-sm-8 navbar-right",
+              "div" : [
+              {
+                "@class" : "searchit",
+                "img" : {
+                  "@alt" : "",
+                  "@border" : "0",
+                  "@class" : "searchicon",
+                  "@src" : "/ceridian/media/websitemedia/icon/icon-search-off.png"
+                }
+              },
+
+              {
+                "@class" : "auxiliary-menu-wrapper",
+                "nav" : {
+                  "@aria-label" : "Desktop header secondary menu",
+                  "@class" : "header-secondary",
+                  "ul" : {
+                    "li" : [
+                    {
+                      "a" : {
+                        "@href" : "/support",
+                        "@target" : "",
+                        "#text" : "Support"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/support/login",
+                        "@target" : "",
+                        "#text" : "Login"
+                      }
+                    }]
+                  }
+                }
+              },
+
+              {
+                "@class" : "contact-methods",
+                "ul" : {
+                  "@class" : "",
+                  "li" : {
+                    "a" : {
+                      "@href" : "tel:1-800-729-7655",
+                      "#text" : "Call Sales 1-800-729-7655"
+                    }
+                  }
+                }
+              }]
+            }],
+            "#comment" : ""
+          }
+        },
+
+        {
+          "@class" : "container",
+          "@id" : "navfluid",
+          "div" : [
+          {
+            "@class" : "navbar-header",
+            "button" : {
+              "@type" : "button",
+              "@class" : "navbar-toggle",
+              "@data-toggle" : "collapse",
+              "@data-target" : "#navigationbar",
+              "span" : [
+              {
+                "@class" : "sr-only",
+                "#text" : "Toggle navigation"
+              },
+
+              {
+                "@class" : "icon-bar"
+              },
+
+              {
+                "@class" : "icon-bar"
+              },
+
+              {
+                "@class" : "icon-bar"
+              }]
+            },
+            "div" : [
+            {
+              "@class" : "mobile-search",
+              "img" : {
+                "@alt" : "",
+                "@border" : "0",
+                "@class" : "searchicon",
+                "@src" : "/ceridian/media/websitemedia/icon/icon-search-off.png"
+              }
+            },
+
+            {
+              "@class" : "top-nav-logo",
+              "a" : {
+                "@href" : "/",
+                "img" : {
+                  "@class" : "logo-header",
+                  "@src" : "/Ceridian/media/WebsiteMedia/logo/ceridian_wordmark_header.svg",
+                  "@alt" : "Ceridian Logo"
+                }
+              }
+            }]
+          },
+
+          {
+            "@aria-label" : "main menu",
+            "@class" : "navbar-slide main-mobile-menu",
+            "@role" : "navigation",
+            "ul" : [
+            {
+              "@class" : "nav navbar-nav nav-desktop",
+              "li" : [
+              {
+                "a" : {
+                  "@href" : "/products/dayforce",
+                  "@target" : "",
+                  "#text" : "Dayforce"
+                },
+                "ul" : [
+                {
+                  "@class" : "submenu products",
+                  "li" : [
+                  {
+                    "@class" : "menu-heading",
+                    "h4" : "Dayforce",
+                    "h5" : "Enterprise HCM Software",
+                    "p" : "Dayforce enterprise HCM software combines payroll, HR, benefits, talent and workforce management in a single cloud application to power the future of work."
+                  },
+
+                  {
+                    "@class" : "paddingTop10",
+                    "a" : {
+                      "@href" : "/products/dayforce",
+                      "@target" : "",
+                      "#text" : "Why Dayforce"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/products/dayforce/hr",
+                      "@target" : "",
+                      "#text" : "HR"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/products/dayforce/payroll",
+                      "@target" : "",
+                      "#text" : "Payroll"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/products/dayforce/payroll/wallet-on-demand-pay",
+                      "@target" : "",
+                      "#text" : "Dayforce Wallet"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/products/dayforce/talent-intelligence",
+                      "@target" : "",
+                      "#text" : "Talent Intelligence"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "https://www.ceridian.com/products/dayforce/ideal-talent-marketplace",
+                      "@target" : "_self",
+                      "#text" : "Ideal Talent Marketplace"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/products/dayforce/workforce-management",
+                      "@target" : "",
+                      "#text" : "Workforce Management"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "https://www.ceridian.com/products/dayforce/hr/advanced-hr-analytics",
+                      "@target" : "",
+                      "#text" : "Advanced HR Analytics"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/products/dayforce/customer-experience",
+                      "@target" : "",
+                      "#text" : "Customer Experience"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/products/dayforce/services",
+                      "@target" : "",
+                      "#text" : "Services"
+                    }
+                  },
+
+                  {
+                    "@class" : "paddingTop10 menu-heading",
+                    "#text" : "Fulfillment Services"
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/products/payroll-tax-services",
+                      "@target" : "",
+                      "#text" : "Tax Services"
+                    }
+                  }]
+                },
+
+                {
+                  "@class" : "submenu products"
+                }]
+              },
+
+              {
+                "a" : {
+                  "@href" : "javascript:void(0)",
+                  "@target" : "",
+                  "#text" : "Solutions"
+                },
+                "ul" : [
+                {
+                  "@class" : "submenu",
+                  "li" : [
+                  {
+                    "a" : {
+                      "@href" : "/solutions/retail-workforce",
+                      "@target" : "",
+                      "#text" : "Retail & Hospitality"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/solutions/manufacturing-workforce",
+                      "@target" : "",
+                      "#text" : "Manufacturing"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/solutions/healthcare-workforce",
+                      "@target" : "",
+                      "#text" : "Healthcare"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/solutions/financial-workforce",
+                      "@target" : "",
+                      "#text" : "Financial Services"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/solutions/public-sector",
+                      "@target" : "",
+                      "#text" : "Public Sector"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/solutions/professional-and-business-services-workforce",
+                      "@target" : "",
+                      "#text" : "Professional & Business Services"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/solutions/sports-entertainment",
+                      "@target" : "",
+                      "#text" : "Sports Entertainment"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/solutions/workforce",
+                      "@target" : "",
+                      "#text" : "Other Industries"
+                    }
+                  }]
+                },
+
+                {
+                  "@class" : "submenu"
+                }]
+              },
+
+              {
+                "a" : {
+                  "@href" : "/resources",
+                  "@target" : "",
+                  "#text" : "Resources"
+                },
+                "ul" : [
+                {
+                  "@class" : "submenu",
+                  "li" : [
+                  {
+                    "a" : {
+                      "@href" : "/resources?resource=Customer%20Stories",
+                      "@target" : "",
+                      "#text" : "Customer Stories"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/resources?resource=reports",
+                      "@target" : "",
+                      "#text" : "Reports"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/resources?resource=guides",
+                      "@target" : "",
+                      "#text" : "Guides"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/resources?resource=webinars",
+                      "@target" : "",
+                      "#text" : "On-demand webinars"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/blog",
+                      "@target" : "",
+                      "#text" : "Blog"
+                    }
+                  }]
+                },
+
+                {
+                  "@class" : "submenu"
+                }]
+              },
+
+              {
+                "a" : {
+                  "@href" : "/company",
+                  "@target" : "",
+                  "#text" : "Company"
+                },
+                "ul" : [
+                {
+                  "@class" : "submenu",
+                  "li" : [
+                  {
+                    "a" : {
+                      "@href" : "/company",
+                      "@target" : "",
+                      "#text" : "About"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "https://investor.ceridian.com",
+                      "@target" : "_blank",
+                      "#text" : "Investors"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/company/newsroom",
+                      "@target" : "",
+                      "#text" : "Newsroom"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/careers",
+                      "@target" : "",
+                      "#text" : "Careers"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/partners",
+                      "@target" : "",
+                      "#text" : "Partners"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/company/events",
+                      "@target" : "",
+                      "#text" : "Events"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "/company/corporate-responsibility",
+                      "@target" : "",
+                      "#text" : "Corporate Responsibility"
+                    }
+                  },
+
+                  {
+                    "a" : {
+                      "@href" : "https://www.ceridiancares.com/",
+                      "@target" : "_blank",
+                      "#text" : "Ceridian Cares"
+                    }
+                  }]
+                },
+
+                {
+                  "@class" : "submenu"
+                }]
+              },
+
+              {
+                "a" : {
+                  "@class" : "blue-btn big",
+                  "@href" : "/get-started/dayforce",
+                  "@target" : "_self",
+                  "#text" : "Get Started"
+                }
+              }]
+            },
+
+            {
+              "@class" : "nav navbar-nav nav-mobile",
+              "li" : [
+              {
+                "div" : {
+                  "@class" : "navbar-header",
+                  "#comment" : "",
+                  "button" : {
+                    "@type" : "button",
+                    "@class" : "navbar-toggle-close",
+                    "span" : [
+                    {
+                      "@class" : "sr-only",
+                      "#text" : "Toggle navigation"
+                    },
+
+                    {
+                      "@class" : "icon-x"
+                    }]
+                  },
+                  "div" : {
+                    "@class" : "top-nav-logo",
+                    "a" : {
+                      "@href" : "/",
+                      "@class" : "rootlink",
+                      "img" : {
+                        "@class" : "logo-header",
+                        "@src" : "/Ceridian/media/WebsiteMedia/logo/ceridian_wordmark_header.svg",
+                        "@alt" : "Ceridian Logo"
+                      }
+                    }
+                  }
+                }
+              },
+
+              {
+                "@class" : "divider"
+              },
+
+              {
+                "@class" : "dropdown",
+                "a" : {
+                  "@href" : "#",
+                  "@id" : "mobile-dropdown8",
+                  "@class" : "",
+                  "@data-toggle" : "dropdown",
+                  "@aria-haspopup" : "true",
+                  "@aria-expanded" : "false",
+                  "#text" : "United States"
+                },
+                "ul" : {
+                  "@class" : "submenu dropdown-menu",
+                  "@aria-labelledby" : "mobile-dropdown8",
+                  "li" : [
+                  {
+                    "@id" : "us",
+                    "a" : {
+                      "@rel" : "nofollow",
+                      "@href" : "/",
+                      "#text" : "United States"
+                    }
+                  },
+
+                  {
+                    "@id" : "ca",
+                    "a" : {
+                      "@rel" : "nofollow",
+                      "@href" : "/ca/",
+                      "#text" : "Canada (English)"
+                    }
+                  },
+
+                  {
+                    "@id" : "fr",
+                    "a" : {
+                      "@rel" : "nofollow",
+                      "@href" : "/fr/",
+                      "#text" : "Canada (Français)"
+                    }
+                  },
+
+                  {
+                    "@id" : "uk",
+                    "a" : {
+                      "@rel" : "nofollow",
+                      "@href" : "/uk/",
+                      "#text" : "UK / Ireland"
+                    }
+                  },
+
+                  {
+                    "@id" : "de",
+                    "a" : {
+                      "@rel" : "nofollow",
+                      "@href" : "/de/",
+                      "#text" : "Deutschland (Deutsch)"
+                    }
+                  },
+
+                  {
+                    "@id" : "au",
+                    "a" : {
+                      "@rel" : "nofollow",
+                      "@href" : "/au/",
+                      "#text" : "Australia / NZ"
+                    }
+                  },
+
+                  {
+                    "@id" : "asia",
+                    "a" : {
+                      "@rel" : "nofollow",
+                      "@href" : "/asia/",
+                      "#text" : "Asia (English)"
+                    }
+                  },
+
+                  {
+                    "@id" : "mu",
+                    "a" : {
+                      "@rel" : "nofollow",
+                      "@href" : "/mu/",
+                      "#text" : "Mauritius"
+                    }
+                  }]
+                }
+              }],
+              "div" : {
+                "@class" : "mobile-menu-items",
+                "li" : [
+                {
+                  "@class" : "dropdown main-menu",
+                  "a" : {
+                    "@aria-expanded" : "false",
+                    "@aria-haspopup" : "true",
+                    "@data-toggle" : "dropdown",
+                    "@href" : "/#",
+                    "@target" : "",
+                    "#text" : "Dayforce"
+                  },
+                  "ul" : [
+                  {
+                    "@class" : "submenu dropdown-menu",
+                    "li" : [
+                    {
+                      "a" : {
+                        "@href" : "/products/dayforce",
+                        "@target" : "",
+                        "#text" : "Why Dayforce"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/products/dayforce/hr",
+                        "@target" : "",
+                        "#text" : "HR"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/products/dayforce/payroll",
+                        "@target" : "",
+                        "#text" : "Payroll"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/products/dayforce/payroll/wallet-on-demand-pay",
+                        "@target" : "",
+                        "#text" : "Dayforce Wallet"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/products/dayforce/talent-intelligence",
+                        "@target" : "",
+                        "#text" : "Talent Intelligence"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "https://www.ceridian.com/products/dayforce/ideal-talent-marketplace",
+                        "@target" : "_self",
+                        "#text" : "Ideal Talent Marketplace"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/products/dayforce/workforce-management",
+                        "@target" : "",
+                        "#text" : "Workforce Management"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/products/dayforce/customer-experience",
+                        "@target" : "",
+                        "#text" : "Customer Experience"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/products/dayforce/services",
+                        "@target" : "",
+                        "#text" : "Services"
+                      }
+                    }]
+                  },
+
+                  {
+                    "@class" : "submenu dropdown-menu"
+                  }]
+                },
+
+                {
+                  "@class" : "dropdown main-menu",
+                  "a" : {
+                    "@aria-expanded" : "false",
+                    "@aria-haspopup" : "true",
+                    "@data-toggle" : "dropdown",
+                    "@href" : "/#",
+                    "@target" : "",
+                    "#text" : "Solutions"
+                  },
+                  "ul" : [
+                  {
+                    "@class" : "submenu dropdown-menu",
+                    "li" : [
+                    {
+                      "a" : {
+                        "@href" : "/solutions/retail-workforce",
+                        "@target" : "",
+                        "#text" : "Retail & Hospitality"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/solutions/manufacturing-workforce",
+                        "@target" : "",
+                        "#text" : "Manufacturing"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/solutions/healthcare-workforce",
+                        "@target" : "",
+                        "#text" : "Healthcare"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/solutions/financial-workforce",
+                        "@target" : "",
+                        "#text" : "Financial Services"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/solutions/public-sector",
+                        "@target" : "",
+                        "#text" : "Public Sector"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/solutions/professional-and-business-services-workforce",
+                        "@target" : "",
+                        "#text" : "Professional & Business Services"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/solutions/sports-entertainment",
+                        "@target" : "",
+                        "#text" : "Sports Entertainment"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/solutions/workforce",
+                        "@target" : "",
+                        "#text" : "Other Industries"
+                      }
+                    }]
+                  },
+
+                  {
+                    "@class" : "submenu dropdown-menu"
+                  }]
+                },
+
+                {
+                  "@class" : "dropdown main-menu",
+                  "a" : {
+                    "@aria-expanded" : "false",
+                    "@aria-haspopup" : "true",
+                    "@data-toggle" : "dropdown",
+                    "@href" : "/#",
+                    "@target" : "",
+                    "#text" : "Resources"
+                  },
+                  "ul" : [
+                  {
+                    "@class" : "submenu dropdown-menu",
+                    "li" : [
+                    {
+                      "a" : {
+                        "@href" : "/resources?resource=customer stories",
+                        "@target" : "",
+                        "#text" : "Customer Stories"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/resources?resource=reports",
+                        "@target" : "",
+                        "#text" : "Reports"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/resources?resource=guides",
+                        "@target" : "",
+                        "#text" : "Guides"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/resources?resource=webinars",
+                        "@target" : "",
+                        "#text" : "On-demand webinars"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/blog",
+                        "@target" : "",
+                        "#text" : "Blog"
+                      }
+                    }]
+                  },
+
+                  {
+                    "@class" : "submenu dropdown-menu"
+                  }]
+                },
+
+                {
+                  "@class" : "dropdown main-menu",
+                  "a" : {
+                    "@aria-expanded" : "false",
+                    "@aria-haspopup" : "true",
+                    "@data-toggle" : "dropdown",
+                    "@href" : "/#",
+                    "@target" : "",
+                    "#text" : "Company"
+                  },
+                  "ul" : [
+                  {
+                    "@class" : "submenu dropdown-menu",
+                    "li" : [
+                    {
+                      "a" : {
+                        "@href" : "/company",
+                        "@target" : "",
+                        "#text" : "About"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "https://investors.ceridian.com/",
+                        "@target" : "_blank",
+                        "#text" : "Investors"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/company/newsroom",
+                        "@target" : "",
+                        "#text" : "Newsroom"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/careers",
+                        "@target" : "",
+                        "#text" : "Careers"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/partners",
+                        "@target" : "",
+                        "#text" : "Partners"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/company/events",
+                        "@target" : "",
+                        "#text" : "Events"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/corporateresponsibility",
+                        "@target" : "",
+                        "#text" : "ESG Report"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "https://www.ceridiancares.ca/",
+                        "@target" : "_blank",
+                        "#text" : "Ceridian Cares"
+                      }
+                    }]
+                  },
+
+                  {
+                    "@class" : "submenu dropdown-menu"
+                  }]
+                },
+
+                {
+                  "@class" : "dropdown main-menu",
+                  "a" : {
+                    "@aria-expanded" : "false",
+                    "@aria-haspopup" : "true",
+                    "@data-toggle" : "dropdown",
+                    "@href" : "/#",
+                    "@target" : "",
+                    "#text" : "Get Started"
+                  },
+                  "ul" : [
+                  {
+                    "@class" : "submenu dropdown-menu",
+                    "li" : [
+                    {
+                      "a" : {
+                        "@href" : "/get-started/Dayforce",
+                        "@target" : "",
+                        "#text" : "Book a Demo"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "/get-started/Dayforce",
+                        "@target" : "",
+                        "#text" : "Let's Talk"
+                      }
+                    },
+
+                    {
+                      "a" : {
+                        "@href" : "tel:1-800-729-7655",
+                        "@target" : "",
+                        "#text" : "Call Sales 1-800-729-7655"
+                      }
+                    }]
+                  },
+
+                  {
+                    "@class" : "submenu dropdown-menu"
+                  }]
+                },
+
+                {
+                  "@class" : "paddingTop10",
+                  "a" : {
+                    "@href" : "/support",
+                    "@target" : "",
+                    "#text" : "Support"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@href" : "/support/login",
+                    "@target" : "",
+                    "#text" : "Login"
+                  }
+                }]
+              }
+            }]
+          }]
+        }]
+      }
+    },
+    "#comment" : ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+    "section" : [
+    {
+      "@class" : "newbrand heroSection  bg-top",
+      "@style" : "background-image:url(/Ceridian/webp_media/WebsiteMedia/Home/Ceridian-home-june-2021-v2.webp?ext=.webp);",
+      "div" : {
+        "@class" : "heroContent",
+        "div" : {
+          "@class" : "",
+          "div" : {
+            "@class" : "container",
+            "h1" : {
+              "@class" : "pr-30 pr-sm-0",
+              "#text" : "Your global people platform"
+            },
+            "h2" : {
+              "@class" : "font-White",
+              "h2" : {
+                "@class" : "big font-White",
+                "br" : "",
+                "#text" : ["Empower people, simplify compliance,", "and unlock workforce intelligence"]
+              }
+            },
+            "div" : {
+              "@class" : "pt-30",
+              "a" : {
+                "@class" : "blue-btn big width-auto orange",
+                "@href" : "/products/dayforce?utm_source=web-df-prod-homepage-hero-cta-us",
+                "@target" : "_self",
+                "#text" : "Learn about Dayforce"
+              }
+            }
+          }
+        }
+      }
+    },
+
+    {
+      "@class" : "tmp-statement",
+      "div" : {
+        "@class" : "container",
+        "div" : {
+          "@class" : "row",
+          "div" : {
+            "@class" : "col-xs-12",
+            "p" : [
+            {
+              "@class" : "text-center"
+            },
+
+            {
+              "@class" : "text-center",
+              "strong" : {
+                "a" : {
+                  "@href" : "https://www.ceridian.com/resources/2023-pulse-of-talent?utm_source=web-2023-amer-df-pot-homepage-sub-banner-CA-en",
+                  "#text" : "Download the report"
+                },
+                "#text" : "New research: 8,800 employees say there's more to flexibility than employers realize."
+              }
+            }]
+          }
+        }
+      }
+    },
+
+    {
+      "@class" : "generalContents my-0 pt-30 pb-0 pb-md-50 bg-Snow",
+      "div" : {
+        "@class" : "container",
+        "div" : {
+          "@class" : "row",
+          "div" : {
+            "@class" : "max-width-900 text-center px-20 px-lg-0 mb-30 mt-50",
+            "h2" : {
+              "@class" : "med mb-30",
+              "#text" : "Right now, preparing your workforce is the smartest decision you’ll make"
+            },
+            "h4" : "",
+            "div" : {
+              "@class" : "p-content mb-20",
+              "p" : "The world has changed, and it's going to keep changing. Our human capital management software helps your workforce adapt, evolve, and win by working more effectively within it. Spend less time focused on tasks and more time focused on strategy. Turn data into smarter decision making, and use modern technology to create experiences your employees will love."
+            }
+          }
+        }
+      }
+    },
+
+    {
+      "@class" : "bg-Snow mt-0 pt-50 pt-md-0 anc-video-section",
+      "div" : {
+        "@class" : "homeVideoWrapper max-width-1200 text-center",
+        "img" : {
+          "@alt" : "",
+          "@class" : "lazyload img-responsive",
+          "@data-src" : "/Ceridian/webp_media/WebsiteMedia/Home/customer-video-image-anz-2400x1450.webp?ext=.webp",
+          "@title" : ""
+        },
+        "div" : [
+        {
+          "@class" : "video-play-button",
+          "@onclick" : "fn_vidyard_d1FXLj2jyAxF1tXmjQXE5k()",
+          "div" : {
+            "@class" : "video-play-arrow"
+          }
+        },
+
+        {
+          "@class" : "row",
+          "div" : {
+            "@id" : "hidden_content",
+            "script" : {
+              "@type" : "text/javascript",
+              "@id" : "vidyard_embed_code_d1FXLj2jyAxF1tXmjQXE5k",
+              "@src" : "//play.vidyard.com/d1FXLj2jyAxF1tXmjQXE5k.js?v=3.1.1&amp;width=960&amp;height=540&amp;type=lightbox"
+            }
+          }
+        }]
+      }
+    },
+
+    {
+      "@class" : "homeCustomer bg-full-container-half mt-0 mt-md-n190",
+      "div" : {
+        "@class" : "container bg-Brand-Blue pt-60 pb-70",
+        "div" : [
+        {
+          "@class" : "row",
+          "div" : {
+            "@class" : "col-sm-10",
+            "h2" : {
+              "@class" : "font-White",
+              "#text" : "Our customers on the ROI of Dayforce"
+            },
+            "h3" : {
+              "@class" : "font-White ClarikaGrotesque-Light",
+              "#text" : "Hear directly from Ceridian customers on how Dayforce has transformed their HR and payroll practices and delivered quantifiable value to their companies."
+            }
+          }
+        },
+
+        {
+          "@class" : "row",
+          "div" : {
+            "@class" : "col-sm-12",
+            "a" : {
+              "@href" : "/resources?resource=customer stories",
+              "@target" : "_blank",
+              "@class" : "",
+              "h5" : {
+                "@class" : "lg font-Brand-blue-light",
+                "i" : {
+                  "@class" : "far fa-angle-right"
+                },
+                "#text" : "See more customer stories"
+              }
+            }
+          }
+        }]
+      }
+    },
+
+    {
+      "@class" : "homeValues my-0",
+      "div" : [
+      {
+        "@class" : "row mx-0 show-mobile-image",
+        "@id" : "id_Complex_work_doesn’t_have_to_be_complicated",
+        "div" : [
+        {
+          "@class" : "col-sm-6 contents pt-50 pt-md-100 pb-70 pb-md-120 card-height right",
+          "div" : {
+            "@class" : "container-512 px-0 pull-left",
+            "div" : {
+              "@class" : "col-md-12 px-0 px-md-40",
+              "h2" : "Complex work doesn’t have to be complicated",
+              "div" : [
+              {
+                "@class" : "mt-20",
+                "p" : "Businesses today are more complex than ever. Our customers cut through that complexity and are able to focus more on strategy and growth, and less on tasks. They’re able to find opportunities that create quantifiable value as the business changes. Global payroll is one of the many areas where our customers have overcome complexity and applied innovative thinking and technology to create value."
+              },
+
+              {
+                "@class" : "mt-30",
+                "a" : {
+                  "@href" : "/products/dayforce/payroll",
+                  "@class" : "blue-btn",
+                  "@target" : "_self",
+                  "#text" : "Learn more"
+                }
+              }]
+            }
+          }
+        },
+
+        {
+          "@class" : "col-sm-6 text-center px-0 bg-cover card-height",
+          "@style" : "background-image: url(/Ceridian/webp_media/WebsiteMedia/Home/value-image-1-1600x860.webp?ext=.webp);",
+          "div" : {
+            "@class" : "hidden-sm hidden-md hidden-lg",
+            "img" : {
+              "@alt" : "",
+              "@class" : "lazyload img-responsive",
+              "@data-src" : "/Ceridian/webp_media/WebsiteMedia/Home/value-image-1-1600x860.webp?ext=.webp",
+              "@title" : ""
+            }
+          }
+        }]
+      },
+
+      {
+        "@class" : "row mx-0 show-mobile-image",
+        "@id" : "id_Work_smarter,_not_harder",
+        "div" : [
+        {
+          "@class" : "col-sm-6 contents pt-50 pt-md-100 pb-70 pb-md-120 card-height ",
+          "div" : {
+            "@class" : "container-512 px-0 pull-right",
+            "div" : {
+              "@class" : "col-md-12 px-0 px-md-40",
+              "h2" : "Work smarter, not harder",
+              "div" : [
+              {
+                "@class" : "mt-20",
+                "p" : "People are a company’s biggest investment and most important asset. Smart leaders understand this, and make strategic decisions about their workforce, informed by data. With Dayforce, leaders can make better decisions that benefit their company and their people. Read about some of our customers who are demonstrating intelligence at work."
+              },
+
+              {
+                "@class" : "mt-30",
+                "a" : {
+                  "@href" : "/intelligence-at-work",
+                  "@class" : "blue-btn",
+                  "@target" : "_self",
+                  "#text" : "Learn more"
+                }
+              }]
+            }
+          }
+        },
+
+        {
+          "@class" : "col-sm-6 text-center px-0 bg-cover card-height",
+          "@style" : "background-image: url(/Ceridian/webp_media/WebsiteMedia/Home/value-image-2-1600x860.webp?ext=.webp);",
+          "div" : {
+            "@class" : "hidden-sm hidden-md hidden-lg",
+            "img" : {
+              "@alt" : "",
+              "@class" : "lazyload img-responsive",
+              "@data-src" : "/Ceridian/webp_media/WebsiteMedia/Home/value-image-2-1600x860.webp?ext=.webp",
+              "@title" : ""
+            }
+          }
+        }]
+      },
+
+      {
+        "@class" : "row mx-0 show-mobile-image",
+        "@id" : "id_Modern_tech_employees_will_love",
+        "div" : [
+        {
+          "@class" : "col-sm-6 contents pt-50 pt-md-100 pb-70 pb-md-120 card-height right",
+          "div" : {
+            "@class" : "container-512 px-0 pull-left",
+            "div" : {
+              "@class" : "col-md-12 px-0 px-md-40",
+              "h2" : "Modern tech employees will love",
+              "div" : [
+              {
+                "@class" : "mt-20",
+                "p" : "Today’s employees want a work experience similar to their lifestyles: online, on-demand, and self-serve. A great employee experience is a win-win – employees are happier and more productive, and this can positively impact your bottom line. We are constantly innovating and developing new ways to deliver a better user experience, like with Dayforce Wallet – a whole new way to get paid."
+              },
+
+              {
+                "@class" : "mt-30",
+                "a" : {
+                  "@href" : "/products/dayforce/payroll/wallet",
+                  "@class" : "blue-btn",
+                  "@target" : "_self",
+                  "#text" : "Learn more"
+                }
+              }]
+            }
+          }
+        },
+
+        {
+          "@class" : "col-sm-6 text-center px-0 bg-cover card-height",
+          "@style" : "background-image: url(/Ceridian/webp_media/WebsiteMedia/Home/value-image-3-1600x860.webp?ext=.webp);",
+          "div" : {
+            "@class" : "hidden-sm hidden-md hidden-lg",
+            "img" : {
+              "@alt" : "",
+              "@class" : "lazyload img-responsive",
+              "@data-src" : "/Ceridian/webp_media/WebsiteMedia/Home/value-image-3-1600x860.webp?ext=.webp",
+              "@title" : ""
+            }
+          }
+        }]
+      }]
+    },
+
+    {
+      "@class" : "bg-Brand-Blue mt-0 py-60",
+      "div" : {
+        "@class" : "container",
+        "div" : {
+          "@class" : "row",
+          "div" : [
+          {
+            "@class" : "col-sm-3 pb-40 text-sm-center",
+            "img" : {
+              "@alt" : "",
+              "@class" : "lazyload max-width-215",
+              "@data-src" : "/Ceridian/webp_media/WebsiteMedia/Home/Gartner-Peer-Insights-Customers-Choice-badge-2021-White-500px.webp?ext=.webp",
+              "@title" : ""
+            }
+          },
+
+          {
+            "@class" : "col-sm-9 pl-20 pl-md-40  text-sm-center",
+            "h2" : {
+              "@class" : "med font-White",
+              "#text" : "One of the highest rated HCM Suites for 1,000+ Employee Enterprises"
+            },
+            "div" : {
+              "@class" : "pt-40 pt-md-20 px-40 px-md-0",
+              "img" : {
+                "@alt" : "",
+                "@class" : "lazyload img-responsive max-height-140",
+                "@data-src" : "/Ceridian/webp_media/WebsiteMedia/Home/customer-rating-v3.webp?ext=.webp",
+                "@title" : ""
+              }
+            }
+          }]
+        }
+      }
+    },
+
+    {
+      "@class" : "mt-0",
+      "div" : [
+      {
+        "@class" : "row mx-0 hidden-xs",
+        "img" : {
+          "@alt" : "",
+          "@class" : "lazyload img-responsive",
+          "@data-src" : "/Ceridian/webp_media/WebsiteMedia/Home/Home-DF-banner-v2.webp?ext=.webp",
+          "@title" : ""
+        }
+      },
+
+      {
+        "@class" : "hidden-sm hidden-md hidden-lg",
+        "img" : {
+          "@alt" : "",
+          "@class" : "lazyload img-responsive",
+          "@data-src" : "/Ceridian/webp_media/WebsiteMedia/Home/Home-DF-banner-mobile-1200x700-wallet-v2.webp?ext=.webp",
+          "@title" : ""
+        }
+      }]
+    },
+
+    {
+      "@class" : "homeFeature my-0 py-50 bg-Snow",
+      "div" : {
+        "@class" : "container",
+        "div" : {
+          "@class" : "row",
+          "div" : [
+          {
+            "@class" : "col-sm-6 pb-sm-50  pt-10 pt-sm-50 ",
+            "h2" : "How to choose a cloud HCM software partner",
+            "div" : [
+            {
+              "@class" : "mt-20",
+              "p" : "You have a lot to consider when choosing an HCM technology provider – how will it help you reduce complexity, improve the employee experience, and make smarter decisions that add value to your organization? Our Complete Buyer’s Guide to HCM Technology has the information and guidance you need to make the best decisions for your business."
+            },
+
+            {
+              "@class" : "mt-30",
+              "a" : {
+                "@href" : "/resources/start-your-hcm-journey-on-the-right-path",
+                "@class" : "blue-btn",
+                "@target" : "_self",
+                "@id" : "How-to-choose-a-cloud-HCM-software-partner",
+                "#text" : "Get the guide"
+              }
+            }]
+          },
+
+          {
+            "@class" : "col-sm-6",
+            "div" : {
+              "@class" : "",
+              "img" : {
+                "@alt" : "",
+                "@class" : "lazyload img-responsive",
+                "@data-src" : "/Ceridian/webp_media/WebsiteMedia/Home/2020-HCM-Buyers-Guide-cover.webp?ext=.webp",
+                "@title" : ""
+              }
+            }
+          }]
+        }
+      }
+    },
+
+    {
+      "@class" : "pt-10 pt-md-60 pb-0 pb-md-60",
+      "div" : {
+        "@class" : "container",
+        "div" : [
+        {
+          "@class" : "row",
+          "div" : {
+            "@class" : "col-md-12",
+            "h2" : {
+              "@class" : "big",
+              "#text" : "Latest news:"
+            },
+            "#comment" : ""
+          }
+        },
+
+        {
+          "@class" : "row pt-30 pb-15",
+          "div" : [
+          {
+            "@class" : "col-sm-3 pb-5",
+            "a" : {
+              "@href" : "/company/newsroom/2022/pulse-of-talent-report-workers-crave-flexibility-at-work-and-in-career-path",
+              "@target" : "_blank",
+              "img" : {
+                "@alt" : "",
+                "@class" : "lazyload img-responsive",
+                "@data-src" : "/Ceridian/webp_media/WebsiteMedia/Home/latestnews-3-mau-1200x780.webp?ext=.webp",
+                "@title" : ""
+              }
+            }
+          },
+
+          {
+            "@class" : "col-sm-9",
+            "p" : {
+              "@class" : "p-strong",
+              "#text" : "November 8, 2022"
+            },
+            "h3" : {
+              "@class" : "mt-15",
+              "a" : {
+                "@href" : "/company/newsroom/2022/pulse-of-talent-report-workers-crave-flexibility-at-work-and-in-career-path",
+                "@target" : "_blank",
+                "#text" : "Ceridian Pulse of Talent Report: Workers Crave Flexibility at Work and in Career Path"
+              }
+            }
+          }]
+        },
+
+        {
+          "@class" : "row pt-30 pb-15",
+          "div" : [
+          {
+            "@class" : "col-sm-3 pb-5",
+            "a" : {
+              "@href" : "/company/newsroom/2022/ceridian-named-a-leader-in-the-2022-gartner-magic-quadrant",
+              "@target" : "_blank",
+              "img" : {
+                "@alt" : "",
+                "@class" : "lazyload img-responsive",
+                "@data-src" : "/Ceridian/webp_media/WebsiteMedia/Home/latestnews-3-mau-1200x780.webp?ext=.webp",
+                "@title" : ""
+              }
+            }
+          },
+
+          {
+            "@class" : "col-sm-9",
+            "p" : {
+              "@class" : "p-strong",
+              "#text" : "November 2, 2022"
+            },
+            "h3" : {
+              "@class" : "mt-15",
+              "a" : {
+                "@href" : "/company/newsroom/2022/ceridian-named-a-leader-in-the-2022-gartner-magic-quadrant",
+                "@target" : "_blank",
+                "#text" : "Ceridian Named a Leader in the 2022 Gartner® Magic Quadrant™ for Cloud HCM Suites for 1,000+ Employee Enterprises for Third Consecutive Year"
+              }
+            }
+          }]
+        },
+
+        {
+          "@class" : "row pt-30 pb-15",
+          "div" : [
+          {
+            "@class" : "col-sm-3 pb-5",
+            "a" : {
+              "@href" : "/company/newsroom/2022/ceridian-announces-the-ideal-talent-marketplace",
+              "@target" : "_blank",
+              "img" : {
+                "@alt" : "",
+                "@class" : "lazyload img-responsive",
+                "@data-src" : "/Ceridian/webp_media/WebsiteMedia/Home/latestnews-3-mau-1200x780.webp?ext=.webp",
+                "@title" : ""
+              }
+            }
+          },
+
+          {
+            "@class" : "col-sm-9",
+            "p" : {
+              "@class" : "p-strong",
+              "#text" : "November 9, 2022"
+            },
+            "h3" : {
+              "@class" : "mt-15",
+              "a" : {
+                "@href" : "/company/newsroom/2022/ceridian-announces-the-ideal-talent-marketplace",
+                "@target" : "_blank",
+                "#text" : "Ceridian Announces Ideal Talent Marketplace"
+              }
+            }
+          }]
+        }]
+      }
+    },
+
+    {
+      "@class" : "homeCustomerLogo customers-horizental bg-White pt-0 pb-50",
+      "div" : {
+        "@class" : "max-width-1180 text-center",
+        "div" : [
+        {
+          "@class" : "col-sm-12",
+          "h3" : {
+            "@class" : "lg mt-30 mb-40 font-Black",
+            "#text" : "We work with some of the world’s best brands"
+          }
+        },
+
+        {
+          "@class" : "col-lg-2 col-sm-4 col-xs-6 text-center",
+          "img" : {
+            "@alt" : "",
+            "@class" : "lazyload img-responsive cus-logo",
+            "@data-src" : "/Ceridian/webp_media/WebsiteMedia/Customers/customer-icon-bluemangroup.webp?ext=.webp",
+            "@title" : ""
+          }
+        },
+
+        {
+          "@class" : "col-lg-2 col-sm-4 col-xs-6 text-center",
+          "img" : {
+            "@alt" : "",
+            "@class" : "lazyload img-responsive cus-logo",
+            "@data-src" : "/Ceridian/webp_media/WebsiteMedia/Customers/customer-icon-corepoweryoga.webp?ext=.webp",
+            "@title" : ""
+          }
+        },
+
+        {
+          "@class" : "col-lg-2 col-sm-4 col-xs-6 text-center",
+          "img" : {
+            "@alt" : "",
+            "@class" : "lazyload img-responsive cus-logo",
+            "@data-src" : "/Ceridian/webp_media/WebsiteMedia/Customers/customer-icon-spirit.webp?ext=.webp",
+            "@title" : ""
+          }
+        },
+
+        {
+          "@class" : "col-lg-2 col-sm-4 col-xs-6 text-center",
+          "img" : {
+            "@alt" : "",
+            "@class" : "lazyload img-responsive cus-logo",
+            "@data-src" : "/Ceridian/webp_media/WebsiteMedia/Customers/customer-icon-guitarcenter.webp?ext=.webp",
+            "@title" : ""
+          }
+        },
+
+        {
+          "@class" : "col-lg-2 col-sm-4 col-xs-6 text-center",
+          "img" : {
+            "@alt" : "",
+            "@class" : "lazyload img-responsive cus-logo",
+            "@data-src" : "/Ceridian/webp_media/WebsiteMedia/Customers/customer-icon-danone.webp?ext=.webp",
+            "@title" : ""
+          }
+        },
+
+        {
+          "@class" : "col-lg-2 col-sm-4 col-xs-6 text-center",
+          "img" : {
+            "@alt" : "",
+            "@class" : "lazyload img-responsive cus-logo",
+            "@data-src" : "/Ceridian/webp_media/WebsiteMedia/Customers/customer-icon-houstontexans.webp?ext=.webp",
+            "@title" : ""
+          }
+        }],
+        "#comment" : ["", "", "", "", "", ""]
+      }
+    },
+
+    {
+      "@class" : "footer-cta bg-Brand-Blue ",
+      "div" : {
+        "@class" : "container",
+        "div" : {
+          "@class" : "row",
+          "div" : {
+            "@class" : "col-md-12 text-center titleSpacing text-center px-15 px-md-30",
+            "h2" : {
+              "@class" : "big br-none-sm",
+              "br" : "",
+              "#text" : ["Let’s get your workforce off", "to a smarter start"]
+            },
+            "div" : {
+              "@class" : "pt-35",
+              "a" : [
+              {
+                "@class" : "blue-btn cta-btn big mb-20 trackLink orange",
+                "@href" : "/get-started",
+                "@target" : "_self",
+                "@id" : "CTA-Contact-us",
+                "#text" : "Contact us"
+              },
+
+              {
+                "@href" : "/get-started",
+                "@class" : "blue-btn  cta-btn big ml-0 ml-md-30  trackLink",
+                "@target" : "_self",
+                "@id" : "CTA-Book-a-demo",
+                "#text" : "Book a demo"
+              }]
+            }
+          }
+        }
+      }
+    },
+
+    {
+      "@class" : "footer",
+      "div" : [
+      {
+        "@class" : "container",
+        "div" : [
+        {
+          "@class" : "row",
+          "div" : {
+            "@class" : "col-md-3 col-xs-6 footerLogo",
+            "img" : {
+              "@src" : "/Ceridian/media/WebsiteMedia/logo/ceridian_wordmark_blue_footer.svg",
+              "@alt" : ""
+            }
+          }
+        },
+
+        {
+          "@class" : "row",
+          "#comment" : ["", ""],
+          "div" : {
+            "@class" : "be-ix-link-block",
+            "#comment" : ""
+          }
+        }],
+        "nav" : {
+          "@aria-label" : "Desktop footer menu",
+          "@class" : "desktop-footer row",
+          "ul" : {
+            "@class" : "row fix",
+            "li" : [
+            {
+              "@class" : "nav-list-heading col-md-5ths col-sm-4 col-xs-6",
+              "a" : {
+                "@href" : "/products/dayforce",
+                "@target" : "",
+                "#text" : "Dayforce"
+              },
+              "ul" : [
+              {
+                "li" : [
+                {
+                  "@class" : "nav-list-heading",
+                  "p" : "Enterprise HCM Software"
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/products/dayforce",
+                    "@target" : "",
+                    "#text" : "Why Dayforce"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/products/dayforce/hr",
+                    "@target" : "",
+                    "#text" : "HR"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/products/dayforce/payroll",
+                    "@target" : "",
+                    "#text" : "Payroll"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/products/dayforce/payroll/wallet-on-demand-pay",
+                    "@target" : "",
+                    "#text" : "Dayforce Wallet"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/products/dayforce/talent-intelligence",
+                    "@target" : "",
+                    "#text" : "Talent Intelligence"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/products/dayforce/workforce-management",
+                    "@target" : "",
+                    "#text" : "Workforce Management"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "https://www.ceridian.com/products/dayforce/hr/advanced-hr-analytics",
+                    "@target" : "",
+                    "#text" : "Advanced HR Analytics"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/products/dayforce/customer-experience",
+                    "@target" : "",
+                    "#text" : "Customer Experience"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/products/dayforce/services",
+                    "@target" : "",
+                    "#text" : "Services"
+                  }
+                },
+
+                {
+                  "@class" : "nav-list-heading paddingTop10",
+                  "p" : "Fulfillment Services"
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/products/payroll-tax-services",
+                    "@target" : "",
+                    "#text" : "Tax Services"
+                  }
+                }]
+              }, ""]
+            },
+
+            {
+              "@class" : "nav-list-heading col-md-5ths col-sm-4 col-xs-6",
+              "a" : {
+                "@href" : "javascript:void(0)",
+                "@target" : "",
+                "#text" : "Solutions"
+              },
+              "ul" : [
+              {
+                "li" : [
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/solutions/retail-workforce",
+                    "@target" : "",
+                    "#text" : "Retail & Hospitality"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/solutions/manufacturing-workforce",
+                    "@target" : "",
+                    "#text" : "Manufacturing"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/solutions/healthcare-workforce",
+                    "@target" : "",
+                    "#text" : "Healthcare"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/solutions/financial-workforce",
+                    "@target" : "",
+                    "#text" : "Financial Services"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/solutions/public-sector",
+                    "@target" : "",
+                    "#text" : "Public Sector"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/solutions/professional-and-business-services-workforce",
+                    "@target" : "",
+                    "#text" : "Professional & Business Services"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/solutions/sports-entertainment",
+                    "@target" : "",
+                    "#text" : "Sports Entertainment"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/solutions/workforce",
+                    "@target" : "",
+                    "#text" : "Other Industries"
+                  }
+                }]
+              }, ""]
+            },
+
+            {
+              "@class" : "nav-list-heading col-md-5ths col-sm-4 col-xs-6",
+              "a" : {
+                "@href" : "/resources",
+                "@target" : "",
+                "#text" : "Resources"
+              },
+              "ul" : [
+              {
+                "li" : [
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/resources?resource=customer%20stories",
+                    "@target" : "",
+                    "#text" : "Customer Stories"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/resources?resource=reports",
+                    "@target" : "",
+                    "#text" : "Reports"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/resources?resource=guides",
+                    "@target" : "",
+                    "#text" : "Guides"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/resources?resource=webinars",
+                    "@target" : "",
+                    "#text" : "On-demand webinars"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/blog",
+                    "@target" : "",
+                    "#text" : "Blog"
+                  }
+                }]
+              }, ""]
+            },
+
+            {
+              "@class" : "nav-list-heading col-md-5ths col-sm-4 col-xs-6",
+              "a" : {
+                "@href" : "/company",
+                "@target" : "",
+                "#text" : "Company"
+              },
+              "ul" : [
+              {
+                "li" : [
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/company",
+                    "@target" : "",
+                    "#text" : "About"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "https://investor.ceridian.com",
+                    "@target" : "_blank",
+                    "#text" : "Investors"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/company/newsroom",
+                    "@target" : "",
+                    "#text" : "Newsroom"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/careers",
+                    "@target" : "",
+                    "#text" : "Careers"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/partners",
+                    "@target" : "",
+                    "#text" : "Partners"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/company/events",
+                    "@target" : "",
+                    "#text" : "Events"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/company/corporate-responsibility",
+                    "@target" : "",
+                    "#text" : "Corporate Responsibility"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "https://www.ceridiancares.com/",
+                    "@target" : "_blank",
+                    "#text" : "Ceridian Cares"
+                  }
+                }]
+              }, ""]
+            },
+
+            {
+              "@class" : "nav-list-heading col-md-5ths col-sm-4 col-xs-6",
+              "a" : {
+                "@href" : "/get-started/dayforce",
+                "@target" : "",
+                "#text" : "Get Started"
+              },
+              "ul" : [
+              {
+                "li" : [
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/get-started/Dayforce",
+                    "@target" : "",
+                    "#text" : "Watch Demo"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/get-started/Dayforce",
+                    "@target" : "",
+                    "#text" : "Request Information"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/contact",
+                    "@target" : "",
+                    "#text" : "Contact"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@class" : "link-sm",
+                    "@href" : "/support",
+                    "@target" : "",
+                    "#text" : "Support"
+                  }
+                }]
+              }, ""]
+            }]
+          }
+        }
+      },
+
+      {
+        "@class" : "container marginTop50",
+        "div" : {
+          "@class" : "row",
+          "div" : [
+          {
+            "@class" : "col-sm-6",
+            "div" : {
+              "@class" : "footerTalk",
+              "p" : {
+                "br" : "",
+                "a" : {
+                  "@href" : "tel:1-800-729-7655",
+                  "#text" : "1-800-729-7655"
+                },
+                "#text" : "Want to talk?"
+              }
+            }
+          },
+
+          {
+            "@class" : "col-sm-6",
+            "div" : {
+              "@class" : "socialFooter",
+              "ul" : {
+                "li" : [
+                {
+                  "a" : {
+                    "@href" : "https://twitter.com/ceridian",
+                    "@target" : "_blank",
+                    "span" : {
+                      "@class" : "fa fa-twitter",
+                      "@aria-hidden" : "true"
+                    }
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@href" : "https://www.facebook.com/Ceridian/",
+                    "@target" : "_blank",
+                    "span" : {
+                      "@class" : "fa fa-facebook",
+                      "@aria-hidden" : "true"
+                    }
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@href" : "https://www.linkedin.com/company/ceridian/",
+                    "@target" : "_blank",
+                    "span" : {
+                      "@class" : "fa fa-linkedin",
+                      "@aria-hidden" : "true"
+                    }
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@href" : "https://www.youtube.com/user/ceridian",
+                    "@target" : "_blank",
+                    "span" : {
+                      "@class" : "fa fa-youtube-play",
+                      "@aria-hidden" : "true"
+                    }
+                  }
+                }]
+              }
+            }
+          }]
+        }
+      }]
+    },
+
+    {
+      "@class" : "bottomFooter",
+      "div" : {
+        "@class" : "container",
+        "div" : {
+          "@class" : "row",
+          "div" : {
+            "@class" : "col-xs-12",
+            "span" : {
+              "@class" : "cpright",
+              "#text" : "© Ceridian HCM, Inc. All Rights Reserved."
+            },
+            "nav" : {
+              "@aria-label" : "Desktop footer secondary menu",
+              "@class" : "footer-secondary",
+              "ul" : {
+                "@class" : "legal",
+                "li" : [
+                {
+                  "a" : {
+                    "@href" : "/privacy",
+                    "@target" : "_blank",
+                    "#text" : "Privacy"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@href" : "https://www.ceridian.com/terms",
+                    "@target" : "_blank",
+                    "#text" : "Terms"
+                  }
+                },
+
+                {
+                  "a" : {
+                    "@href" : "/privacy/cookie-notice",
+                    "@target" : "_blank",
+                    "#text" : "Cookie Notice"
+                  }
+                }]
+              }
+            },
+            "div" : {
+              "@class" : "bottom-footer-right",
+              "div" : {
+                "@class" : "country-flags",
+                "div" : {
+                  "@class" : "country-menu",
+                  "ul" : {
+                    "@class" : "submenu",
+                    "li" : [
+                    {
+                      "@id" : "us",
+                      "a" : {
+                        "@rel" : "nofollow",
+                        "@href" : "/",
+                        "#text" : "United States"
+                      }
+                    },
+
+                    {
+                      "@id" : "ca",
+                      "a" : {
+                        "@rel" : "nofollow",
+                        "@href" : "/ca/",
+                        "#text" : "Canada (English)"
+                      }
+                    },
+
+                    {
+                      "@id" : "fr",
+                      "a" : {
+                        "@rel" : "nofollow",
+                        "@href" : "/fr/",
+                        "#text" : "Canada (Français)"
+                      }
+                    },
+
+                    {
+                      "@id" : "uk",
+                      "a" : {
+                        "@rel" : "nofollow",
+                        "@href" : "/uk/",
+                        "#text" : "UK / Ireland"
+                      }
+                    },
+
+                    {
+                      "@id" : "de",
+                      "a" : {
+                        "@rel" : "nofollow",
+                        "@href" : "/de/",
+                        "#text" : "Deutschland (Deutsch)"
+                      }
+                    },
+
+                    {
+                      "@id" : "au",
+                      "a" : {
+                        "@rel" : "nofollow",
+                        "@href" : "/au/",
+                        "#text" : "Australia / NZ"
+                      }
+                    },
+
+                    {
+                      "@id" : "asia",
+                      "a" : {
+                        "@rel" : "nofollow",
+                        "@href" : "/asia",
+                        "#text" : "Asia (English)"
+                      }
+                    },
+
+                    {
+                      "@id" : "mu",
+                      "a" : {
+                        "@rel" : "nofollow",
+                        "@href" : "/mu/",
+                        "#text" : "Mauritius"
+                      }
+                    }]
+                  },
+                  "div" : {
+                    "@class" : "country-link",
+                    "#text" : "United States"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }],
+    "div" : {
+      "@class" : "search-section",
+      "div" : [
+      {
+        "@class" : "search-header",
+        "div" : {
+          "@class" : "container",
+          "div" : {
+            "@class" : "col-sm-12",
+            "input" : {
+              "@type" : "text",
+              "@class" : "st-default-search-input",
+              "@placeholder" : "Search here"
+            },
+            "div" : {
+              "@class" : "search-close",
+              "#text" : "×"
+            }
+          }
+        }
+      },
+
+      {
+        "@class" : "search-ui-container",
+        "div" : {
+          "@class" : "container",
+          "div" : {
+            "@class" : "col-sm-12",
+            "div" : {
+              "@class" : "st-search-container",
+              "div" : {
+                "@class" : "search-zero-state",
+                "#text" : "Find anything about our product, search our documentation, and more. Enter a query in the search input above, and results will be displayed as you type."
+              }
+            }
+          }
+        }
+      }]
+    }
+  }
+}
