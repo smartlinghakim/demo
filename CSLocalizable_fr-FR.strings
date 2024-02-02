@@ -1,0 +1,25 @@
+AX.Loading = "Chargement";
+AX.Loaded = "Chargé";
+
+appSettingsTitle = "Paramètres de l'application";
+appearanceHeader = "Apparence";
+automatic = "Automatique";
+light = "Toujours léger";
+dark = "Toujours sombre";
+
+multitaskingHeader = "Multitâche";
+multitaskingTitle = "Autoriser le multitâche";
+multitaskingSubtitle = "Passez à une autre application et revenez sans avoir à vous reconnecter. Le délai d'expiration de la session s'applique toujours.";
+
+startScreenHeader = "Écran de démarrage";
+startScreenMarketsTitle = "Commencez sur Markets NSLocalizedString (@ \" Nom d'utilisateur \", nil)";
+startScreenMarketsSubtitle = "Démarrez sur Markets lorsque vous ouvrez cette application (au lieu de l'écran de connexion).";
+startScreenWatchlistTitle = "Commencez sur la liste de surveillance";
+startScreenWatchlistSubtitle = "Commencez sur Watchlist lorsque vous ouvrez cette application.";
+startScreenAccountsTitle = "Commencez par les comptes";
+
+streamingToggleHeader = "Diffusion";
+streamingToggleTitle = "Citations en streaming";
+streamingToggleSubtitle = "Lorsque le streaming est activé, les devis peuvent être actualisés toutes les secondes pour de nombreuses fonctionnalités de l'application. Si cette option est désactivée, le streaming sera désactivé sur toutes les fonctionnalités de l'application mobile.";
+
+textField.placeholder = NSLocalizedString(@"Username", nil);
